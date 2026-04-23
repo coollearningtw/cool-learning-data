@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { 
+            font-family: "Noto Sans TC", sans-serif; 
+            line-height: 1.8; 
+            color: #334155; 
+            padding: 30px; 
+            margin: 0; 
+            background-color: #ffffff;
+        }
+
+        h2 { 
+            color: #0f172a; 
+            display: flex; 
+            align-items: center; 
+            gap: 12px; 
+            font-size: 1.5rem; 
+            margin-top: 0; 
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 15px;
+            font-weight: 900;
+        }
+
+        h2 svg { 
+            width: 28px !important; 
+            height: 28px !important; 
+            flex-shrink: 0;
+            fill: #0b76d1;
+        }
+
+        .version-item {
+            position: relative;
+            padding-left: 30px;
+            margin: 30px 0 40px;
+            border-left: 3px solid #0b76d1;
+        }
+
+        .version-item::before {
+            content: '';
+            position: absolute;
+            left: -11px;
+            top: 5px;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #fff;
+            border: 3px solid #0b76d1;
+        }
+
+        .v-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 15px;
+        }
+
+        .v-number {
+            font-size: 1.6rem;
+            font-weight: 900;
+            color: #0b76d1;
+        }
+
+        .tag {
+            font-size: 0.8rem;
+            padding: 4px 10px;
+            border-radius: 6px;
+            font-weight: bold;
+            background: #0f172a;
+            color: #fff;
+            letter-spacing: 1px;
+        }
+
+        .v-date {
+            font-size: 1rem;
+            color: #64748b;
+            font-weight: 500;
+        }
+
+        .v-body {
+            background: #fdfdfe;
+            padding: 25px 30px;
+            border-radius: 12px;
+            border: 1px solid #e2e8f0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.03);
+        }
+
+        .v-section-title {
+            font-weight: 800;
+            color: #0f172a;
+            margin: 25px 0 10px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 1.1rem;
+        }
+
+        .v-section-title svg {
+            width: 20px !important;
+            height: 20px !important;
+            fill: #0b76d1;
+            flex-shrink: 0;
+        }
+
+        .content-text {
+            font-size: 1rem;
+            color: #475569;
+            white-space: pre-wrap;
+            margin-bottom: 15px;
+        }
+
+        /* 模擬 Markdown 螢光筆效果 */
+        .highlight {
+            background-color: #fff3cd;
+            padding: 0 4px;
+            border-radius: 4px;
+            color: #1e293b;
+            font-weight: bold;
+        }
+
+        .official-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .official-list li {
+            margin-bottom: 12px;
+            padding-left: 18px;
+            position: relative;
+        }
+
+        .official-list li::before {
+            content: "．";
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+        }
+
+        .sub-group {
+            margin-top: 8px;
+            padding-left: 20px;
+            border-left: 1px dashed #cbd5e1;
+            color: #64748b;
+        }
+
+        .footer-note {
+            margin-top: 25px;
+            padding-top: 15px;
+            border-top: 1px solid #f1f5f9;
+            font-size: 0.9rem;
+            color: #64748b;
+        }
+    </style>
+</head>
+<body>
+    <h2>
+        <svg viewBox="0 0 24 24"><path d="M13 3H6c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V9l-7-7zm0 1.5L18.5 10H13V4.5zM6 19.5v-15h6v6h6v9H6z"/></svg>
+        系統更新日誌 (Changelog)
+    </h2>
+
+    <div class="version-item">
+        <div class="v-header">
+            <span class="v-number">v1.0.0</span>
+            <span class="tag">正式發布版本</span>
+            <span class="v-date">2026-04-21</span>
+        </div>
+        <div class="v-body">
+            <div class="content-text">此版本為系統的第一個正式版本，全面整合了國、英雙科學習資源與各項功能模組：</div>
+
+            <span class="v-section-title">
+                <svg viewBox="0 0 24 24"><path d="M12 2L4.5 20.29l.71.71L12 18l6.79 3 .71-.71z"/></svg>
+                核心系統功能
+            </span>
+            <ul class="official-list">
+                <li><strong>正式啟用學科模組</strong>：
+國文與英文科目正式啟用，使用者可以透過模組化選單管理學習內容，系統提供課本註釋、課文閱讀、翻譯比對等整合功能。</li>
+                <li><strong>翻譯測驗與回報系統</strong>：
+內建翻譯測驗模組，提供即時核對與學習反饋；並於首頁提供回報系統，支援使用者回報問題或提供建議。</li>
+                <li><strong>學習輔助工具</strong>：
+新增使用指南功能，協助使用者了解系統操作；並保留簽到功能，方便紀錄累積學習天數。</li>
+            </ul>
+
+            <span class="v-section-title">
+                <svg viewBox="0 0 24 24"><path d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3z"/></svg>
+                學科功能詳細說明
+            </span>
+            <ul class="official-list">
+                <li><strong>書架與管理</strong>：支援將所需課程進行分類管理，方便使用者快速查找需要的單元。</li>
+                <li><strong>單字與註釋</strong>：提供英文單字發音、詞性及國文課文註釋背誦，支援最愛功能與常錯單字查看。</li>
+                <li><strong>內容與提取</strong>：包含課文標題、內容及圖資，並提供提取功能測試使用者對重要詞彙的記憶度。</li>
+                <li><strong>測驗與反饋</strong>：對所學內容進行綜合測試，幫助檢測學習成果並提供相應的反饋建議。</li>
+            </ul>
+
+            <span class="v-section-title">
+                <svg viewBox="0 0 24 24"><path d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-1 9H9V9h10v2zm-4 4H9v-2h6v2zm4-8H9V5h10v2z"/></svg>
+                本版本收錄內容
+            </span>
+            <ul class="official-list">
+                <li><strong>𒊹 國文科目</strong>
+                    <div class="sub-group">．新增 龍騰S2 | <span class="highlight">唐宋詩選 ㈠石壕吏</span></div>
+                </li>
+                <li><strong>𒊹 英文科目</strong>
+                    <div class="sub-group">
+                        ．新增 龍騰S2 | <span class="highlight">第一課</span><br>
+                        ．新增 龍騰S2 | <span class="highlight">第四課</span><br>
+                        ．新增 字彙字識+ L3&4 | <span class="highlight">4-1</span> / <span class="highlight">4-2</span> / <span class="highlight">4-3</span> / <span class="highlight">5</span>
+                    </div>
+                </li>
+            </ul>
+
+            <div class="footer-note">
+                ※ 詳細功能介紹請點擊使用指南側邊選單查看。<br>
+                ※ 內容勘誤或建議請利用系統回報按鈕。
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
