@@ -1175,7 +1175,7 @@
             },
             {
               "word": "staff",
-              "pos": "n. [U][C]",
+              "pos": "n. [C][U]",
               "chinese": "全體員工"
             },
             {
@@ -1497,7 +1497,7 @@
             },
             {
               "word": "description",
-              "pos": "n. [C, U]",
+              "pos": "n. [C][U]",
               "chinese": "描述"
             },
             {
@@ -1537,7 +1537,7 @@
             },
             {
               "word": "rage",
-              "pos": "n. [C, U]",
+              "pos": "n. [C][U]",
               "chinese": "暴怒；狂怒"
             },
             {
@@ -1557,7 +1557,7 @@
             },
             {
               "word": "explanation",
-              "pos": "n. [C, U]",
+              "pos": "n. [C][U]",
               "chinese": "解釋"
             },
             {
@@ -1597,7 +1597,7 @@
             },
             {
               "word": "trace",
-              "pos": "n. [C, U]",
+              "pos": "n. [C][U]",
               "chinese": "痕跡"
             },
             {
@@ -1617,7 +1617,7 @@
             },
             {
               "word": "regret",
-              "pos": "n. [U, C]",
+              "pos": "n. [U][C]",
               "chinese": "懊悔；遺憾"
             },
             {
@@ -1887,6 +1887,123 @@
               "chinese": "呼籲"
             }
           ]
+        },
+        {
+          "lesson": 5,
+          "title": "第五課",
+          "vocabulary": [
+            {
+              "word": "dara",
+              "pos": "vi.",
+              "chinese": "敢"
+            },
+            {
+              "word": "entertain",
+              "pos": "vt.",
+              "chinese": "娛樂"
+            },
+            {
+              "word": "imaginative",
+              "pos": "adj.",
+              "chinese": "有想像力的"
+            },
+            {
+              "word": "consistently",
+              "pos": "adv.",
+              "chinese": "持續地"
+            },
+            {
+              "word": "convey",
+              "pos": "vt.",
+              "chinese": "傳達"
+            },
+            {
+              "word": "parade",
+              "pos": "n. [C]",
+              "chinese": "遊行"
+            },
+            {
+              "word": "request",
+              "pos": "n. [C]",
+              "chinese": "要求"
+            },
+            {
+              "word": "extreme",
+              "pos": "adj.",
+              "chinese": "極端的"
+            },
+            {
+              "word": "achieve",
+              "pos": "vt.",
+              "chinese": "達成"
+            },
+            {
+              "word": "passion",
+              "pos": "n. [C][U]",
+              "chinese": "熱愛；熱情"
+            },
+            {
+              "word": "hardship",
+              "pos": "n. [C][U]",
+              "chinese": "艱難"
+            },
+            {
+              "word": "poverty",
+              "pos": "n. [U]",
+              "chinese": "貧窮"
+            },
+            {
+              "word": "rescue",
+              "pos": "vt.",
+              "chinese": "解救"
+            },
+            {
+              "word": "career",
+              "pos": "n. [C]",
+              "chinese": "事業"
+            },
+            {
+              "word": "weave",
+              "pos": "vt. vi.",
+              "chinese": "編織"
+            },
+            {
+              "word": "deliver",
+              "pos": "vt.",
+              "chinese": "傳達；表達"
+            },
+            {
+              "word": "disadvantage",
+              "pos": "n. [C]",
+              "chinese": "劣勢；不利條件"
+            },
+            {
+              "word": "overcome",
+              "pos": "vt.",
+              "chinese": "克服"
+            },
+            {
+              "word": "attitude",
+              "pos": "n. [C]",
+              "chinese": "態度"
+            },
+            {
+              "word": "challenge",
+              "pos": "n. [C]",
+              "chinese": "挑戰"
+            },
+            {
+              "word": "obstacle",
+              "pos": "n. [C]",
+              "chinese": "障礙"
+            },
+            {
+              "word": "fullfill",
+              "pos": "vt.",
+              "chinese": "實現"
+            }
+          ],
+          "sentences": []
         }
       ]
     },
