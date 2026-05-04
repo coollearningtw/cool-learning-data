@@ -1903,9 +1903,29 @@
               "chinese": "娛樂"
             },
             {
+              "word": "entertainment",
+              "pos": "n. [U]",
+              "chinese": "娛樂"
+            },
+            {
               "word": "imaginative",
               "pos": "adj.",
               "chinese": "有想像力的"
+            },
+            {
+              "word": "imagine",
+              "pos": "vt.",
+              "chinese": "想像"
+            },
+            {
+              "word": "imagination",
+              "pos": "n. [C][U]",
+              "chinese": "想像力；想像"
+            },
+            {
+              "word": "imaginary",
+              "pos": "adj.",
+              "chinese": "想像的"
             },
             {
               "word": "consistently",
@@ -1928,6 +1948,11 @@
               "chinese": "要求"
             },
             {
+              "word": "request",
+              "pos": "vt.",
+              "chinese": "要求"
+            },
+            {
               "word": "extreme",
               "pos": "adj.",
               "chinese": "極端的"
@@ -1938,9 +1963,19 @@
               "chinese": "達成"
             },
             {
+              "word": "achievement",
+              "pos": "n. [C][U]",
+              "chinese": "成就"
+            },
+            {
               "word": "passion",
               "pos": "n. [C][U]",
               "chinese": "熱愛；熱情"
+            },
+            {
+              "word": "passionate",
+              "pos": "adj.",
+              "chinese": "熱情的"
             },
             {
               "word": "hardship",
@@ -1958,6 +1993,11 @@
               "chinese": "解救"
             },
             {
+              "word": "rescue",
+              "pos": "n. [U]",
+              "chinese": "救援"
+            },
+            {
               "word": "career",
               "pos": "n. [C]",
               "chinese": "事業"
@@ -1971,6 +2011,16 @@
               "word": "deliver",
               "pos": "vt.",
               "chinese": "傳達；表達"
+            },
+            {
+              "word": "deliver",
+              "pos": "vt.",
+              "chinese": "遞送"
+            },
+            {
+              "word": "delivery",
+              "pos": "n. [C][U]",
+              "chinese": "遞送"
             },
             {
               "word": "disadvantage",
@@ -1993,6 +2043,11 @@
               "chinese": "挑戰"
             },
             {
+              "word": "challenge",
+              "pos": "vt.",
+              "chinese": "質疑"
+            },
+            {
               "word": "obstacle",
               "pos": "n. [C]",
               "chinese": "障礙"
@@ -2001,6 +2056,238 @@
               "word": "fullfill",
               "pos": "vt.",
               "chinese": "實現"
+            },
+            {
+              "word": "in addition to",
+              "pos": "phr.",
+              "chinese": "除了……之外"
+            },
+            {
+              "word": "for instance",
+              "pos": "phr.",
+              "chinese": "例如"
+            },
+            {
+              "word": "even since",
+              "pos": "phr.",
+              "chinese": "從那時起"
+            },
+            {
+              "word": "in other words",
+              "pos": "phr.",
+              "chinese": "換句話說"
+            },
+            {
+              "word": "meet with",
+              "pos": "phr.",
+              "chinese": "遭遇到"
+            },
+            {
+              "word": "spring into action",
+              "pos": "phr.",
+              "chinese": "立即行動"
+            },
+            {
+              "word": "inturn",
+              "pos": "phr.",
+              "chinese": "⑴ 繼而 ⑵依序"
+            }
+          ],
+          "sentences": []
+        },
+        {
+          "lesson": 6,
+          "title": "第六課",
+          "vocabulary": [
+            {
+              "word": "awful",
+              "pos": "adj.",
+              "chinese": "糟糕的"
+            },
+            {
+              "word": "stare",
+              "pos": "n.",
+              "chinese": "盯著看"
+            },
+            {
+              "word": "stare",
+              "pos": "vi.",
+              "chinese": "盯著看"
+            },
+            {
+              "word": "whisper",
+              "pos": "n. [C]",
+              "chinese": "耳語"
+            },
+            {
+              "word": "whisper",
+              "pos": "vt. vi.",
+              "chinese": "小聲說話"
+            },
+            {
+              "word": "tease",
+              "pos": "vt.",
+              "chinese": "嘲弄；取笑"
+            },
+            {
+              "word": "purposely",
+              "pos": "adv.",
+              "chinese": "故意地；蓄意地"
+            },
+            {
+              "word": "purpose",
+              "pos": "n. [C]",
+              "chinese": "目的"
+            },
+            {
+              "word": "scary",
+              "pos": "adj.",
+              "chinese": "可怕的"
+            },
+            {
+              "word": "scare",
+              "pos": "vt.",
+              "chinese": "使人害怕"
+            },
+            {
+              "word": "overhear",
+              "pos": "vt.",
+              "chinese": "無意中聽到"
+            },
+            {
+              "word": "incident",
+              "pos": " n. [C]",
+              "chinese": "事件"
+            },
+            {
+              "word": "cruel",
+              "pos": "adj.",
+              "chinese": "殘忍的"
+            },
+            {
+              "word": "cruelty",
+              "pos": "n. [U]",
+              "chinese": "殘忍"
+            },
+            {
+              "word": "pretent",
+              "pos": "vt. vi.",
+              "chinese": "假裝"
+            },
+            {
+              "word": "genuinely",
+              "pos": "adv.",
+              "chinese": "真誠地；真正地"
+            },
+            {
+              "word": "genuine",
+              "pos": "adj.",
+              "chinese": "真正的"
+            },
+            {
+              "word": "apologize",
+              "pos": "vi.",
+              "chinese": "道歉"
+            },
+            {
+              "word": "apology",
+              "pos": "n. [C][U]",
+              "chinese": "道歉"
+            },
+            {
+              "word": "gradually",
+              "pos": "adv.",
+              "chinese": "逐漸地"
+            },
+            {
+              "word": "gradual",
+              "pos": "adj.",
+              "chinese": "逐漸的"
+            },
+            {
+              "word": "approach",
+              "pos": "vi. vt.",
+              "chinese": "接近"
+            },
+            {
+              "word": "approach",
+              "pos": "n.sing.",
+              "chinese": "接近"
+            },
+            {
+              "word": "absolutely",
+              "pos": "adv.",
+              "chinese": "非常地；完全地"
+            },
+            {
+              "word": "absolute",
+              "pos": "adj.",
+              "chinese": "明確的，無疑的"
+            },
+            {
+              "word": "defend",
+              "pos": "vt.",
+              "chinese": "保護；防禦"
+            },
+            {
+              "word": "defense",
+              "pos": "n. [U]",
+              "chinese": "防禦；辯護"
+            },
+            {
+              "word": "bully",
+              "pos": "n. [C]",
+              "chinese": "霸凌者"
+            },
+            {
+              "word": "bully",
+              "pos": "vt.",
+              "chinese": "霸凌"
+            },
+            {
+              "word": "ceremony",
+              "pos": "n. [C]",
+              "chinese": "典禮"
+            },
+            {
+              "word": "fit in",
+              "pos": "phr.",
+              "chinese": "融入（環境、團體等）"
+            },
+            {
+              "word": "around the corner",
+              "pos": "phr.",
+              "chinese": "即將到來"
+            },
+            {
+              "word": "sick to one's stomach",
+              "pos": "phr.",
+              "chinese": "非常難過"
+            },
+            {
+              "word": "make peace",
+              "pos": "phr.",
+              "chinese": "和好"
+            },
+            {
+              "word": "make fun of",
+              "pos": "phr.",
+              "chinese": "嘲笑；揶揄"
+            },
+            {
+              "word": "at least",
+              "pos": "phr.",
+              "chinese": "至少"
+            },
+            {
+              "word": "apart from",
+              "pos": "phr.",
+              "chinese": "除了……之外"
+            },
+            {
+              "word": "...not...anymore",
+              "pos": "phr.",
+              "chinese": "再也沒有；不再"
             }
           ],
           "sentences": []
