@@ -1665,6 +1665,9 @@
         {
           "lesson": 4,
           "title": "第四課",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
           "vocabulary": [
             {
               "word": "female",
@@ -1891,6 +1894,9 @@
         {
           "lesson": 5,
           "title": "第五課",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
           "vocabulary": [
             {
               "word": "dare",
@@ -2098,6 +2104,9 @@
         {
           "lesson": 6,
           "title": "第六課",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
           "vocabulary": [
             {
               "word": "awful",
@@ -4430,6 +4439,9 @@
         {
           "lesson": 61,
           "title": "6-1",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
           "vocabulary": [
             {
               "word": "admirable",
@@ -4667,6 +4679,9 @@
         {
           "lesson": 62,
           "title": "6-2",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
           "vocabulary": [
             {
               "word": "dislike",
@@ -4899,6 +4914,9 @@
         {
           "lesson": 63,
           "title": "6-3",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
           "vocabulary": [
             {
               "word": "insult",
