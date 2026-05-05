@@ -6,6 +6,9 @@
         {
           "lesson": "61",
           "title": "唐宋詩選\n㈠石壕吏",
+          "status": "New",
+          "statusColor": "yellow",
+          "enabled": true,
           "annotations": [
             {
               "id": "1",
@@ -157,6 +160,9 @@
         {
           "lesson": "62",
           "title": "唐宋詩選\n㈡寄黃幾復",
+          "status": "New",
+          "statusColor": "yellow",
+          "enabled": true,
           "annotations": [
             {
               "id": "1",
@@ -215,6 +221,15 @@
               "translation": "　　料想您一定在發憤讀書，以致頭髮早白，\n　　陪著您的是隔溪瘴氣瀰漫中傳來攀藤的猿猴悲叫聲。"
             }
           ]
+        },
+        {
+          "lesson": 50,
+          "title": "丁挽",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": false,
+          "annotations": [],
+          "content": []
         }
       ]
     }
