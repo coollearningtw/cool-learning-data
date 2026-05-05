@@ -808,6 +808,33 @@
               "translation": "　　料想您一定在發憤讀書，以致頭髮早白，\n　　陪著您的是隔溪瘴氣瀰漫中傳來攀藤的猿猴悲叫聲。"
             }
           ]
+        },
+        {
+          "lesson": 70,
+          "title": "一桿｢稱仔｣",
+          "status": "即將上架",
+          "statusColor": "yellow",
+          "enabled": false,
+          "annotations": [],
+          "content": []
+        },
+        {
+          "lesson": 81,
+          "title": "台灣女性古典詩文選\n㈠菊花自序",
+          "status": "",
+          "statusColor": "yellow",
+          "enabled": false,
+          "annotations": [],
+          "content": []
+        },
+        {
+          "lesson": 82,
+          "title": "台灣女性古典詩文選\n㈡女學生",
+          "status": "",
+          "statusColor": "yellow",
+          "enabled": false,
+          "annotations": [],
+          "content": []
         }
       ]
     }
