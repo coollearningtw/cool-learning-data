@@ -1086,7 +1086,7 @@
       "lessons": [
         {
           "lesson": 1,
-          "title": "第一課",
+          "title": "Unit 1",
           "vocabulary": [
             {
               "word": "champion",
@@ -1282,7 +1282,7 @@
         },
         {
           "lesson": 2,
-          "title": "第二課",
+          "title": "Unit 2",
           "vocabulary": [
             {
               "word": "warn",
@@ -1458,7 +1458,7 @@
         },
         {
           "lesson": 3,
-          "title": "第三課",
+          "title": "Unit 3",
           "vocabulary": [
             {
               "word": "grace",
@@ -1664,7 +1664,7 @@
         },
         {
           "lesson": 4,
-          "title": "第四課",
+          "title": "Unit 4",
           "vocabulary": [
             {
               "word": "female",
@@ -1890,7 +1890,7 @@
         },
         {
           "lesson": 5,
-          "title": "第五課",
+          "title": "Unit 5",
           "vocabulary": [
             {
               "word": "dare",
@@ -2097,7 +2097,7 @@
         },
         {
           "lesson": 6,
-          "title": "第六課",
+          "title": "Unit 6",
           "vocabulary": [
             {
               "word": "awful",
@@ -2288,6 +2288,198 @@
               "word": "...not...anymore",
               "pos": "phr.",
               "chinese": "再也沒有；不再"
+            }
+          ],
+          "sentences": []
+        },
+        {
+          "lesson": "6.5",
+          "title": "Review 2",
+          "vocabulary": [
+            {
+              "word": "gain",
+              "pos": "vt.",
+              "chinese": "獲得"
+            },
+            {
+              "word": "system",
+              "pos": "n. [C]",
+              "chinese": "方法；制度"
+            },
+            {
+              "word": "system",
+              "pos": "n. [C]",
+              "chinese": "系統"
+            },
+            {
+              "word": "technique",
+              "pos": "n. [C]",
+              "chinese": "技術"
+            },
+            {
+              "word": "propose",
+              "pos": "vt.",
+              "chinese": "提議"
+            },
+            {
+              "word": "propose",
+              "pos": "vi.",
+              "chinese": "向……求婚"
+            },
+            {
+              "word": "proposal",
+              "pos": "n. [C]",
+              "chinese": "提議"
+            },
+            {
+              "word": "proposal",
+              "pos": "n. [C]",
+              "chinese": "求婚"
+            },
+            {
+              "word": "professor",
+              "pos": "n. [C]",
+              "chinese": "教授"
+            },
+            {
+              "word": "require",
+              "pos": "vt.",
+              "chinese": "需要"
+            },
+            {
+              "word": "require",
+              "pos": "vt.",
+              "chinese": "要求；規定"
+            },
+            {
+              "word": "requirement",
+              "pos": "n. [C]",
+              "chinese": "必要條件"
+            },
+            {
+              "word": "summary",
+              "pos": "n. [C]",
+              "chinese": "摘要"
+            },
+            {
+              "word": "summarize",
+              "pos": "vt.",
+              "chinese": "做摘要"
+            },
+            {
+              "word": "column",
+              "pos": "n. [C]",
+              "chinese": "（頁面上的）欄"
+            },
+            {
+              "word": "column",
+              "pos": "n. [C]",
+              "chinese": "專欄"
+            },
+            {
+              "word": "information",
+              "pos": "n. [U]",
+              "chinese": "資訊"
+            },
+            {
+              "word": "abbreviation",
+              "pos": "n. [C]",
+              "chinese": "縮寫"
+            },
+            {
+              "word": "blank",
+              "pos": "adj.",
+              "chinese": "空白的"
+            },
+            {
+              "word": "reserve",
+              "pos": "vt.",
+              "chinese": "保留"
+            },
+            {
+              "word": "reserve",
+              "pos": "vt.",
+              "chinese": "預定"
+            },
+            {
+              "word": "reservation",
+              "pos": "n. [C]",
+              "chinese": "預定"
+            },
+            {
+              "word": "recite",
+              "pos": "vt.",
+              "chinese": "背誦"
+            },
+            {
+              "word": "guide",
+              "pos": "n. [C]",
+              "chinese": "指引的事物"
+            },
+            {
+              "word": "guide",
+              "pos": "vt.",
+              "chinese": "引導"
+            },
+            {
+              "word": "involve",
+              "pos": "vt.",
+              "chinese": "包含"
+            },
+            {
+              "word": "review",
+              "pos": "vt.",
+              "chinese": "複習"
+            },
+            {
+              "word": "review",
+              "pos": "n. [C]",
+              "chinese": "複習"
+            },
+            {
+              "word": "review",
+              "pos": "n. [C]",
+              "chinese": "（對書籍、電影的）評論"
+            },
+            {
+              "word": "frequent",
+              "pos": "adj.",
+              "chinese": "頻繁的"
+            },
+            {
+              "word": "frequency",
+              "pos": "n. [U]",
+              "chinese": "頻率"
+            },
+            {
+              "word": "process",
+              "pos": "vt.",
+              "chinese": "處理（資訊、資料等）"
+            },
+            {
+              "word": "process",
+              "pos": "n. [C]",
+              "chinese": "過程"
+            },
+            {
+              "word": "break...up",
+              "pos": "phr.",
+              "chinese": "分開"
+            },
+            {
+              "word": "fill in",
+              "pos": "phr.",
+              "chinese": "填寫"
+            },
+            {
+              "word": "on a/an...basis",
+              "pos": "phr.",
+              "chinese": "每……（日、週、年等）"
+            },
+            {
+              "word": "make use of",
+              "pos": "phr.",
+              "chinese": "利用"
             }
           ],
           "sentences": []
