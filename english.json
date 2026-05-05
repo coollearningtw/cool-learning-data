@@ -5087,6 +5087,243 @@
             }
           ],
           "sentences": []
+        },
+        {
+          "lesson": 63,
+          "title": "6-3",
+          "vocabulary": [
+            {
+              "word": "insult",
+              "pos": "vt.",
+              "chinese": "侮辱"
+            },
+            {
+              "word": "intuition",
+              "pos": "n. [U]",
+              "chinese": "直覺；直覺感知"
+            },
+            {
+              "word": "jealous",
+              "pos": "adj.",
+              "chinese": "嫉妒的；猜忌的"
+            },
+            {
+              "word": "jealousy",
+              "pos": "n. [C][U]",
+              "chinese": "嫉妒；猜忌"
+            },
+            {
+              "word": "joyful",
+              "pos": "adj.",
+              "chinese": "喜悅的"
+            },
+            {
+              "word": "laughter",
+              "pos": "n. [U]",
+              "chinese": "笑（聲）"
+            },
+            {
+              "word": "leisurely",
+              "pos": "adj.",
+              "chinese": "悠閒的；從容的"
+            },
+            {
+              "word": "lousy",
+              "pos": "adj.",
+              "chinese": "糟糕的"
+            },
+            {
+              "word": "mercy",
+              "pos": "n. [U]",
+              "chinese": "仁慈；憐憫"
+            },
+            {
+              "word": "merry",
+              "pos": "adj.",
+              "chinese": "歡樂的"
+            },
+            {
+              "word": "mischief",
+              "pos": "n. [U]",
+              "chinese": "胡鬧；頑皮"
+            },
+            {
+              "word": "mislead",
+              "pos": "vt.",
+              "chinese": "誤導；欺騙"
+            },
+            {
+              "word": "misunderstand",
+              "pos": "vt.",
+              "chinese": "誤解"
+            },
+            {
+              "word": "neglect",
+              "pos": "vt.",
+              "chinese": "疏忽；忽視"
+            },
+            {
+              "word": "offend",
+              "pos": "vt.",
+              "chinese": "激怒；冒犯；得罪"
+            },
+            {
+              "word": "offense",
+              "pos": "n. [C]",
+              "chinese": "違規；犯法（行為）"
+            },
+            {
+              "word": "offensive",
+              "pos": "adj.",
+              "chinese": "討厭的；冒犯人的"
+            },
+            {
+              "word": "panic",
+              "pos": "n. [C][U]",
+              "chinese": "恐慌"
+            },
+            {
+              "word": "passion",
+              "pos": "n. [C][U]",
+              "chinese": "激情；熱情"
+            },
+            {
+              "word": "pessimistic",
+              "pos": "adj.",
+              "chinese": "悲觀的"
+            },
+            {
+              "word": "pity",
+              "pos": "n. [U]",
+              "chinese": "憐憫；同情"
+            },
+            {
+              "word": "rage",
+              "pos": "n. [C][U]",
+              "chinese": "盛怒；暴怒"
+            },
+            {
+              "word": "regret",
+              "pos": "vt.",
+              "chinese": "後悔"
+            },
+            {
+              "word": "relieve",
+              "pos": "vt.",
+              "chinese": "減輕；解除"
+            },
+            {
+              "word": "reluctant",
+              "pos": "adj.",
+              "chinese": "不情願的"
+            },
+            {
+              "word": "satisfaction",
+              "pos": "n. [C][U]",
+              "chinese": "滿足；滿意"
+            },
+            {
+              "word": "scary",
+              "pos": "adj.",
+              "chinese": "可怕的"
+            },
+            {
+              "word": "shameful",
+              "pos": "adj.",
+              "chinese": "可恥的"
+            },
+            {
+              "word": "sincerity",
+              "pos": "n. [U]",
+              "chinese": "誠意"
+            },
+            {
+              "word": "sorrow",
+              "pos": "n. [C][U]",
+              "chinese": "悲傷（的事）"
+            },
+            {
+              "word": "suffer",
+              "pos": "vt. vi.",
+              "chinese": "蒙受痛苦；遭受"
+            },
+            {
+              "word": "suspect",
+              "pos": "vt.",
+              "chinese": "懷疑"
+            },
+            {
+              "word": "suspicion",
+              "pos": "n. [C][U]",
+              "chinese": "懷疑；涉嫌"
+            },
+            {
+              "word": "suspicious",
+              "pos": "adj.",
+              "chinese": "懷疑的"
+            },
+            {
+              "word": "sympathetic",
+              "pos": "adj.",
+              "chinese": "有同情心的；同情的"
+            },
+            {
+              "word": "sympathy",
+              "pos": "n. [U]",
+              "chinese": "同情；憐憫"
+            },
+            {
+              "word": "tense",
+              "pos": "adj.",
+              "chinese": "緊張的；（肌肉）緊繃的"
+            },
+            {
+              "word": "tension",
+              "pos": "n. [C][U]",
+              "chinese": "（情緒或關係）緊張"
+            },
+            {
+              "word": "terror",
+              "pos": "n. [C][U]",
+              "chinese": "恐怖；驚恐"
+            },
+            {
+              "word": "thankful",
+              "pos": "adj.",
+              "chinese": "感激的"
+            },
+            {
+              "word": "tolerable",
+              "pos": "adj.",
+              "chinese": "可忍受的；過得去的"
+            },
+            {
+              "word": "tolerance",
+              "pos": "n. [U]",
+              "chinese": "寬容"
+            },
+            {
+              "word": "tolerant",
+              "pos": "adj.",
+              "chinese": "寬容的"
+            },
+            {
+              "word": "tolerate",
+              "pos": "vt.",
+              "chinese": "忍受"
+            },
+            {
+              "word": "troublesome",
+              "pos": "adj.",
+              "chinese": "麻煩的；惱人的"
+            },
+            {
+              "word": "weep",
+              "pos": "vt. vi.",
+              "chinese": "哭泣；流淚"
+            }
+          ],
+          "sentences": []
         }
       ]
     },
