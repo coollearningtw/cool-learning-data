@@ -4618,6 +4618,475 @@
               "chinese": "噸"
             }
           ]
+        },
+        {
+          "lesson": 61,
+          "title": "6-1",
+          "vocabulary": [
+            {
+              "word": "admirable",
+              "pos": "adj.",
+              "chinese": "令人欽佩的"
+            },
+            {
+              "word": "admiration",
+              "pos": "n. [U]",
+              "chinese": "讚嘆；欽羨"
+            },
+            {
+              "word": "admire",
+              "pos": "vt.",
+              "chinese": "欽佩；讚賞"
+            },
+            {
+              "word": "agreeable",
+              "pos": "adj.",
+              "chinese": "令人愉快的；宜人的"
+            },
+            {
+              "word": "amaze",
+              "pos": "vt.",
+              "chinese": "使吃驚"
+            },
+            {
+              "word": "amuse",
+              "pos": "vt.",
+              "chinese": "使快樂"
+            },
+            {
+              "word": "annoy",
+              "pos": "vt.",
+              "chinese": "使困擾；使不高興"
+            },
+            {
+              "word": "anxiety",
+              "pos": "n. [C][U]",
+              "chinese": "焦慮；不安"
+            },
+            {
+              "word": "anxious",
+              "pos": "adj.",
+              "chinese": "焦慮的"
+            },
+            {
+              "word": "appeal",
+              "pos": "vt.",
+              "chinese": "懇求"
+            },
+            {
+              "word": "appreciation",
+              "pos": "n. [U]",
+              "chinese": "鑑賞"
+            },
+            {
+              "word": "approval",
+              "pos": "n. [U]",
+              "chinese": "許可；同意"
+            },
+            {
+              "word": "approve",
+              "pos": "vt. vi.",
+              "chinese": "贊成；同意"
+            },
+            {
+              "word": "ashamed",
+              "pos": "adj.",
+              "chinese": "羞愧的"
+            },
+            {
+              "word": "attitude",
+              "pos": "n. [C][U]",
+              "chinese": "態度"
+            },
+            {
+              "word": "attract",
+              "pos": "vt.",
+              "chinese": "吸引"
+            },
+            {
+              "word": "attraction",
+              "pos": "n. [U]",
+              "chinese": "吸引（力）"
+            },
+            {
+              "word": "attractive",
+              "pos": "adj.",
+              "chinese": "動人的；有吸引力的"
+            },
+            {
+              "word": "awful",
+              "pos": "adj.",
+              "chinese": "糟糕的"
+            },
+            {
+              "word": "boast",
+              "pos": "vt. vi.",
+              "chinese": "詛咒；咒語"
+            },
+            {
+              "word": "bore",
+              "pos": "vt.",
+              "chinese": "膽敢"
+            },
+            {
+              "word": "cheerful",
+              "pos": "adj.",
+              "chinese": "愉快的"
+            },
+            {
+              "word": "cherish",
+              "pos": "vt.",
+              "chinese": "珍惜"
+            },
+            {
+              "word": "comfort",
+              "pos": "vt.",
+              "chinese": "安慰"
+            },
+            {
+              "word": "complain",
+              "pos": "vi.",
+              "chinese": "抱怨；申訴"
+            },
+            {
+              "word": "complaint",
+              "pos": "n. [C][U]",
+              "chinese": "抱怨；申訴"
+            },
+            {
+              "word": "comfess",
+              "pos": "vt. vi.",
+              "chinese": "坦白；承認"
+            },
+            {
+              "word": "confuse",
+              "pos": "vt.",
+              "chinese": "使困惑"
+            },
+            {
+              "word": "confusion",
+              "pos": "n. [U]",
+              "chinese": "困惑；混亂"
+            },
+            {
+              "word": "conscience",
+              "pos": "n. [C][U]",
+              "chinese": "良心"
+            },
+            {
+              "word": "consequence",
+              "pos": "n. [C]",
+              "chinese": "影響；結果"
+            },
+            {
+              "word": "content",
+              "pos": "adj.",
+              "chinese": "滿足的；滿意的"
+            },
+            {
+              "word": "curiosity",
+              "pos": "n. [U]",
+              "chinese": "好奇心"
+            },
+            {
+              "word": "curse",
+              "pos": "n. [C]",
+              "chinese": "詛咒；咒語"
+            },
+            {
+              "word": "dare",
+              "pos": "vt. vi.",
+              "chinese": "膽敢"
+            },
+            {
+              "word": "delight",
+              "pos": "vt. vi.",
+              "chinese": "使喜悅；使快樂"
+            },
+            {
+              "word": "delightful",
+              "pos": "adj.",
+              "chinese": "愉快的；歡樂的"
+            },
+            {
+              "word": "depression",
+              "pos": "n. [C][U]",
+              "chinese": "憂鬱；沮喪"
+            },
+            {
+              "word": "desirable",
+              "pos": "adj.",
+              "chinese": "合意的；值得擁有的"
+            },
+            {
+              "word": "desire",
+              "pos": "n. [C][U]",
+              "chinese": "渴望"
+            },
+            {
+              "word": "desperate",
+              "pos": "adj.",
+              "chinese": "非常嚴重的"
+            },
+            {
+              "word": "determination",
+              "pos": "n. [U]",
+              "chinese": "決心；決意"
+            },
+            {
+              "word": "dignity",
+              "pos": "n. [U]",
+              "chinese": "尊嚴"
+            },
+            {
+              "word": "disappoint",
+              "pos": "vt.",
+              "chinese": "使失望"
+            },
+            {
+              "word": "discourage",
+              "pos": "vt.",
+              "chinese": "使沮喪"
+            },
+            {
+              "word": "disgust",
+              "pos": "vt.",
+              "chinese": "使厭惡"
+            }
+          ],
+          "sentences": []
+        },
+        {
+          "lesson": 62,
+          "title": "6-2",
+          "vocabulary": [
+            {
+              "word": "dislike",
+              "pos": "vt.",
+              "chinese": "不喜歡"
+            },
+            {
+              "word": "dizzy",
+              "pos": "adj.",
+              "chinese": "頭暈目眩"
+            },
+            {
+              "word": "dread",
+              "pos": "n. [U]",
+              "chinese": "恐懼"
+            },
+            {
+              "word": "eager",
+              "pos": "adj.",
+              "chinese": "熱切的；渴望的"
+            },
+            {
+              "word": "embarrass",
+              "pos": "vt.",
+              "chinese": "使難堪"
+            },
+            {
+              "word": "emotional",
+              "pos": "adj.",
+              "chinese": "情緒化的；激動的"
+            },
+            {
+              "word": "enjoyable",
+              "pos": "adj.",
+              "chinese": "愉快的；有趣的"
+            },
+            {
+              "word": "envy",
+              "pos": "vt.",
+              "chinese": "羨慕；嫉妒"
+            },
+            {
+              "word": "exaggerate",
+              "pos": "vt. vi.",
+              "chinese": "誇張；誇大"
+            },
+            {
+              "word": "exhaust",
+              "pos": "vt.",
+              "chinese": "使精疲力竭"
+            },
+            {
+              "word": "expectation",
+              "pos": "n. [C][U]",
+              "chinese": "預期；期望"
+            },
+            {
+              "word": "expressive",
+              "pos": "adj.",
+              "chinese": "表情生動的"
+            },
+            {
+              "word": "fantasy",
+              "pos": "n. [C][U]",
+              "chinese": "幻想；夢想"
+            },
+            {
+              "word": "fearful",
+              "pos": "adj.",
+              "chinese": "害怕的；擔心的；可怕的"
+            },
+            {
+              "word": "fond",
+              "pos": "adj.",
+              "chinese": "喜歡的；喜愛的"
+            },
+            {
+              "word": "fright",
+              "pos": "n. [C][U]",
+              "chinese": "驚嚇；恐怖"
+            },
+            {
+              "word": "frighten",
+              "pos": "vt.",
+              "chinese": "使驚恐；使害怕"
+            },
+            {
+              "word": "frustrate",
+              "pos": "vt.",
+              "chinese": "使挫折；使沮喪"
+            },
+            {
+              "word": "frustration",
+              "pos": "n. [C][U]",
+              "chinese": "挫折；沮喪"
+            },
+            {
+              "word": "furious",
+              "pos": "adj.",
+              "chinese": "憤怒的；狂怒的"
+            },
+            {
+              "word": "giggle",
+              "pos": "vi.",
+              "chinese": "咯咯地笑；傻笑"
+            },
+            {
+              "word": "glory",
+              "pos": "n. [U]",
+              "chinese": "光榮；榮譽"
+            },
+            {
+              "word": "grace",
+              "pos": "n. [U]",
+              "chinese": "優雅；斯文"
+            },
+            {
+              "word": "grateful",
+              "pos": "adj.",
+              "chinese": "感激的"
+            },
+            {
+              "word": "gratitude",
+              "pos": "n. [U]",
+              "chinese": "感激之情；謝意"
+            },
+            {
+              "word": "grief",
+              "pos": "n. [U]",
+              "chinese": "悲傷"
+            },
+            {
+              "word": "grin",
+              "pos": "vi.",
+              "chinese": "露齒而笑"
+            },
+            {
+              "word": "guilty",
+              "pos": "adj.",
+              "chinese": "有罪的"
+            },
+            {
+              "word": "harsh",
+              "pos": "adj.",
+              "chinese": "刺耳的；粗糙的"
+            },
+            {
+              "word": "hateful",
+              "pos": "adj.",
+              "chinese": "令人討厭的；可惡的"
+            },
+            {
+              "word": "hatred",
+              "pos": "n. [U]",
+              "chinese": "仇恨"
+            },
+            {
+              "word": "hesitation",
+              "pos": "n. [C][U]",
+              "chinese": "猶豫"
+            },
+            {
+              "word": "homesick",
+              "pos": "adj.",
+              "chinese": "想家的；思鄉的"
+            },
+            {
+              "word": "hopeful",
+              "pos": "adj.",
+              "chinese": "抱有希望的；充滿希望的"
+            },
+            {
+              "word": "horrible",
+              "pos": "adj.",
+              "chinese": "可怕的"
+            },
+            {
+              "word": "horrify",
+              "pos": "vt.",
+              "chinese": "驚嚇"
+            },
+            {
+              "word": "horror",
+              "pos": "n. [U]",
+              "chinese": "恐怖；驚恐"
+            },
+            {
+              "word": "hug",
+              "pos": "vt.",
+              "chinese": "擁抱"
+            },
+            {
+              "word": "humor",
+              "pos": "n. [U]",
+              "chinese": "幽默；滑稽"
+            },
+            {
+              "word": "identify",
+              "pos": "vt.",
+              "chinese": "認出；識別"
+            },
+            {
+              "word": "impress",
+              "pos": "vt.",
+              "chinese": "使印象深刻"
+            },
+            {
+              "word": "impression",
+              "pos": "n. [C]",
+              "chinese": "印象"
+            },
+            {
+              "word": "inspiration",
+              "pos": "n. [U]",
+              "chinese": "靈感"
+            },
+            {
+              "word": "inspire",
+              "pos": "vt.",
+              "chinese": "鼓舞；激發"
+            },
+            {
+              "word": "instinct",
+              "pos": "n. [C][U]",
+              "chinese": "直覺；天性；本能"
+            }
+          ],
+          "sentences": []
         }
       ]
     },
