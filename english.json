@@ -4,7 +4,7 @@
       "name": "龍騰 S1",
       "lessons": [
         {
-          "lesson": "40",
+          "lesson": 40,
           "title": "Unit 4",
           "vocabulary": [
             {
@@ -210,7 +210,7 @@
           ]
         },
         {
-          "lesson": "50",
+          "lesson": 50,
           "title": "Unit 5",
           "vocabulary": [
             {
@@ -386,7 +386,7 @@
           ]
         },
         {
-          "lesson": "60",
+          "lesson": 60,
           "title": "Unit 6",
           "vocabulary": [
             {
@@ -532,7 +532,7 @@
           ]
         },
         {
-          "lesson": "70",
+          "lesson": 70,
           "title": "Unit 7",
           "vocabulary": [
             {
@@ -708,7 +708,7 @@
           ]
         },
         {
-          "lesson": "80",
+          "lesson": 80,
           "title": "Unit 8",
           "vocabulary": [
             {
@@ -889,7 +889,7 @@
           ]
         },
         {
-          "lesson": "90",
+          "lesson": 90,
           "title": "Unit 9",
           "vocabulary": [
             {
@@ -1085,7 +1085,7 @@
       "name": "龍騰 S2",
       "lessons": [
         {
-          "lesson": "10",
+          "lesson": 10,
           "title": "Unit 1",
           "vocabulary": [
             {
@@ -1281,7 +1281,7 @@
           ]
         },
         {
-          "lesson": "20",
+          "lesson": 20,
           "title": "Unit 2",
           "vocabulary": [
             {
@@ -1457,7 +1457,7 @@
           ]
         },
         {
-          "lesson": "30",
+          "lesson": 30,
           "title": "Unit 3",
           "vocabulary": [
             {
@@ -1663,7 +1663,7 @@
           ]
         },
         {
-          "lesson": "40",
+          "lesson": 40,
           "title": "Unit 4",
           "vocabulary": [
             {
@@ -1889,7 +1889,7 @@
           ]
         },
         {
-          "lesson": "50",
+          "lesson": 50,
           "title": "Unit 5",
           "vocabulary": [
             {
@@ -2096,7 +2096,7 @@
           "sentences": []
         },
         {
-          "lesson": "60",
+          "lesson": 60,
           "title": "Unit 6",
           "vocabulary": [
             {
@@ -2293,7 +2293,7 @@
           "sentences": []
         },
         {
-          "lesson": "65",
+          "lesson": 65,
           "title": "Review 2",
           "vocabulary": [
             {
