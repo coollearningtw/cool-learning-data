@@ -106,6 +106,32 @@
               "en": "Some human rights groups called for the government to abolish the policy forbidding women from receiving education."
             }
           ]
+        },
+        {
+          "lesson": 5,
+          "title": "第五課",
+          "status": "即將上架",
+          "statusColor": "yellow",
+          "enabled": false,
+          "pairs": [
+            {
+              "ch": "",
+              "en": ""
+            }
+          ]
+        },
+        {
+          "lesson": 6,
+          "title": "第六課",
+          "status": "即將上架",
+          "statusColor": "yellow",
+          "enabled": false,
+          "pairs": [
+            {
+              "ch": "",
+              "en": ""
+            }
+          ]
         }
       ]
     }
