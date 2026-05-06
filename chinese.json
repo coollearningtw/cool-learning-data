@@ -590,7 +590,8 @@
             }
           ],
           "author": "test",
-          "authorImg": "https://raw.githubusercontent.com/coollearningtw/img/refs/heads/main/chinese/author/%E5%BB%96%E9%B4%BB%E5%9F%BA.jpg"
+          "authorImg": "https://raw.githubusercontent.com/coollearningtw/img/refs/heads/main/chinese/author/%E5%BB%96%E9%B4%BB%E5%9F%BA.jpg",
+          "appreciation": "　　本文\n**一、**"
         },
         {
           "lesson": "61",
