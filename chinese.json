@@ -757,7 +757,32 @@
               "note": [],
               "translation": "　　我在天亮時上路，只能和老翁一人道別。"
             }
-          ]
+          ],
+          "authorName": "杜甫",
+          "authorImg": "https://github.com/coollearningtw/img/blob/main/chinese/author/%E6%9D%9C%E7%94%AB.jpg?raw=true",
+          "authorDetails": [
+            {
+              "title": "字號",
+              "content": "字__子美__。祖籍__京兆__ __杜陵__（今__陝西__ __長安__），自稱__杜陵布衣__。曾任檢校工部員外郎，世稱__杜工部__"
+            },
+            {
+              "title": "籍貫",
+              "content": "__河南__ __鞏縣__（今__河南__ __鞏義__）"
+            },
+            {
+              "title": "生",
+              "content": "__唐睿宗__ __景雲__三年（七一二）"
+            },
+            {
+              "title": "卒",
+              "content": "__唐代宗__ __大曆__五年（七七〇）"
+            },
+            {
+              "title": "年",
+              "content": "五十九"
+            }
+          ],
+          "authorIntro": "　　__杜甫__為初__唐__"
         },
         {
           "lesson": "62",
