@@ -683,27 +683,97 @@
             {
               "word": "tons of",
               "pos": "phr.",
-              "chinese": "大量；許多"
+              "chinese": "大量；許多",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "tons"
+                },
+                {
+                  "type": "blank",
+                  "answer": "of"
+                }
+              ]
             },
             {
               "word": "look for",
               "pos": "phr.",
-              "chinese": "尋找"
+              "chinese": "尋找",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "look"
+                },
+                {
+                  "type": "blank",
+                  "answer": "for"
+                }
+              ]
             },
             {
               "word": "make a living",
               "pos": "phr.",
-              "chinese": "謀生"
+              "chinese": "謀生",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "make"
+                },
+                {
+                  "type": "blank",
+                  "answer": "a"
+                },
+                {
+                  "type": "blank",
+                  "answer": "living"
+                }
+              ]
             },
             {
               "word": "look forward to",
               "pos": "phr.",
-              "chinese": "期待"
+              "chinese": "期待",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "look"
+                },
+                {
+                  "type": "blank",
+                  "answer": "forward"
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                }
+              ]
             },
             {
               "word": "be/get carried away",
               "pos": "phr.",
-              "chinese": "陶醉"
+              "chinese": "陶醉",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "be"
+                },
+                {
+                  "type": "text",
+                  "content": "/"
+                },
+                {
+                  "type": "blank",
+                  "answer": "get"
+                },
+                {
+                  "type": "blank",
+                  "answer": "carried"
+                },
+                {
+                  "type": "blank",
+                  "answer": "away"
+                }
+              ]
             }
           ]
         },
@@ -859,32 +929,108 @@
             {
               "word": "be likely to...",
               "pos": "phr.",
-              "chinese": "有可能會"
+              "chinese": "有可能會",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "be"
+                },
+                {
+                  "type": "blank",
+                  "answer": "likely"
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                }
+              ]
             },
             {
               "word": "within (...) reach",
               "pos": "phr.",
-              "chinese": "在（……）伸手可及的範圍"
+              "chinese": "在（……）伸手可及的範圍",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "within"
+                },
+                {
+                  "type": "text",
+                  "content": "(...)"
+                },
+                {
+                  "type": "blank",
+                  "answer": "reach"
+                }
+              ]
             },
             {
               "word": "line up",
               "pos": "phr.",
-              "chinese": "排隊"
+              "chinese": "排隊",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "line"
+                },
+                {
+                  "type": "blank",
+                  "answer": "up"
+                }
+              ]
             },
             {
               "word": "take advantage of",
               "pos": "phr.",
-              "chinese": "利用"
+              "chinese": "利用",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "take"
+                },
+                {
+                  "type": "blank",
+                  "answer": "advantage"
+                },
+                {
+                  "type": "blank",
+                  "answer": "of"
+                }
+              ]
             },
             {
               "word": "set up",
               "pos": "phr.",
-              "chinese": "設立；設置"
+              "chinese": "設立；設置",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "set"
+                },
+                {
+                  "type": "blank",
+                  "answer": "up"
+                }
+              ]
             },
             {
               "word": "start off",
               "pos": "phr.",
-              "chinese": "開始"
+              "chinese": "開始",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "start"
+                },
+                {
+                  "type": "blank",
+                  "answer": "off"
+                }
+              ]
             }
           ]
         },
@@ -1055,27 +1201,93 @@
             {
               "word": "come in",
               "pos": "phr.",
-              "chinese": "具有（形狀、尺寸等）"
+              "chinese": "具有（形狀、尺寸等）",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "come"
+                },
+                {
+                  "type": "blank",
+                  "answer": "in"
+                }
+              ]
             },
             {
               "word": "stand for",
               "pos": "phr.",
-              "chinese": "代表"
+              "chinese": "代表",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "stand"
+                },
+                {
+                  "type": "blank",
+                  "answer": "for"
+                }
+              ]
             },
             {
               "word": "nothing but",
               "pos": "phr.",
-              "chinese": "只不過是；僅僅"
+              "chinese": "只不過是；僅僅",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "nothing"
+                },
+                {
+                  "type": "blank",
+                  "answer": "but"
+                }
+              ]
             },
             {
               "word": "get rid of",
               "pos": "phr.",
-              "chinese": "去除；擺脫"
+              "chinese": "去除；擺脫",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "get"
+                },
+                {
+                  "type": "blank",
+                  "answer": "rid"
+                },
+                {
+                  "type": "blank",
+                  "answer": "of"
+                }
+              ]
             },
             {
               "word": "when it comes to...",
               "pos": "phr.",
-              "chinese": "當談到……時"
+              "chinese": "當談到……時",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "when"
+                },
+                {
+                  "type": "blank",
+                  "answer": "it"
+                },
+                {
+                  "type": "blank",
+                  "answer": "comes"
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                }
+              ]
             }
           ]
         }
@@ -1256,27 +1468,105 @@
             {
               "word": "take off",
               "pos": "phr.",
-              "chinese": "出發"
+              "chinese": "出發",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "take"
+                },
+                {
+                  "type": "blank",
+                  "answer": "off"
+                }
+              ]
             },
             {
               "word": "have one's heart set on",
               "pos": "phr.",
-              "chinese": "一心一意想要做某事"
+              "chinese": "一心一意想要做某事",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "have"
+                },
+                {
+                  "type": "text",
+                  "content": "one's"
+                },
+                {
+                  "type": "blank",
+                  "answer": "heart"
+                },
+                {
+                  "type": "blank",
+                  "answer": "set"
+                },
+                {
+                  "type": "blank",
+                  "answer": "on"
+                }
+              ]
             },
             {
               "word": "speed (...) up",
               "pos": "phr.",
-              "chinese": "加速"
+              "chinese": "加速",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "speed"
+                },
+                {
+                  "type": "text",
+                  "content": "(...)"
+                },
+                {
+                  "type": "blank",
+                  "answer": "up"
+                }
+              ]
             },
             {
               "word": "rise to one's feet",
               "pos": "phr.",
-              "chinese": "（重新）站起來"
+              "chinese": "（重新）站起來",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "rise"
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                },
+                {
+                  "type": "text",
+                  "content": "one's"
+                },
+                {
+                  "type": "blank",
+                  "answer": "feet"
+                }
+              ]
             },
             {
               "word": "carry...through",
               "pos": "phr.",
-              "chinese": "幫助……渡過難關"
+              "chinese": "幫助……渡過難關",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "carry"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                },
+                {
+                  "type": "blank",
+                  "answer": "through"
+                }
+              ]
             }
           ]
         },
@@ -1628,37 +1918,139 @@
             {
               "word": "put aside",
               "pos": "phr.",
-              "chinese": "擱置"
+              "chinese": "擱置",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "put"
+                },
+                {
+                  "type": "blank",
+                  "answer": "aside"
+                }
+              ]
             },
             {
               "word": "from then on",
               "pos": "phr.",
-              "chinese": "從那時起"
+              "chinese": "從那時起",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "from"
+                },
+                {
+                  "type": "blank",
+                  "answer": "then"
+                },
+                {
+                  "type": "blank",
+                  "answer": "on"
+                }
+              ]
             },
             {
               "word": "all the more",
               "pos": "phr.",
-              "chinese": "更加；格外"
+              "chinese": "更加；格外",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "all"
+                },
+                {
+                  "type": "blank",
+                  "answer": "the"
+                },
+                {
+                  "type": "blank",
+                  "answer": "more"
+                }
+              ]
             },
             {
               "word": "fly into a rage",
               "pos": "phr.",
-              "chinese": "勃然大怒"
+              "chinese": "勃然大怒",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "fly"
+                },
+                {
+                  "type": "blank",
+                  "answer": "into"
+                },
+                {
+                  "type": "blank",
+                  "answer": "a"
+                },
+                {
+                  "type": "blank",
+                  "answer": "rage"
+                }
+              ]
             },
             {
               "word": "for one thing",
               "pos": "phr.",
-              "chinese": "首先；一方面"
+              "chinese": "首先；一方面",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "for"
+                },
+                {
+                  "type": "blank",
+                  "answer": "one"
+                },
+                {
+                  "type": "blank",
+                  "answer": "thing"
+                }
+              ]
             },
             {
               "word": "be/become filled with",
               "pos": "phr.",
-              "chinese": "充滿"
+              "chinese": "充滿",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "be"
+                },
+                {
+                  "type": "text",
+                  "content": "/"
+                },
+                {
+                  "type": "blank",
+                  "answer": "become"
+                },
+                {
+                  "type": "blank",
+                  "answer": "filled"
+                },
+                {
+                  "type": "blank",
+                  "answer": "with"
+                }
+              ]
             },
             {
               "word": "slip away",
               "pos": "phr.",
-              "chinese": "消逝；死去"
+              "chinese": "消逝；死去",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "slip"
+                },
+                {
+                  "type": "blank",
+                  "answer": "away"
+                }
+              ]
             }
           ]
         },
@@ -1867,27 +2259,89 @@
             {
               "word": "take notice (of...)",
               "pos": "phr.",
-              "chinese": "注意；在意"
+              "chinese": "注意；在意",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "take"
+                },
+                {
+                  "type": "blank",
+                  "answer": "notice"
+                },
+                {
+                  "type": "text",
+                  "content": "("
+                },
+                {
+                  "type": "blank",
+                  "answer": "of"
+                },
+                {
+                  "type": "text",
+                  "content": "...)"
+                }
+              ]
             },
             {
               "word": "blow up",
               "pos": "phr.",
-              "chinese": "炸毀"
+              "chinese": "炸毀",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "blow"
+                },
+                {
+                  "type": "blank",
+                  "answer": "up"
+                }
+              ]
             },
             {
               "word": "take away",
               "pos": "phr.",
-              "chinese": "拿走"
+              "chinese": "拿走",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "take"
+                },
+                {
+                  "type": "blank",
+                  "answer": "away"
+                }
+              ]
             },
             {
               "word": "speak out",
               "pos": "phr.",
-              "chinese": "發聲；公開發表意見"
+              "chinese": "發聲；公開發表意見",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "speak"
+                },
+                {
+                  "type": "blank",
+                  "answer": "out"
+                }
+              ]
             },
             {
               "word": "call for",
               "pos": "phr.",
-              "chinese": "呼籲"
+              "chinese": "呼籲",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "call"
+                },
+                {
+                  "type": "blank",
+                  "answer": "for"
+                }
+              ]
             }
           ]
         },
@@ -2066,37 +2520,119 @@
             {
               "word": "in addition to",
               "pos": "phr.",
-              "chinese": "除了……之外"
+              "chinese": "除了……之外",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "in"
+                },
+                {
+                  "type": "blank",
+                  "answer": "addition"
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                }
+              ]
             },
             {
               "word": "for instance",
               "pos": "phr.",
-              "chinese": "例如"
+              "chinese": "例如",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "for"
+                },
+                {
+                  "type": "blank",
+                  "answer": "instance"
+                }
+              ]
             },
             {
               "word": "even since",
               "pos": "phr.",
-              "chinese": "從那時起"
+              "chinese": "從那時起",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "even"
+                },
+                {
+                  "type": "blank",
+                  "answer": "since"
+                }
+              ]
             },
             {
               "word": "in other words",
               "pos": "phr.",
-              "chinese": "換句話說"
+              "chinese": "換句話說",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "in"
+                },
+                {
+                  "type": "blank",
+                  "answer": "other"
+                },
+                {
+                  "type": "blank",
+                  "answer": "words"
+                }
+              ]
             },
             {
               "word": "meet with",
               "pos": "phr.",
-              "chinese": "遭遇到"
+              "chinese": "遭遇到",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "meet"
+                },
+                {
+                  "type": "blank",
+                  "answer": "with"
+                }
+              ]
             },
             {
               "word": "spring into action",
               "pos": "phr.",
-              "chinese": "立即行動"
+              "chinese": "立即行動",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "spring"
+                },
+                {
+                  "type": "blank",
+                  "answer": "into"
+                },
+                {
+                  "type": "blank",
+                  "answer": "action"
+                }
+              ]
             },
             {
               "word": "in turn",
               "pos": "phr.",
-              "chinese": "⑴ 繼而 ⑵依序"
+              "chinese": "⑴ 繼而 ⑵依序",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "in"
+                },
+                {
+                  "type": "blank",
+                  "answer": "turn"
+                }
+              ]
             }
           ],
           "sentences": []
@@ -2266,42 +2802,146 @@
             {
               "word": "fit in",
               "pos": "phr.",
-              "chinese": "融入（環境、團體等）"
+              "chinese": "融入（環境、團體等）",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "fit"
+                },
+                {
+                  "type": "blank",
+                  "answer": "in"
+                }
+              ]
             },
             {
               "word": "around the corner",
               "pos": "phr.",
-              "chinese": "即將到來"
+              "chinese": "即將到來",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "around"
+                },
+                {
+                  "type": "blank",
+                  "answer": "the"
+                },
+                {
+                  "type": "blank",
+                  "answer": "corner"
+                }
+              ]
             },
             {
               "word": "sick to one's stomach",
               "pos": "phr.",
-              "chinese": "非常難過"
+              "chinese": "非常難過",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "sick"
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                },
+                {
+                  "type": "text",
+                  "content": "one's"
+                },
+                {
+                  "type": "blank",
+                  "answer": "stomach"
+                }
+              ]
             },
             {
               "word": "make peace",
               "pos": "phr.",
-              "chinese": "和好"
+              "chinese": "和好",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "make"
+                },
+                {
+                  "type": "blank",
+                  "answer": "peace"
+                }
+              ]
             },
             {
               "word": "make fun of",
               "pos": "phr.",
-              "chinese": "嘲笑；揶揄"
+              "chinese": "嘲笑；揶揄",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "make"
+                },
+                {
+                  "type": "blank",
+                  "answer": "fun"
+                },
+                {
+                  "type": "blank",
+                  "answer": "of"
+                }
+              ]
             },
             {
               "word": "at least",
               "pos": "phr.",
-              "chinese": "至少"
+              "chinese": "至少",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "at"
+                },
+                {
+                  "type": "blank",
+                  "answer": "least"
+                }
+              ]
             },
             {
               "word": "apart from",
               "pos": "phr.",
-              "chinese": "除了……之外"
+              "chinese": "除了……之外",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "apart"
+                },
+                {
+                  "type": "blank",
+                  "answer": "from"
+                }
+              ]
             },
             {
               "word": "...not...anymore",
               "pos": "phr.",
-              "chinese": "再也沒有；不再"
+              "chinese": "再也沒有；不再",
+              "blocks": [
+                {
+                  "type": "text",
+                  "content": "..."
+                },
+                {
+                  "type": "blank",
+                  "answer": "not"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                },
+                {
+                  "type": "blank",
+                  "answer": "anymore"
+                }
+              ]
             }
           ]
         },
@@ -2499,17 +3139,63 @@
             {
               "word": "fill in",
               "pos": "phr.",
-              "chinese": "填寫"
+              "chinese": "填寫",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "fill"
+                },
+                {
+                  "type": "blank",
+                  "answer": "in"
+                }
+              ]
             },
             {
               "word": "on a/an...basis",
               "pos": "phr.",
-              "chinese": "每……（日、週、年等）"
+              "chinese": "每……（日、週、年等）",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "on"
+                },
+                {
+                  "type": "blank",
+                  "answer": "a"
+                },
+                {
+                  "type": "text",
+                  "content": "/"
+                },
+                {
+                  "type": "blank",
+                  "answer": "an"
+                },
+                {
+                  "type": "blank",
+                  "answer": "basis"
+                }
+              ]
             },
             {
               "word": "make use of",
               "pos": "phr.",
-              "chinese": "利用"
+              "chinese": "利用",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "make"
+                },
+                {
+                  "type": "blank",
+                  "answer": "use"
+                },
+                {
+                  "type": "blank",
+                  "answer": "of"
+                }
+              ]
             }
           ],
           "sentences": []
