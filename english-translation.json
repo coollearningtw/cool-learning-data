@@ -94,7 +94,7 @@
               "en": "Many people have problems controlling their emotions when they are (facing stress/under pressure)."
             },
             {
-              "ch": "受到政府官員威脅的那名記者（journalist）決定公開發聲支持新聞自由（freedom of the press）。(N + V-ing/p.p.)",
+              "ch": "受到政府官員威脅的那名記者(journalist)決定公開發聲支持新聞自由(freedom of the press)。(N + V-ing/p.p.)",
               "en": "The journalist threatened by government officials decided to speak out for freedom of the press."
             },
             {
@@ -102,7 +102,7 @@
               "en": "The doctor thinks that Susan will have difficulty recovering from the injury caused by the accident."
             },
             {
-              "ch": "一些人權團體呼籲政府廢除（abolish）禁止女性接受教育的政策。(N + V-ing/p.p.)",
+              "ch": "一些人權團體呼籲政府廢除(abolish)禁止女性接受教育的政策。(N + V-ing/p.p.)",
               "en": "Some human rights groups called for the government to abolish the policy forbidding women from receiving education."
             }
           ]
@@ -110,12 +110,28 @@
         {
           "lesson": 5,
           "title": "第五課",
-          "status": "即將上架",
+          "status": "測試中",
           "statusColor": "yellow",
-          "enabled": false,
+          "enabled": true,
           "pairs": [
             {
-              "ch": "",
+              "ch": "Frank 唯一想做的就是實現他成為一位知名藝術家的夢想。(All....)",
+              "en": "All (that/) Frank wants to do is (fulfill/achieve/realize) his dream of becoming a famous artist."
+            },
+            {
+              "ch": "Julia 用豐富的想像力編輯故事，這位他帶來成功的寫作事業。(..., which....)",
+              "en": ""
+            },
+            {
+              "ch": "政府需要做的就是努力克服貧窮所造成的障礙。(What....)",
+              "en": ""
+            },
+            {
+              "ch": "那個女孩在遊行中要求人們為地球立即行動，這使她成為網路上的熱門話題(trending topic)。\n(..., which....)",
+              "en": ""
+            },
+            {
+              "ch": "那個網紅(influencer)試圖做的是持續傳達正確的資訊，這位他贏得了娛樂圈的尊重。(What....; ..., which....)",
               "en": ""
             }
           ]
