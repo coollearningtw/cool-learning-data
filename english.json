@@ -2303,12 +2303,12 @@
               "pos": "phr.",
               "chinese": "再也沒有；不再"
             }
-]
-},
+          ]
+        },
         {
           "lesson": 65,
           "title": "Review 2",
-"status": "New",
+          "status": "New",
           "statusColor": "green",
           "enabled": true,
           "vocabulary": [
@@ -2500,12 +2500,13 @@
           ],
           "sentences": []
         },
-{
-"lesson": 7,
-"title": "Unit 7",
-"status": "未啟用",
+        {
+          "lesson": 7,
+          "title": "Unit 7",
+          "status": "未啟用",
           "statusColor": "red",
-          "enabled": false}
+          "enabled": false
+        }
       ]
     },
     {
