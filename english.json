@@ -2480,7 +2480,21 @@
             {
               "word": "break...up",
               "pos": "phr.",
-              "chinese": "分開"
+              "chinese": "分開",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "break"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                },
+                {
+                  "type": "blank",
+                  "answer": "up"
+                }
+              ]
             },
             {
               "word": "fill in",
