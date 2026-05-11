@@ -110,8 +110,8 @@
         {
           "lesson": 5,
           "title": "第五課",
-          "status": "測試中",
-          "statusColor": "yellow",
+          "status": "New",
+          "statusColor": "green",
           "enabled": true,
           "pairs": [
             {
@@ -120,32 +120,48 @@
             },
             {
               "ch": "Julia 用豐富的想像力編輯故事，這位他帶來成功的寫作事業。(..., which....)",
-              "en": ""
+              "en": "Julia wove stories with her rich imagination, which brougth her a successful writing career."
             },
             {
               "ch": "政府需要做的就是努力克服貧窮所造成的障礙。(What....)",
-              "en": ""
+              "en": "What the government needs to do is try hard overcome the obstacle (which/that are) caused by poverty."
             },
             {
-              "ch": "那個女孩在遊行中要求人們為地球立即行動，這使她成為網路上的熱門話題(trending topic)。\n(..., which....)",
-              "en": ""
+              "ch": "那個女孩在遊行中要求人們為地球立即行動，這使她成為網路上的熱門話題(trending topic)。(..., which....)",
+              "en": "The girl requested people to spring into action for the earth durig the parade, which made a trending topic online."
             },
             {
               "ch": "那個網紅(influencer)試圖做的是持續傳達正確的資訊，這位他贏得了娛樂圈的尊重。(What....; ..., which....)",
-              "en": ""
+              "en": "What the influencer (tries/tried) to do (is/was) convey correct information consistently, which [has] earned him respect in the enterteinment industry."
             }
           ]
         },
         {
           "lesson": 6,
           "title": "第六課",
-          "status": "即將上架",
-          "statusColor": "yellow",
+          "status": "New",
+          "statusColor": "green",
           "enabled": false,
           "pairs": [
             {
-              "ch": "",
-              "en": ""
+              "ch": "典禮即將來臨，大家既緊張又興奮。(With + O + OC....)",
+              "en": "With the ceremony approaching, everyone felt [both] nervous and excited."
+            },
+            {
+              "ch": "人們正在他身邊小聲說話，Mark 覺得很難專注。(With + O + OC....)",
+              "en": "With people whispering around him, Mark found it hard to concentrate."
+            },
+            {
+              "ch": "David 慢慢走回家，心中充滿對那個事件的擔憂。(..., with + O + OC....)",
+              "en": "David walked home slowly, with his mind full of worries about the incident."
+            },
+            {
+              "ch": "這個班上有些孩子持續霸凌同學，有些則裝作沒看到，而剩下其他人則嘗試保護被霸凌者。",
+              "en": "Some kids in the class kept bullying their classmates, (some/others) pretended not to see it, and the others tried to (protect/defend) the bullied."
+            },
+            {
+              "ch": "三個人被困在建築物裡。一個受了重傷，另一個被嚇到並哭泣，還有一個試圖保持冷靜並呼救。",
+              "en": "Three people were trapped in the building. One was (badly/seriously) injured, another was scared and crying, and the other treid to stay calm and called for help."
             }
           ]
         }
