@@ -141,7 +141,7 @@
           "title": "第六課",
           "status": "New",
           "statusColor": "green",
-          "enabled": false,
+          "enabled": true,
           "pairs": [
             {
               "ch": "典禮即將來臨，大家既緊張又興奮。(With + O + OC....)",
