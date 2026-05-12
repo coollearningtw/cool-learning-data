@@ -84,6 +84,9 @@
         {
           "lesson": 4,
           "title": "第四課",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
           "pairs": [
             {
               "ch": "Nick 在說服校長採納這項政策時遇到很大的困難。(trouble)",
