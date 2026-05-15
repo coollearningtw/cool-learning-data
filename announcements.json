@@ -2,8 +2,8 @@
   "announcements": [
     {
       "date": "2026-05-12",
-      "title": "beta 1.0.3",
-      "cover": "https://ppt.cc/fTbvIx@.png",
+      "title": "beta 1.0.4",
+      "cover": "",
       "blocks": [
         {
           "subtitle": "",
@@ -11,8 +11,8 @@
           "image": ""
         },
         {
-          "subtitle": "新學科 - 自然/地球科學",
-          "text": "．此版本新增了[自然/地球科學](https://coollearningtw.github.io/science/earth-science)學科，具有3D模型等供使用，更利於學習。\n**核心功能\n•3D模型互動：**\n　。為部分學習工具新增3D模型互動功能，透過模型及動畫以更好了解地球科學原理。",
+          "subtitle": "新功能 - 英文對戰競技場",
+          "text": "．此版本新增了[英文對戰競技場](https://coollearningtw.github.io/english/english-battle.html)學習輔助工具（學習助手），能與其他用戶連線對戰，增加學習的樂趣。\n**核心功能\n•線上連線：**\n　。可開啟房間並邀請其他用戶加入，一間房間須兩位用戶，對戰測驗模式如同英文測驗的看英文選中文，依據作答時間、連續答對次數進行比分。",
           "image": ""
         }
       ],
