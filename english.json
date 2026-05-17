@@ -2057,8 +2057,8 @@
         {
           "lesson": 4,
           "title": "第四課",
-          "status": "New",
-          "statusColor": "green",
+          "status": "",
+          "statusColor": "yellow",
           "enabled": true,
           "vocabulary": [
             {
@@ -2348,8 +2348,8 @@
         {
           "lesson": 5,
           "title": "第五課",
-          "status": "New",
-          "statusColor": "green",
+          "status": "",
+          "statusColor": "yellow",
           "enabled": true,
           "vocabulary": [
             {
@@ -2640,8 +2640,8 @@
         {
           "lesson": 6,
           "title": "第六課",
-          "status": "New",
-          "statusColor": "green",
+          "status": "",
+          "statusColor": "yellow",
           "enabled": true,
           "vocabulary": [
             {
@@ -2948,8 +2948,8 @@
         {
           "lesson": 65,
           "title": "Review 2",
-          "status": "New",
-          "statusColor": "green",
+          "status": "",
+          "statusColor": "yellow",
           "enabled": true,
           "vocabulary": [
             {
@@ -3199,13 +3199,6 @@
             }
           ],
           "sentences": []
-        },
-        {
-          "lesson": 7,
-          "title": "Unit 7",
-          "status": "未啟用",
-          "statusColor": "red",
-          "enabled": false
         }
       ]
     },
@@ -6056,269 +6049,6 @@
             }
           ],
           "sentences": []
-        }
-      ]
-    },
-    {
-      "name": "空中美語No. 311",
-      "lessons": [
-        {
-          "lesson": 3111,
-          "title": "Unit 1",
-          "status": "即將下架",
-          "statusColor": "red",
-          "enabled": true,
-          "vocabulary": [
-            {
-              "word": "thankful",
-              "pos": "adj.",
-              "chinese": "感激的"
-            },
-            {
-              "word": "suitable",
-              "pos": "adj.",
-              "chinese": "適合的"
-            },
-            {
-              "word": "treatment",
-              "pos": "n.",
-              "chinese": "治療"
-            },
-            {
-              "word": "company",
-              "pos": "n.",
-              "chinese": "伴侶；陪伴"
-            },
-            {
-              "word": "log",
-              "pos": "n.",
-              "chinese": "（正式或官方的）日誌，記錄"
-            },
-            {
-              "word": "eager",
-              "pos": "adj.",
-              "chinese": "熱切的；渴望的"
-            },
-            {
-              "word": "shelter",
-              "pos": "n.",
-              "chinese": "收容所"
-            },
-            {
-              "word": "volunteer",
-              "pos": "n.",
-              "chinese": "志工；義工"
-            },
-            {
-              "word": "behavior",
-              "pos": "n.",
-              "chinese": "行為"
-            },
-            {
-              "word": "care for",
-              "pos": "phr.",
-              "chinese": "照顧..."
-            },
-            {
-              "word": "make sure",
-              "pos": "phr.",
-              "chinese": "確認；確保"
-            },
-            {
-              "word": "fill out",
-              "pos": "phr.",
-              "chinese": "填寫...（問卷、表格等）"
-            },
-            {
-              "word": "keep track of",
-              "pos": "phr.",
-              "chinese": "掌握（某物或某人）的所需訊息"
-            },
-            {
-              "word": "playful",
-              "pos": "adj.",
-              "chinese": "愛玩耍的"
-            },
-            {
-              "word": "outdoor",
-              "pos": "adj.",
-              "chinese": "戶外的；露天的"
-            },
-            {
-              "word": "guide",
-              "pos": "v.",
-              "chinese": "教導 / 指導某人做某事"
-            },
-            {
-              "word": "process",
-              "pos": "n.",
-              "chinese": "過程"
-            },
-            {
-              "word": "appreciate",
-              "pos": "v.",
-              "chinese": "對...表示感激"
-            },
-            {
-              "word": "forever",
-              "pos": "adj.",
-              "chinese": "永遠的；永久的"
-            },
-            {
-              "word": "adopt",
-              "pos": "v.",
-              "chinese": "認養；領養"
-            },
-            {
-              "word": "adoption",
-              "pos": "n.",
-              "chinese": "收養；領養"
-            },
-            {
-              "word": "kennel",
-              "pos": "n.",
-              "chinese": "狗窩；狗屋"
-            },
-            {
-              "word": "bond",
-              "pos": "v.",
-              "chinese": "建立感情"
-            },
-            {
-              "word": "full of",
-              "pos": "phr.",
-              "chinese": "充滿..."
-            },
-            {
-              "word": "for a bit",
-              "pos": "phr.",
-              "chinese": "一會兒；一小段時間"
-            },
-            {
-              "word": "roll over",
-              "pos": "phr.",
-              "chinese": "（躺著時）翻身"
-            },
-            {
-              "word": "in good hands",
-              "pos": "phr.",
-              "chinese": "被妥善照顧"
-            }
-          ]
-        },
-        {
-          "lesson": 3117,
-          "title": "Unit 7",
-          "status": "即將下架",
-          "statusColor": "red",
-          "enabled": true,
-          "vocabulary": [
-            {
-              "word": "enjoyable",
-              "pos": "adj.",
-              "chinese": "令人愉快的；有樂趣的"
-            },
-            {
-              "word": "laughter",
-              "pos": "n.",
-              "chinese": "笑；笑聲"
-            },
-            {
-              "word": "political",
-              "pos": "adj.",
-              "chinese": "政治的"
-            },
-            {
-              "word": "stage",
-              "pos": "n.",
-              "chinese": "舞台"
-            },
-            {
-              "word": "response",
-              "pos": "n.",
-              "chinese": "回應；回覆；響應"
-            },
-            {
-              "word": "powerful",
-              "pos": "adj.",
-              "chinese": "（感受或影響力）有力的，深刻的，震撼的"
-            },
-            {
-              "word": "burst into",
-              "pos": "phr.",
-              "chinese": "突然開始..."
-            },
-            {
-              "word": "can't get enough of",
-              "pos": "phr.",
-              "chinese": "（非常喜愛因此）對...再多都不膩"
-            },
-            {
-              "word": "turn ... into ...",
-              "pos": "phr.",
-              "chinese": "將...變成..."
-            },
-            {
-              "word": "bring ... together",
-              "pos": "phr.",
-              "chinese": "使...聚集；使...團結"
-            },
-            {
-              "word": "typical",
-              "pos": "adj.",
-              "chinese": "典型的"
-            },
-            {
-              "word": "afterward",
-              "pos": "adv.",
-              "chinese": "之後；後來"
-            },
-            {
-              "word": "studio",
-              "pos": "n.",
-              "chinese": "攝影棚；錄音室"
-            },
-            {
-              "word": "element",
-              "pos": "n.",
-              "chinese": "要素"
-            },
-            {
-              "word": "constantly",
-              "pos": "adv.",
-              "chinese": "經常地；不斷地"
-            },
-            {
-              "word": "connection",
-              "pos": "n.",
-              "chinese": "（人們、群體之間的）關係，聯繫"
-            },
-            {
-              "word": "entertain",
-              "pos": "vt.",
-              "chinese": "給...娛樂"
-            },
-            {
-              "word": "stand the test of time",
-              "pos": "phr.",
-              "chinese": "禁得起時間的考驗"
-            },
-            {
-              "word": "join in",
-              "pos": "phr.",
-              "chinese": "參加（活動等）"
-            },
-            {
-              "word": "over time",
-              "pos": "phr.",
-              "chinese": "隨著時間過去"
-            },
-            {
-              "word": "no longer",
-              "pos": "phr.",
-              "chinese": "不再"
-            }
-          ]
         }
       ]
     }
