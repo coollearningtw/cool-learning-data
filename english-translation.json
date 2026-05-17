@@ -84,8 +84,8 @@
         {
           "lesson": 4,
           "title": "第四課",
-          "status": "New",
-          "statusColor": "green",
+          "status": "",
+          "statusColor": "yellow",
           "enabled": true,
           "pairs": [
             {
@@ -113,8 +113,8 @@
         {
           "lesson": 5,
           "title": "第五課",
-          "status": "New",
-          "statusColor": "green",
+          "status": "",
+          "statusColor": "yellow",
           "enabled": true,
           "pairs": [
             {
@@ -142,8 +142,8 @@
         {
           "lesson": 6,
           "title": "第六課",
-          "status": "New",
-          "statusColor": "green",
+          "status": "",
+          "statusColor": "yellow",
           "enabled": true,
           "pairs": [
             {
