@@ -1,0 +1,131 @@
+{
+  "sources": [
+    {
+      "name": "大家學日語：基礎篇",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "日常問候與禮節",
+          "vocabulary": [
+            { "kanji": "おはよう", "kana": "おはよう", "romaji": "ohayou", "chinese": "早安", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "こんにちは", "kana": "こんにちは", "romaji": "konnichiwa", "chinese": "你好（白天）", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "こんばんは", "kana": "こんばんは", "romaji": "konbanwa", "chinese": "晚上好", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "おやすみなさい", "kana": "おやすみなさい", "romaji": "oyasuminasai", "chinese": "晚安", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "ありがとう", "kana": "ありがとう", "romaji": "arigatou", "chinese": "謝謝", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "すみません", "kana": "すみません", "romaji": "sumimasen", "chinese": "對不起/請問", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "はい", "kana": "はい", "romaji": "hai", "chinese": "是", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "いいえ", "kana": "いいえ", "romaji": "iie", "chinese": "不是/不", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "さようなら", "kana": "さようなら", "romaji": "sayounara", "chinese": "再見", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "お願いします", "kana": "おねがいします", "romaji": "onegaishimasu", "chinese": "拜託了", "type-en2ch": true, "type-ch2en": true, "type-spell": true }
+          ]
+        },
+        {
+          "lesson": 2,
+          "title": "自我介紹與人物",
+          "vocabulary": [
+            { "kanji": "私", "kana": "わたし", "romaji": "watashi", "chinese": "我", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "貴方", "kana": "あなた", "romaji": "anata", "chinese": "你", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "名前", "kana": "なまえ", "romaji": "namae", "chinese": "名字", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "先生", "kana": "せんせい", "romaji": "sensei", "chinese": "老師", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "学生", "kana": "がくせい", "romaji": "gakusei", "chinese": "學生", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "友達", "kana": "ともだち", "romaji": "tomodachi", "chinese": "朋友", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "医者", "kana": "いしゃ", "romaji": "isha", "chinese": "醫生", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "会社員", "kana": "かいしゃいん", "romaji": "kaishain", "chinese": "上班族", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "日本人", "kana": "にほんじん", "romaji": "nihonjin", "chinese": "日本人", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "台湾人", "kana": "たいわんじん", "romaji": "taiwanjin", "chinese": "台灣人", "type-en2ch": true, "type-ch2en": true, "type-spell": true }
+          ]
+        },
+        {
+          "lesson": 3,
+          "title": "基礎數字 (1-10)",
+          "vocabulary": [
+            { "kanji": "一", "kana": "いち", "romaji": "ichi", "chinese": "1", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "二", "kana": "に", "romaji": "ni", "chinese": "2", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "三", "kana": "さん", "romaji": "san", "chinese": "3", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "四", "kana": "よん/し", "romaji": "yon/shi", "chinese": "4", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "五", "kana": "ご", "romaji": "go", "chinese": "5", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "六", "kana": "ろく", "romaji": "roku", "chinese": "6", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "七", "kana": "なな/しち", "romaji": "nana/shichi", "chinese": "7", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "八", "kana": "はち", "romaji": "hachi", "chinese": "8", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "九", "kana": "きゅう/く", "romaji": "kyuu/ku", "chinese": "9", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "十", "kana": "じゅう", "romaji": "juu", "chinese": "10", "type-en2ch": true, "type-ch2en": true, "type-spell": true }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "日常生活單字",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "地點與方位",
+          "vocabulary": [
+            { "kanji": "学校", "kana": "がっこう", "romaji": "gakkou", "chinese": "學校", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "家", "kana": "いえ", "romaji": "ie", "chinese": "家", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "駅", "kana": "えき", "romaji": "eki", "chinese": "車站", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "病院", "kana": "びょういん", "romaji": "byouin", "chinese": "醫院", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "部屋", "kana": "へや", "romaji": "heya", "chinese": "房間", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "銀行", "kana": "ぎんこう", "romaji": "ginkou", "chinese": "銀行", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "公園", "kana": "こうえん", "romaji": "kouen", "chinese": "公園", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "教室", "kana": "きょうしつ", "romaji": "kyoushitsu", "chinese": "教室", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "トイレ", "kana": "といれ", "romaji": "toire", "chinese": "廁所", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "日本", "kana": "にほん", "romaji": "nihon", "chinese": "日本", "type-en2ch": true, "type-ch2en": true, "type-spell": true }
+          ]
+        },
+        {
+          "lesson": 2,
+          "title": "物品與飲食",
+          "vocabulary": [
+            { "kanji": "本", "kana": "ほん", "romaji": "hon", "chinese": "書", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "時計", "kana": "とけい", "romaji": "tokei", "chinese": "手錶/鐘", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "鞄", "kana": "かばん", "romaji": "kaban", "chinese": "包包", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "携帯", "kana": "けいたい", "romaji": "keitai", "chinese": "手機", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "水", "kana": "みず", "romaji": "mizu", "chinese": "水", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "お茶", "kana": "おちゃ", "romaji": "ocha", "chinese": "茶", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "寿司", "kana": "すし", "romaji": "sushi", "chinese": "壽司", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "ご飯", "kana": "ごはん", "romaji": "gohan", "chinese": "飯/餐", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "肉", "kana": "にく", "romaji": "niku", "chinese": "肉", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "魚", "kana": "さかな", "romaji": "sakana", "chinese": "魚", "type-en2ch": true, "type-ch2en": true, "type-spell": true }
+          ]
+        },
+        {
+          "lesson": 3,
+          "title": "基礎動詞",
+          "vocabulary": [
+            { "kanji": "食べる", "kana": "たべる", "romaji": "taberu", "chinese": "吃", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "飲む", "kana": "のむ", "romaji": "nomu", "chinese": "飲/喝", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "行く", "kana": "いく", "romaji": "iku", "chinese": "去", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "来る", "kana": "くる", "romaji": "kuru", "chinese": "來", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "見る", "kana": "みる", "romaji": "miru", "chinese": "看", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "聞く", "kana": "きく", "romaji": "kiku", "chinese": "聽", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "寝る", "kana": "ねる", "romaji": "neru", "chinese": "睡覺", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "起きる", "kana": "おきる", "romaji": "okiru", "chinese": "起床", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "話す", "kana": "はなす", "romaji": "hanasu", "chinese": "說話", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "勉強する", "kana": "べんきょうする", "romaji": "benkyousuru", "chinese": "學習/讀書", "type-en2ch": true, "type-ch2en": true, "type-spell": true }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "動漫與流行用語",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "常用感嘆詞",
+          "vocabulary": [
+            { "kanji": "凄い", "kana": "すごい", "romaji": "sugoi", "chinese": "厲害/好強", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "可愛い", "kana": "かわいい", "romaji": "kawaii", "chinese": "可愛", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "本当", "kana": "ほんとう", "romaji": "hontou", "chinese": "真的嗎", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "大丈夫", "kana": "だいじょうぶ", "romaji": "daijoubu", "chinese": "沒關係/沒問題", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "頑張れ", "kana": "がんばれ", "romaji": "ganbare", "chinese": "加油", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "面白い", "kana": "おもしろい", "romaji": "omoshiroi", "chinese": "有趣", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "嬉しい", "kana": "うれしい", "romaji": "ureshii", "chinese": "開心/高興", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "悲しい", "kana": "かなしい", "romaji": "kanashii", "chinese": "悲傷", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "嫌い", "kana": "きらい", "romaji": "kirai", "chinese": "討厭", "type-en2ch": true, "type-ch2en": true, "type-spell": true },
+            { "kanji": "大好き", "kana": "だいすき", "romaji": "daisuki", "chinese": "最喜歡了", "type-en2ch": true, "type-ch2en": true, "type-spell": true }
+          ]
+        }
+      ]
+    }
+  ]
+}
