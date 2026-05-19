@@ -1,0 +1,88 @@
+{
+  "openings": [
+    {
+      "id": "it1",
+      "name": "義大利開局 (Italian Game)",
+      "description": "歷史最悠久的開局之一。白方旨在快速發展主教至 c4，瞄準黑方最脆弱的 f7 點，並準備好短位入堡。",
+      "steps": [
+        { "move": "e4", "comment": "白方佔領中心，並為皇后與主教開路。" },
+        { "move": "e5", "comment": "黑方對應佔領中心，防止白方進一步推兵。" },
+        { "move": "Nf3", "comment": "發展騎士並威脅黑方的 e5 兵。" },
+        { "move": "Nc6", "comment": "黑方發展騎士防禦 e5 兵。" },
+        { "move": "Bc4", "comment": "關鍵的一手。主教佔據優勢斜線，瞄準 f7 點。" },
+        { "move": "Bc5", "comment": "黑方也發展主教，進入『義大利鋼琴』(Giuoco Piano) 局面。" }
+      ]
+    },
+    {
+      "id": "sc1",
+      "name": "西西里防禦 (Sicilian Defense)",
+      "description": "面對 e4 最具侵略性的回應。黑方不對稱地出 c5 兵，旨在爭奪中心控制權並創造多變的戰術機會。",
+      "steps": [
+        { "move": "e4", "comment": "白方開放中心。" },
+        { "move": "c5", "comment": "黑方出 c 兵，打破對稱，爭奪 d4 格的控制權。" },
+        { "move": "Nf3", "comment": "白方準備在 d4 進行交換。" },
+        { "move": "d6", "comment": "黑方控制中心並為白格主教開路。" },
+        { "move": "d4", "comment": "白方進攻中心。" },
+        { "move": "cxd4", "comment": "黑方換兵，開啟 c 線半開放線。" }
+      ]
+    },
+    {
+      "id": "rl1",
+      "name": "西班牙開局 (Ruy Lopez)",
+      "description": "又稱魯伊·洛佩茲開局。白方透過將主教出到 b5 來給予黑方 c6 騎士壓力，間接威脅 e5 兵。",
+      "steps": [
+        { "move": "e4", "comment": "標準中心佔領。" },
+        { "move": "e5", "comment": "黑方對應。" },
+        { "move": "Nf3", "comment": "發展騎士。" },
+        { "move": "Nc6", "comment": "黑方防禦。" },
+        { "move": "Bb5", "comment": "核心步法。對 c6 騎士施壓，長期爭奪中心主動權。" },
+        { "move": "a6", "comment": "莫菲防禦。黑方立刻詢問白方主教的意圖。" }
+      ]
+    },
+    {
+      "id": "qg1",
+      "name": "后翼棄兵 (Queen's Gambit)",
+      "description": "最經典的封閉式開局。白方犧牲邊兵來換取中心控制權與發展優勢。",
+      "steps": [
+        { "move": "d4", "comment": "白方佔據 d4，控制中心。" },
+        { "move": "d5", "comment": "黑方對應佔據中心。" },
+        { "move": "c4", "comment": "棄兵步法。旨在削弱黑方 d5 對中心的防禦。" },
+        { "move": "e6", "comment": "拒絕棄兵。黑方加固 d5 點，形成穩固防禦。" }
+      ]
+    }
+  ],
+  "puzzles": [
+    {
+      "id": "p1",
+      "title": "底線將死 (Back Rank Mate)",
+      "description": "黑方的國王被自己的兵擋住了，你能找出白方的致勝一擊嗎？",
+      "fen": "5rk1/5ppp/8/8/8/8/5PPP/3R2K1 w - - 0 1",
+      "solution": "d1d8",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "p2",
+      "title": "騎士捉雙 (The Knight Fork)",
+      "description": "白方騎士有一個機會同時威脅國王與皇后。",
+      "fen": "r3k2r/pppb1ppp/2n1pq2/1B1p4/3P4/P1N1PNP1/1PP1QPP1/R3K2R w KQkq - 0 1",
+      "solution": "Nxd5",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "p3",
+      "title": "一步將死：皇后出擊",
+      "description": "白方先行，請利用主教的支援將死對方國王。",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4",
+      "solution": "h5f7",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "p4",
+      "title": "斜線牽制 (Pinning)",
+      "description": "利用你的主教牽制對方的皇后，讓它無法動彈。",
+      "fen": "4k3/8/8/4q3/8/8/2B5/4K3 w - - 0 1",
+      "solution": "c2g6",
+      "difficulty": "Medium"
+    }
+  ]
+}
