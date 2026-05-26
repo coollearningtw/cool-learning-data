@@ -3470,6 +3470,279 @@
             }
           ],
           "sentences": []
+        },
+        {
+          "lesson": 9,
+          "title": "Unit 8",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
+          "vocabulary": [
+            {
+              "word": "exchange",
+              "pos": "n. [C]",
+              "chinese": "（不同國家人民的）交流，交換（計畫）"
+            },
+            {
+              "word": "exchange",
+              "pos": "vt.",
+              "chinese": "交換"
+            },
+            {
+              "word": "expect",
+              "pos": "vt.",
+              "chinese": "預計"
+            },
+            {
+              "word": "expectation",
+              "pos": "n. [C][U]",
+              "chinese": "期望；預期"
+            },
+            {
+              "word": "shelter",
+              "pos": "vt.",
+              "chinese": "遮蔽"
+            },
+            {
+              "word": "shelter",
+              "pos": "n. [C]",
+              "chinese": "庇護所"
+            },
+            {
+              "word": "fierce",
+              "pos": "adj.",
+              "chinese": "（天氣狀況）強烈的"
+            },
+            {
+              "word": "occupy",
+              "pos": "vt.",
+              "chinese": "占據（時間或空間）"
+            },
+            {
+              "word": "occupation",
+              "pos": "n. [C]",
+              "chinese": "職業"
+            },
+            {
+              "word": "vehicle",
+              "pos": "n. [C]",
+              "chinese": "車輛；交通工具"
+            },
+            {
+              "word": "temporary",
+              "pos": "adj.",
+              "chinese": "臨時的；暫時的"
+            },
+            {
+              "word": "assistant",
+              "pos": "n. [C]",
+              "chinese": "助手；助理"
+            },
+            {
+              "word": "assist",
+              "pos": "vt. vi.",
+              "chinese": "幫助"
+            },
+            {
+              "word": "assistance",
+              "pos": "n. [U]",
+              "chinese": "幫助"
+            },
+            {
+              "word": "curious",
+              "pos": "adj.",
+              "chinese": "好奇的"
+            },
+            {
+              "word": "coriosity",
+              "pos": "n. [U]",
+              "chinese": "好奇心"
+            },
+            {
+              "word": "originate",
+              "pos": "vi.",
+              "chinese": "起源"
+            },
+            {
+              "word": "origin",
+              "pos": "n. [C][U]",
+              "chinese": "起源"
+            },
+            {
+              "word": "original",
+              "pos": "adj.",
+              "chinese": "原本的"
+            },
+            {
+              "word": "event",
+              "pos": "n. [C]",
+              "chinese": "事件"
+            },
+            {
+              "word": "elder",
+              "pos": "n. [C]",
+              "chinese": "長輩"
+            },
+            {
+              "word": "elder",
+              "pos": "adj.",
+              "chinese": "（家庭成員）較為年長的"
+            },
+            {
+              "word": "elderly",
+              "pos": "adj.",
+              "chinese": "年紀大的"
+            },
+            {
+              "word": "neighborhood",
+              "pos": "n. [C]",
+              "chinese": "鄰近地區"
+            },
+            {
+              "word": "cooperate",
+              "pos": "vi.",
+              "chinese": "合作"
+            },
+            {
+              "word": "cooperation",
+              "pos": "n. [U]",
+              "chinese": "合作"
+            },
+            {
+              "word": "arrange",
+              "pos": "vt. vi.",
+              "chinese": "安排"
+            },
+            {
+              "word": "arrangement",
+              "pos": "n. [C]",
+              "chinese": "安排"
+            },
+            {
+              "word": "relax",
+              "pos": "vi.",
+              "chinese": "放鬆"
+            },
+            {
+              "word": "container",
+              "pos": "n. [C]",
+              "chinese": "容器"
+            },
+            {
+              "word": "contain",
+              "pos": "vt.",
+              "chinese": "包含"
+            },
+            {
+              "word": "stroll",
+              "pos": "vi.",
+              "chinese": "散步"
+            },
+            {
+              "word": "stroll",
+              "pos": "n. [C]",
+              "chinese": "散步"
+            },
+            {
+              "word": "aspect",
+              "pos": "n. [C]",
+              "chinese": "方面"
+            },
+            {
+              "word": "spirit",
+              "pos": "n. sing.",
+              "chinese": "基本精神；本質"
+            },
+            {
+              "word": "spiritual",
+              "pos": "adj.",
+              "chinese": "精神上的"
+            },
+            {
+              "word": "take part in",
+              "pos": "phr.",
+              "chinese": "參加",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "take"
+                },
+                {
+                  "type": "blank",
+                  "answer": "part"
+                },
+                {
+                  "type": "blank",
+                  "answer": "in"
+                }
+              ]
+            },
+            {
+              "word": "take place",
+              "pos": "phr.",
+              "chinese": "舉行；發生",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "take"
+                },
+                {
+                  "type": "blank",
+                  "answer": "place"
+                }
+              ]
+            },
+            {
+              "word": "come about",
+              "pos": "phr.",
+              "chinese": "發生",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "come"
+                },
+                {
+                  "type": "blank",
+                  "answer": "about"
+                }
+              ]
+            },
+            {
+              "word": "help (...) out",
+              "pos": "phr.",
+              "chinese": "幫忙",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "help"
+                },
+                {
+                  "type": "text",
+                  "content": "(...)"
+                },
+                {
+                  "type": "blank",
+                  "answer": "out"
+                }
+              ]
+            },
+            {
+              "word": "hand out",
+              "pos": "phr.",
+              "chinese": "發放",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "hand"
+                },
+                {
+                  "type": "blank",
+                  "answer": "out"
+                }
+              ]
+            }
+          ],
+          "sentences": []
         }
       ]
     },
