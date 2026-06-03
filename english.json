@@ -3743,6 +3743,301 @@
             }
           ],
           "sentences": []
+        },
+        {
+          "lesson": 9,
+          "title": "Unit 9",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
+          "vocabulary": [
+            {
+              "word": "general",
+              "pos": "adj.",
+              "chinese": "一般的；非專門的"
+            },
+            {
+              "word": "derive",
+              "pos": "vt.",
+              "chinese": "起源於"
+            },
+            {
+              "word": "feature",
+              "pos": "vt.",
+              "chinese": "以……為特色"
+            },
+            {
+              "word": "feature",
+              "pos": "n. [C]",
+              "chinese": "特色；特點"
+            },
+            {
+              "word": "gossip",
+              "pos": "n. [U]",
+              "chinese": "流言；八卦"
+            },
+            {
+              "word": "gossip",
+              "pos": "vi.",
+              "chinese": "散播流言；說八卦"
+            },
+            {
+              "word": "reveal",
+              "pos": "vt.",
+              "chinese": "洩漏；透漏"
+            },
+            {
+              "word": "release",
+              "pos": "vt.",
+              "chinese": "公開發行"
+            },
+            {
+              "word": "release",
+              "pos": "n. [U]",
+              "chinese": "公開發行"
+            },
+            {
+              "word": "chase",
+              "pos": "vt. vi.",
+              "chinese": "追逐"
+            },
+            {
+              "word": "chase",
+              "pos": "n. [C]",
+              "chinese": "追逐"
+            },
+            {
+              "word": "brand",
+              "pos": "n. [C]",
+              "chinese": "品牌"
+            },
+            {
+              "word": "image",
+              "pos": "n. [C]",
+              "chinese": "影像"
+            },
+            {
+              "word": "edit",
+              "pos": "vt.",
+              "chinese": "編輯"
+            },
+            {
+              "word": "modify",
+              "pos": "vt.",
+              "chinese": "修改"
+            },
+            {
+              "word": "modification",
+              "pos": "n. [C][U]",
+              "chinese": "修改"
+            },
+            {
+              "word": "digitally",
+              "pos": "adv.",
+              "chinese": "數位地"
+            },
+            {
+              "word": "digital",
+              "pos": "adj.",
+              "chinese": "數位的"
+            },
+            {
+              "word": "combine",
+              "pos": "vt. vi.",
+              "chinese": "結合"
+            },
+            {
+              "word": "combination",
+              "pos": "n. [C][U]",
+              "chinese": "結合"
+            },
+            {
+              "word": "standard",
+              "pos": "adj.",
+              "chinese": "標準的"
+            },
+            {
+              "word": "standard",
+              "pos": "n. [C][U]",
+              "chinese": "標準"
+            },
+            {
+              "word": "widespread",
+              "pos": "adj.",
+              "chinese": "廣泛的"
+            },
+            {
+              "word": "usage",
+              "pos": "n. [U]",
+              "chinese": "（語彙的）用法"
+            },
+            {
+              "word": "constantly",
+              "pos": "adv.",
+              "chinese": "持續地"
+            },
+            {
+              "word": "constant",
+              "pos": "adj.",
+              "chinese": "持續的；不斷的"
+            },
+            {
+              "word": "alternative",
+              "pos": "adj.",
+              "chinese": "另類的；非傳統的"
+            },
+            {
+              "word": "alternative",
+              "pos": "n. [C]",
+              "chinese": "選擇；替代方案"
+            },
+            {
+              "word": "existing",
+              "pos": "adj.",
+              "chinese": "現有的；現存的"
+            },
+            {
+              "word": "exist",
+              "pos": "vi.",
+              "chinese": "存在"
+            },
+            {
+              "word": "existence",
+              "pos": "n. [U]",
+              "chinese": "存在"
+            },
+            {
+              "word": "take on",
+              "pos": "phr.",
+              "chinese": "開始具有",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": " take"
+                },
+                {
+                  "type": "blank",
+                  "answer": "on"
+                }
+              ]
+            },
+            {
+              "word": "later on",
+              "pos": "phr.",
+              "chinese": "之後",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "later"
+                },
+                {
+                  "type": "blank",
+                  "answer": "on"
+                }
+              ]
+            },
+            {
+              "word": "in the beginning",
+              "pos": "phr.",
+              "chinese": "起初",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "in"
+                },
+                {
+                  "type": "blank",
+                  "answer": "the"
+                },
+                {
+                  "type": "blank",
+                  "answer": "beginning"
+                }
+              ]
+            },
+            {
+              "word": "too...to...",
+              "pos": "phr.",
+              "chinese": "太……而無法……",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "too"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                }
+              ]
+            },
+            {
+              "word": "play a/an...role (in)",
+              "pos": "phr.",
+              "chinese": "扮演……",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "play"
+                },
+                {
+                  "type": "blank",
+                  "answer": "a"
+                },
+                {
+                  "type": "text",
+                  "content": "/"
+                },
+                {
+                  "type": "blank",
+                  "answer": "an"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                },
+                {
+                  "type": "blank",
+                  "answer": "role"
+                },
+                {
+                  "type": "text",
+                  "content": "("
+                },
+                {
+                  "type": "blank",
+                  "answer": "in"
+                },
+                {
+                  "type": "text",
+                  "content": ")"
+                }
+              ]
+            },
+            {
+              "word": "think up",
+              "pos": "phr.",
+              "chinese": "想出",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "think"
+                },
+                {
+                  "type": "blank",
+                  "answer": "up"
+                }
+              ]
+            }
+          ],
+          "sentences": []
         }
       ]
     },
