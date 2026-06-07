@@ -1,32 +1,8 @@
 {
   "announcements": [
     {
-      "title": "新內容更新預告",
-      "tag": "更新預告",
-      "tagColor": "#0b76d1",
       "date": "2026-06-07",
-      "cover": "",
-      "blocks": [
-        {
-          "subtitle": "",
-          "text": "系統即將開發新內容，並在未來幾個版本加入，目前企劃如下：",
-          "image": ""
-        },
-        {
-          "subtitle": "非教材單字列表",
-          "text": "．大考中心將高中單字分為六級分別為\n==Level 1== ==Level2== ==Level 3==\n==Level 4== ==Level 5== ==Level 6==\n共六個級別，各1280字\n我們將這些單字重新整理，提供完整的中文、KK音標、說明及例句等\n（可能有部分單字未收錄）\n\n將於日後進行公開測試，若有錯誤的地方，歡迎點選[首頁](https://coollearningtw.github.io/index)右下角按鈕進行回報。",
-          "image": ""
-        },
-        {
-          "subtitle": "其餘修改",
-          "text": "為了配合單字表的新增，我們將重新調整英文科內容及介面，包含[首頁](https://coollearningtw.github.io/index)點入後的畫面也將進行更改。",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "date": "2026-05-12",
-      "title": "beta 1.0.4",
+      "title": "beta 1.0.7",
       "cover": "",
       "blocks": [
         {
@@ -35,8 +11,13 @@
           "image": ""
         },
         {
-          "subtitle": "新功能 - 英文對戰競技場",
-          "text": "．此版本新增了[英文對戰競技場](https://coollearningtw.github.io/english/english-battle.html)學習輔助工具（學習助手），能與其他用戶連線對戰，增加學習的樂趣。\n**核心功能\n•線上連線：**\n　。可開啟房間並邀請其他用戶加入，一間房間須兩位用戶，對戰測驗模式如同英文測驗的看英文選中文，依據作答時間、連續答對次數進行比分。",
+          "subtitle": "新內容 - 非教材單字列表",
+          "text": "．大考中心將高中單字分為六級分別為\n==Level 1== ==Level2== ==Level 3==\n==Level 4== ==Level 5== ==Level 6==\n共六個級別，各1280字\n我們將這些單字重新整理，提供完整的中文、KK音標、說明及例句等\n（可能有部分單字未收錄）\n\n將於日後進行公開測試，若有錯誤的地方，歡迎點選[首頁](https://coollearningtw.github.io/index)右下角按鈕進行回報。",
+          "image": ""
+        },
+        {
+          "subtitle": "其餘修改",
+          "text": "為了配合單字表的新增，我們將重新調整英文科內容及介面，包含[首頁](https://coollearningtw.github.io/index)點入後的畫面也將進行更改。",
           "image": ""
         }
       ],
