@@ -4,7 +4,7 @@
       "title": "新內容更新預告",
       "tag": "更新預告",
       "tagColor": "#0b76d1",
-      "date": "2026-05-17",
+      "date": "2026-06-07",
       "cover": "",
       "blocks": [
         {
@@ -13,8 +13,13 @@
           "image": ""
         },
         {
-          "subtitle": "非學科內容",
-          "text": "．新增日語、西洋棋等非學科內容，增進技能與興趣的學習",
+          "subtitle": "非教材單字列表",
+          "text": "．大考中心將高中單字分為六級分別為\n==Level 1== ==Level2== ==Level 3==\n==Level 4== ==Level 5== ==Level 6==\n共六個級別，各1280字\n我們將這些單字重新整理，提供完整的中文、KK音標、說明及例句等\n（可能有部分單字未收錄）\n\n將於日後進行公開測試，若有錯誤的地方，歡迎點選[首頁](https://coollearningtw.github.io/index)右下角按鈕進行回報。",
+          "image": ""
+        },
+        {
+          "subtitle": "其餘修改",
+          "text": "為了配合單字表的新增，我們將重新調整英文科內容及介面，包含[首頁](https://coollearningtw.github.io/index)點入後的畫面也將進行更改。",
           "image": ""
         }
       ]
