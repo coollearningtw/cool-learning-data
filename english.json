@@ -3348,7 +3348,7 @@
               "chinese": "名人"
             },
             {
-              "word": "fascinatio",
+              "word": "fascination",
               "pos": "n. [U]",
               "chinese": "著迷"
             },
@@ -6885,6 +6885,271 @@
               "word": "weep",
               "pos": "vt. vi.",
               "chinese": "哭泣；流淚"
+            }
+          ],
+          "sentences": []
+        },
+        {
+          "lesson": 71,
+          "title": "7-1",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
+          "vocabulary": [
+            {
+              "word": "academic",
+              "pos": "adj.",
+              "chinese": "學術的"
+            },
+            {
+              "word": "accent",
+              "pos": "n. [C]",
+              "chinese": "腔調；口音"
+            },
+            {
+              "word": "accuse",
+              "pos": "vt.",
+              "chinese": "指控"
+            },
+            {
+              "word": "adventure",
+              "pos": "n. [C][U]",
+              "chinese": "冒險（活動）"
+            },
+            {
+              "word": "advertise",
+              "pos": "vt. vi.",
+              "chinese": "廣告"
+            },
+            {
+              "word": "advertisement/ad",
+              "pos": "n. [C]",
+              "chinese": "廣告"
+            },
+            {
+              "word": "agency",
+              "pos": "n. [C]",
+              "chinese": "經銷處；代理機構"
+            },
+            {
+              "word": "agriculture",
+              "pos": "n. [U]",
+              "chinese": "農業"
+            },
+            {
+              "word": "analysis",
+              "pos": "n. [C][U]",
+              "chinese": "分析"
+            },
+            {
+              "word": "analyze",
+              "pos": "vt.",
+              "chinese": "分析"
+            },
+            {
+              "word": "angel",
+              "pos": "n. [C]",
+              "chinese": "天使"
+            },
+            {
+              "word": "application",
+              "pos": "n. [C][U]",
+              "chinese": "申請"
+            },
+            {
+              "word": "artistic",
+              "pos": "adj.",
+              "chinese": "藝術的"
+            },
+            {
+              "word": "autobiography",
+              "pos": "n. [C][U]",
+              "chinese": "自傳"
+            },
+            {
+              "word": "autograph",
+              "pos": "n. [C]",
+              "chinese": "（尤指名人的）親筆簽名"
+            },
+            {
+              "word": "ballet",
+              "pos": "n. [C][U]",
+              "chinese": "芭蕾舞"
+            },
+            {
+              "word": "bankrupt",
+              "pos": "adj.",
+              "chinese": "破產的"
+            },
+            {
+              "word": "barn",
+              "pos": "n. [C]",
+              "chinese": "穀倉"
+            },
+            {
+              "word": "biography",
+              "pos": "n. [C][U]",
+              "chinese": "傳記"
+            },
+            {
+              "word": "biology",
+              "pos": "n. [U]",
+              "chinese": "生物學"
+            },
+            {
+              "word": "bless",
+              "pos": "vt.",
+              "chinese": "祝福；保佑"
+            },
+            {
+              "word": "blessing",
+              "pos": "n. [C]",
+              "chinese": "祝福；恩賜；可喜之事"
+            },
+            {
+              "word": "bond",
+              "pos": "n. [C]",
+              "chinese": "鐐銬；束縛物"
+            },
+            {
+              "word": "bowling",
+              "pos": "n. [U]",
+              "chinese": "保齡球運動"
+            },
+            {
+              "word": "broadcast",
+              "pos": "n. [C]",
+              "chinese": "電視節目；廣播節目"
+            },
+            {
+              "word": "budget",
+              "pos": "n. [C][U]",
+              "chinese": "預算"
+            },
+            {
+              "word": "bulletin",
+              "pos": "n. [C]",
+              "chinese": "公告"
+            },
+            {
+              "word": "campaign",
+              "pos": "n. [C]",
+              "chinese": "運動；活動"
+            },
+            {
+              "word": "canoe",
+              "pos": "n. [C]",
+              "chinese": "獨木舟"
+            },
+            {
+              "word": "capitalism",
+              "pos": "n. [U]",
+              "chinese": "資本主義"
+            },
+            {
+              "word": "career",
+              "pos": "n. [C]",
+              "chinese": "生涯；職業"
+            },
+            {
+              "word": "carve",
+              "pos": "vt.",
+              "chinese": "切（肉）"
+            },
+            {
+              "word": "catalog(ue)",
+              "pos": "n. [C]",
+              "chinese": "型錄"
+            },
+            {
+              "word": "celebration",
+              "pos": "n. [C][U]",
+              "chinese": "慶祝（活動）"
+            },
+            {
+              "word": "championship",
+              "pos": "n. [C]",
+              "chinese": "冠軍頭銜"
+            },
+            {
+              "word": "characteristic",
+              "pos": "n. [C]",
+              "chinese": "特色；特性"
+            },
+            {
+              "word": "charity",
+              "pos": "n. [U]",
+              "chinese": "仁慈；善心"
+            },
+            {
+              "word": "chorus",
+              "pos": "n. [C]",
+              "chinese": "合唱（團）"
+            },
+            {
+              "word": "circus",
+              "pos": "n. [C]",
+              "chinese": "馬戲團"
+            },
+            {
+              "word": "civil",
+              "pos": "adj.",
+              "chinese": "公民的；市民的"
+            },
+            {
+              "word": "civilization",
+              "pos": "n. [C][U]",
+              "chinese": "文化；教化；開化"
+            },
+            {
+              "word": "classification",
+              "pos": "n. [C][U]",
+              "chinese": "分類"
+            },
+            {
+              "word": "classify",
+              "pos": "vt.",
+              "chinese": "將…分類"
+            },
+            {
+              "word": "comedy",
+              "pos": "n. [C]",
+              "chinese": "喜劇"
+            },
+            {
+              "word": "comment",
+              "pos": "n. [C][U]",
+              "chinese": "評論；批評"
+            },
+            {
+              "word": "commerce",
+              "pos": "n. [U]",
+              "chinese": "商業；貿易"
+            },
+            {
+              "word": "commit",
+              "pos": "vt.",
+              "chinese": "犯（罪）；做（錯事等）"
+            },
+            {
+              "word": "compose",
+              "pos": "vt.",
+              "chinese": "創作"
+            },
+            {
+              "word": "composition",
+              "pos": "n. [C][U]",
+              "chinese": "作文；作曲"
+            },
+            {
+              "word": "concert",
+              "pos": "n. [C]",
+              "chinese": "音樂會；演唱會"
+            },
+            {
+              "word": "conference",
+              "pos": "",
+              "chinese": "會議"
             }
           ],
           "sentences": []
