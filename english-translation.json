@@ -167,6 +167,48 @@
               "en": "Three people were trapped in the building. One was (badly/seriously) injured, another was scared and crying, and the other treid to stay calm and called for help."
             }
           ]
+        },
+        {
+          "lesson": 7,
+          "title": "第七課",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
+          "pairs": [
+            {
+              "ch": "許多觀眾發現這場演講既具啟發性又富有哲學意涵。(find + O + adj.)",
+              "en": ""
+            },
+            {
+              "ch": "這場疾病讓 Herry 在醫院住了六個星期。(keep + O + prep.)",
+              "en": ""
+            },
+            {
+              "ch": "真令人驚訝，這場活動吸引了許多名人和籌辦者。(It...)",
+              "en": ""
+            },
+            {
+              "ch": "令人印象深刻的是，他在研討會中分享了他如何發行這個系列。(It...)",
+              "en": ""
+            },
+            {
+              "ch": "不幸的是這場研討會籌劃不當，使許多與會者感到困惑和沮喪。(It...)",
+              "en": ""
+            }
+          ]
+        },
+        {
+          "lesson": 8,
+          "title": "第八課",
+          "status": "",
+          "statusColor": "yellow",
+          "enabled": true,
+          "pairs": [
+            {
+              "ch": "預測到一場猛烈的暴風雨，村民們急著趕往最近的避難所。(V-ing/p.p...., S + V....)",
+              "en": ""
+            }
+          ]
         }
       ]
     }
