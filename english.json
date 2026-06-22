@@ -7153,6 +7153,276 @@
             }
           ],
           "sentences": []
+        },
+        {
+          "lesson": 72,
+          "title": "7-2",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
+          "vocabulary": [
+            {
+              "word": "congress",
+              "pos": "n. [C]",
+              "chinese": "代表大會；會議"
+            },
+            {
+              "word": "constitution",
+              "pos": "n. [C]",
+              "chinese": "組成；結構"
+            },
+            {
+              "word": "construct",
+              "pos": "vt.",
+              "chinese": "建造；構造"
+            },
+            {
+              "word": "construction",
+              "pos": "n. [U]",
+              "chinese": "建造；營造"
+            },
+            {
+              "word": "consult",
+              "pos": "vt. vi.",
+              "chinese": "請教；資訊"
+            },
+            {
+              "word": "consume",
+              "pos": "vt.",
+              "chinese": "消耗；花費"
+            },
+            {
+              "word": "content",
+              "pos": "n. [U]",
+              "chinese": "（文章、電影的）內容"
+            },
+            {
+              "word": "contest",
+              "pos": "n. [C]",
+              "chinese": "競賽；比賽"
+            },
+            {
+              "word": "context",
+              "pos": "n. [C]",
+              "chinese": "上下文"
+            },
+            {
+              "word": "contribute",
+              "pos": "vt. vi.",
+              "chinese": "捐助；捐獻"
+            },
+            {
+              "word": "contribution",
+              "pos": "n. [C][U]",
+              "chinese": "貢獻；捐助"
+            },
+            {
+              "word": "convention",
+              "pos": "n. [C]",
+              "chinese": "大會；會議"
+            },
+            {
+              "word": "craft",
+              "pos": "n. [C][U]",
+              "chinese": "手藝；技術"
+            },
+            {
+              "word": "crown",
+              "pos": "n. [C]",
+              "chinese": "皇冠"
+            },
+            {
+              "word": "declare",
+              "pos": "vt.",
+              "chinese": "宣布；宣告"
+            },
+            {
+              "word": "decorate",
+              "pos": "vt. vi.",
+              "chinese": "裝飾"
+            },
+            {
+              "word": "decoration",
+              "pos": "n. [C][U]",
+              "chinese": "裝飾（品）"
+            },
+            {
+              "word": "democracy",
+              "pos": "n. [C][U]",
+              "chinese": "民主（國家；政體）"
+            },
+            {
+              "word": "democratic",
+              "pos": "adj.",
+              "chinese": "民主的"
+            },
+            {
+              "word": "demonstrate",
+              "pos": "vt. vi.",
+              "chinese": "示範；展示"
+            },
+            {
+              "word": "demonstration",
+              "pos": "n. [C][U]",
+              "chinese": "展示"
+            },
+            {
+              "word": "deposit",
+              "pos": "n. [C]",
+              "chinese": "存款；押金"
+            },
+            {
+              "word": "devil",
+              "pos": "n. [C]",
+              "chinese": "惡魔；魔鬼"
+            },
+            {
+              "word": "devote",
+              "pos": "vt.",
+              "chinese": "奉獻"
+            },
+            {
+              "word": "diploma",
+              "pos": "n. [C]",
+              "chinese": "文憑"
+            },
+            {
+              "word": "discipline",
+              "pos": "n. [U]",
+              "chinese": "紀律"
+            },
+            {
+              "word": "discount",
+              "pos": "n. [C]",
+              "chinese": "折扣"
+            },
+            {
+              "word": "dive",
+              "pos": "vi.",
+              "chinese": "潛水；跳水"
+            },
+            {
+              "word": "draft",
+              "pos": "n. [C]",
+              "chinese": "初稿"
+            },
+            {
+              "word": "dramatic",
+              "pos": "adj.",
+              "chinese": "戲劇（性）的"
+            },
+            {
+              "word": "dynasty",
+              "pos": "n. [C]",
+              "chinese": "朝代"
+            },
+            {
+              "word": "economic",
+              "pos": "adj.",
+              "chinese": "經濟（學）的"
+            },
+            {
+              "word": "economical",
+              "pos": "adj.",
+              "chinese": "節儉的；節省的"
+            },
+            {
+              "word": "economics",
+              "pos": "n. [U]",
+              "chinese": "經濟（學）"
+            },
+            {
+              "word": "economy",
+              "pos": "n. [C][U]",
+              "chinese": "經濟（制度）"
+            },
+            {
+              "word": "edit",
+              "pos": "vt.",
+              "chinese": "編輯"
+            },
+            {
+              "word": "educate",
+              "pos": "vt.",
+              "chinese": "教育"
+            },
+            {
+              "word": "educational",
+              "pos": "adj.",
+              "chinese": "教育的"
+            },
+            {
+              "word": "election",
+              "pos": "n. [C][U]",
+              "chinese": "選舉"
+            },
+            {
+              "word": "electronics",
+              "pos": "n. [U]",
+              "chinese": "電子學"
+            },
+            {
+              "word": "empire",
+              "pos": "n. [C]",
+              "chinese": "帝國"
+            },
+            {
+              "word": "engineering",
+              "pos": "n. [U]",
+              "chinese": "工程（學）"
+            },
+            {
+              "word": "entertain",
+              "pos": "vt.",
+              "chinese": "娛樂"
+            },
+            {
+              "word": "equality",
+              "pos": "",
+              "chinese": "平等；相等"
+            },
+            {
+              "word": "evidence",
+              "pos": "n. [U]",
+              "chinese": "證據"
+            },
+            {
+              "word": "exhibit",
+              "pos": "vt.",
+              "chinese": "展覽"
+            },
+            {
+              "word": "exhibition",
+              "pos": "n. [C][U]",
+              "chinese": "展覽（會）"
+            },
+            {
+              "word": "explore",
+              "pos": "vt. vi.",
+              "chinese": "探索"
+            },
+            {
+              "word": "export",
+              "pos": "vt. vi.",
+              "chinese": "輸出；出口"
+            },
+            {
+              "word": "fairy",
+              "pos": "n. [C]",
+              "chinese": "小精靈"
+            },
+            {
+              "word": "faith",
+              "pos": "n. [U]",
+              "chinese": "信心；信任"
+            },
+            {
+              "word": "fame",
+              "pos": "n. [U]",
+              "chinese": "名聲"
+            }
+          ],
+          "sentences": []
         }
       ]
     }
