@@ -7423,6 +7423,276 @@
             }
           ],
           "sentences": []
+        },
+        {
+          "lesson": 73,
+          "title": "7-3",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
+          "vocabulary": [
+            {
+              "word": "fashionable",
+              "pos": "adj.",
+              "chinese": "時尚的"
+            },
+            {
+              "word": "feast",
+              "pos": "n. [C]",
+              "chinese": "宴會；盛宴"
+            },
+            {
+              "word": "fiction",
+              "pos": "n. [U]",
+              "chinese": "小說"
+            },
+            {
+              "word": "finance",
+              "pos": "n. [U]",
+              "chinese": "財務"
+            },
+            {
+              "word": "financial",
+              "pos": "adj.",
+              "chinese": "財務的"
+            },
+            {
+              "word": "firework",
+              "pos": "n. [C]",
+              "chinese": "煙火"
+            },
+            {
+              "word": "flute",
+              "pos": "n. [C]",
+              "chinese": "長笛"
+            },
+            {
+              "word": "forecast",
+              "pos": "vt.",
+              "chinese": "預測"
+            },
+            {
+              "word": "formation",
+              "pos": "n. [C][U]",
+              "chinese": "形成；養成；組成"
+            },
+            {
+              "word": "formula",
+              "pos": "n. [C]",
+              "chinese": "公式；方程式"
+            },
+            {
+              "word": "fortune",
+              "pos": "n. [C]",
+              "chinese": "命運"
+            },
+            {
+              "word": "foundation",
+              "pos": "n. [U]",
+              "chinese": "基礎"
+            },
+            {
+              "word": "fund",
+              "pos": "n. [C]",
+              "chinese": "基金；資金"
+            },
+            {
+              "word": "funeral",
+              "pos": "n. [C]",
+              "chinese": "葬禮"
+            },
+            {
+              "word": "gamble",
+              "pos": "vt. vi.",
+              "chinese": "賭博；投機"
+            },
+            {
+              "word": "golf",
+              "pos": "n. [C][U]",
+              "chinese": "高爾夫球運動；高爾夫球"
+            },
+            {
+              "word": "graduate",
+              "pos": "vi.",
+              "chinese": "畢業"
+            },
+            {
+              "word": "graduation",
+              "pos": "n. [C][U]",
+              "chinese": "畢業（典禮）"
+            },
+            {
+              "word": "grammar",
+              "pos": "n. [U]",
+              "chinese": "文法"
+            },
+            {
+              "word": "grammatical",
+              "pos": "adj.",
+              "chinese": "（合乎）文法的"
+            },
+            {
+              "word": "guarantee",
+              "pos": "n. [C][U]",
+              "chinese": "保證（書）"
+            },
+            {
+              "word": "guilt",
+              "pos": "n. [U]",
+              "chinese": "罪（行）"
+            },
+            {
+              "word": "handwriting",
+              "pos": "n. [U]",
+              "chinese": "手寫；筆跡"
+            },
+            {
+              "word": "headline",
+              "pos": "n. [C]",
+              "chinese": "標題；頭條"
+            },
+            {
+              "word": "hell",
+              "pos": "n. [U]",
+              "chinese": "地獄；地獄般的處境"
+            },
+            {
+              "word": "historic",
+              "pos": "adj.",
+              "chinese": "歷史上著名的；有歷史意義的"
+            },
+            {
+              "word": "holy",
+              "pos": "adj.",
+              "chinese": "神聖的"
+            },
+            {
+              "word": "honeymoon",
+              "pos": "n. [C]",
+              "chinese": "蜜月"
+            },
+            {
+              "word": "honor",
+              "pos": "n. [U]",
+              "chinese": "榮耀"
+            },
+            {
+              "word": "humanity",
+              "pos": "n. [U]",
+              "chinese": "人性；人道"
+            },
+            {
+              "word": "idiom",
+              "pos": "n. [C]",
+              "chinese": "慣用語；成語"
+            },
+            {
+              "word": "idol",
+              "pos": "n. [C]",
+              "chinese": "偶像"
+            },
+            {
+              "word": "import",
+              "pos": "vt.",
+              "chinese": "進口"
+            },
+            {
+              "word": "inflation",
+              "pos": "n. [U]",
+              "chinese": "通貨膨脹"
+            },
+            {
+              "word": "information",
+              "pos": "n. [U]",
+              "chinese": "消息；資訊；情報"
+            },
+            {
+              "word": "instruct",
+              "pos": "vt.",
+              "chinese": "指示；吩咐；命令"
+            },
+            {
+              "word": "insurance",
+              "pos": "n. [U]",
+              "chinese": "保險"
+            },
+            {
+              "word": "interpret",
+              "pos": "vt.",
+              "chinese": "解釋；詮釋"
+            },
+            {
+              "word": "invest",
+              "pos": "vt. vi.",
+              "chinese": "投資"
+            },
+            {
+              "word": "investigation",
+              "pos": "n. [C][U]",
+              "chinese": "調查"
+            },
+            {
+              "word": "jazz",
+              "pos": "n. [U]",
+              "chinese": "爵士樂"
+            },
+            {
+              "word": "learning",
+              "pos": "n. [U]",
+              "chinese": "學習；學識；學問"
+            },
+            {
+              "word": "lecture",
+              "pos": "n. [C]",
+              "chinese": "（尤指大學）講課；講座"
+            },
+            {
+              "word": "legend",
+              "pos": "n. [C][U]",
+              "chinese": "傳說"
+            },
+            {
+              "word": "leisure",
+              "pos": "n. [U]",
+              "chinese": "閒暇"
+            },
+            {
+              "word": "license",
+              "pos": "n. [C]",
+              "chinese": "許可證；執照"
+            },
+            {
+              "word": "literary",
+              "pos": "adj.",
+              "chinese": "文學的"
+            },
+            {
+              "word": "literature",
+              "pos": "n. [U]",
+              "chinese": "文學（作品）；文獻"
+            },
+            {
+              "word": "loan",
+              "pos": "n. [C][U]",
+              "chinese": "貸款；借貸"
+            },
+            {
+              "word": "logic",
+              "pos": "n. [U]",
+              "chinese": "常理；邏輯"
+            },
+            {
+              "word": "logical",
+              "pos": "adj.",
+              "chinese": "合乎邏輯的；合理的"
+            },
+            {
+              "word": "marathon",
+              "pos": "n. [C]",
+              "chinese": "馬拉松賽跑；耗時費力的活動"
+            }
+          ],
+          "sentences": []
         }
       ]
     }
