@@ -8,7 +8,7 @@
           "title": "Lesson 1",
           "status": "VIP 優先使用",
           "statusColor": "yellow",
-          "enabled": false,
+          "enabled": true,
           "vocabulary": [],
           "sentences": [
             {
