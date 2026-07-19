@@ -1,11 +1,11 @@
 {
   "sources": [
     {
-      "name": "龍騰 S1",
+      "name": "龍騰 B1",
       "lessons": [
         {
           "lesson": 4,
-          "title": "Unit 4",
+          "title": "Lesson 4",
           "vocabulary": [
             {
               "word": "sensitive",
@@ -211,7 +211,7 @@
         },
         {
           "lesson": 5,
-          "title": "Unit 5",
+          "title": "Lesson 5",
           "vocabulary": [
             {
               "word": "plastic",
@@ -387,7 +387,7 @@
         },
         {
           "lesson": 6,
-          "title": "Unit 6",
+          "title": "Lesson 6",
           "vocabulary": [
             {
               "word": "freedom",
@@ -533,7 +533,7 @@
         },
         {
           "lesson": 7,
-          "title": "Unit 7",
+          "title": "Lesson 7",
           "vocabulary": [
             {
               "word": "triumph",
@@ -779,7 +779,7 @@
         },
         {
           "lesson": 8,
-          "title": "Unit 8",
+          "title": "Lesson 8",
           "vocabulary": [
             {
               "word": "familiar",
@@ -1036,7 +1036,7 @@
         },
         {
           "lesson": 9,
-          "title": "Unit 9",
+          "title": "Lesson 9",
           "vocabulary": [
             {
               "word": "detailed",
@@ -1294,11 +1294,11 @@
       ]
     },
     {
-      "name": "龍騰 S2",
+      "name": "龍騰 B2",
       "lessons": [
         {
           "lesson": 1,
-          "title": "Unit 1",
+          "title": "Lesson 1",
           "vocabulary": [
             {
               "word": "champion",
@@ -1572,7 +1572,7 @@
         },
         {
           "lesson": 2,
-          "title": "Unit 2",
+          "title": "Lesson 2",
           "vocabulary": [
             {
               "word": "warn",
@@ -1748,7 +1748,7 @@
         },
         {
           "lesson": 3,
-          "title": "Unit 3",
+          "title": "Lesson 3",
           "vocabulary": [
             {
               "word": "grace",
@@ -2056,7 +2056,7 @@
         },
         {
           "lesson": 4,
-          "title": "Unit 4",
+          "title": "Lesson 4",
           "status": "",
           "statusColor": "yellow",
           "enabled": true,
@@ -2347,7 +2347,7 @@
         },
         {
           "lesson": 5,
-          "title": "Unit 5",
+          "title": "Lesson 5",
           "status": "",
           "statusColor": "yellow",
           "enabled": true,
@@ -2639,7 +2639,7 @@
         },
         {
           "lesson": 6,
-          "title": "Unit 6",
+          "title": "Lesson 6",
           "status": "",
           "statusColor": "yellow",
           "enabled": true,
@@ -3202,9 +3202,9 @@
         },
         {
           "lesson": 7,
-          "title": "Unit 7",
-          "status": "New",
-          "statusColor": "green",
+          "title": "Lesson 7",
+          "status": "",
+          "statusColor": "yellow",
           "enabled": true,
           "vocabulary": [
             {
@@ -3473,9 +3473,9 @@
         },
         {
           "lesson": 8,
-          "title": "Unit 8",
-          "status": "New",
-          "statusColor": "green",
+          "title": "Lesson 8",
+          "status": "",
+          "statusColor": "yellow",
           "enabled": true,
           "vocabulary": [
             {
@@ -3746,9 +3746,9 @@
         },
         {
           "lesson": 9,
-          "title": "Unit 9",
-          "status": "New",
-          "statusColor": "green",
+          "title": "Lesson 9",
+          "status": "",
+          "statusColor": "yellow",
           "enabled": true,
           "vocabulary": [
             {
@@ -4033,6 +4033,349 @@
                 {
                   "type": "blank",
                   "answer": "up"
+                }
+              ]
+            }
+          ],
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "name": "龍騰 B3(尚未對所有用戶開放)",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Lesson 1",
+          "status": "VIP 優先使用",
+          "statusColor": "yellow",
+          "enabled": false,
+          "vocabulary": [
+            {
+              "word": "employ",
+              "pos": "vt.",
+              "chinese": "僱用"
+            },
+            {
+              "word": "employer",
+              "pos": "n. [C]",
+              "chinese": "雇主"
+            },
+            {
+              "word": "employee",
+              "pos": "n. [C]",
+              "chinese": "員工；受僱者"
+            },
+            {
+              "word": "employment",
+              "pos": "n. [U]",
+              "chinese": "工作；受僱"
+            },
+            {
+              "word": "corporation",
+              "pos": "n. [C]",
+              "chinese": "（大）公司；集團公司"
+            },
+            {
+              "word": "corporate",
+              "pos": "adj.",
+              "chinese": "（大）公司的"
+            },
+            {
+              "word": "suffer",
+              "pos": "vi.",
+              "chinese": "受苦"
+            },
+            {
+              "word": "terminal",
+              "pos": "adj.",
+              "chinese": "末期的"
+            },
+            {
+              "word": "terminal",
+              "pos": "n. [C]",
+              "chinese": "航廈；月台"
+            },
+            {
+              "word": "illness",
+              "pos": "n. [C]",
+              "chinese": "疾病；生病"
+            },
+            {
+              "word": "illness",
+              "pos": "n. [U]",
+              "chinese": "疾病；生病"
+            },
+            {
+              "word": "ill",
+              "pos": "adj.",
+              "chinese": "生病的"
+            },
+            {
+              "word": "tremendously",
+              "pos": "adv.",
+              "chinese": "相當大地"
+            },
+            {
+              "word": "tremendous",
+              "pos": "adj.",
+              "chinese": "相當大的"
+            },
+            {
+              "word": "laughter",
+              "pos": "n. [U]",
+              "chinese": "笑；笑聲"
+            },
+            {
+              "word": "frighten",
+              "pos": "vt.",
+              "chinese": "使驚嚇"
+            },
+            {
+              "word": "fright",
+              "pos": "n. [U]",
+              "chinese": "驚嚇"
+            },
+            {
+              "word": "contact",
+              "pos": "n. [U]",
+              "chinese": "接觸"
+            },
+            {
+              "word": "contact",
+              "pos": "n. [U]",
+              "chinese": "聯絡"
+            },
+            {
+              "word": "contact",
+              "pos": "vt.",
+              "chinese": "聯絡"
+            },
+            {
+              "word": "germ",
+              "pos": "n. [C] (usu. pl.)",
+              "chinese": "細菌"
+            },
+            {
+              "word": "warmth",
+              "pos": "n. [U]",
+              "chinese": "熱情"
+            },
+            {
+              "word": "warmth",
+              "pos": "n. [U]",
+              "chinese": "溫暖"
+            },
+            {
+              "word": "frail",
+              "pos": "adj.",
+              "chinese": "虛弱的"
+            },
+            {
+              "word": "prompt",
+              "pos": "vt.",
+              "chinese": "促使"
+            },
+            {
+              "word": "prompt",
+              "pos": "adj.",
+              "chinese": "立即的"
+            },
+            {
+              "word": "confine",
+              "pos": "vt.",
+              "chinese": "侷限；限定"
+            },
+            {
+              "word": "sparkle",
+              "pos": "n. [C]",
+              "chinese": "神采；閃耀"
+            },
+            {
+              "word": "sparkle",
+              "pos": "vi.",
+              "chinese": "閃耀"
+            },
+            {
+              "word": "hug",
+              "pos": "n. [U]",
+              "chinese": "擁抱"
+            },
+            {
+              "word": "hug",
+              "pos": "vt.",
+              "chinese": "擁抱"
+            },
+            {
+              "word": "drowsy",
+              "pos": "adj.",
+              "chinese": "昏昏欲睡的"
+            },
+            {
+              "word": "stretch",
+              "pos": "vt.",
+              "chinese": "伸出（手臂或腿）"
+            },
+            {
+              "word": "stretch",
+              "pos": "vt.",
+              "chinese": "伸長；拉長"
+            },
+            {
+              "word": "refuse",
+              "pos": "vi.",
+              "chinese": "拒絕"
+            },
+            {
+              "word": "refuse",
+              "pos": "vt.",
+              "chinese": "拒絕"
+            },
+            {
+              "word": "refusal",
+              "pos": "n. [U]",
+              "chinese": "拒絕"
+            },
+            {
+              "word": "hesitate",
+              "pos": "vi.",
+              "chinese": "猶豫"
+            },
+            {
+              "word": "hesitation",
+              "pos": "n. [U]",
+              "chinese": "猶豫"
+            },
+            {
+              "word": "pass on...to...",
+              "pos": "phr.",
+              "chinese": "將……傳給、轉交給……",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "pass"
+                },
+                {
+                  "type": "blank",
+                  "answer": "on"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                }
+              ]
+            },
+            {
+              "word": "cheer...up",
+              "pos": "phr.",
+              "chinese": "使……振奮、高興",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "cheer"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                },
+                {
+                  "type": "blank",
+                  "answer": "up"
+                }
+              ]
+            },
+            {
+              "word": "turn...down",
+              "pos": "phr.",
+              "chinese": "拒絕……",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "turn"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                },
+                {
+                  "type": "blank",
+                  "answer": "down"
+                }
+              ]
+            },
+            {
+              "word": "be about to",
+              "pos": "phr.",
+              "chinese": "即將；正要",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "be"
+                },
+                {
+                  "type": "blank",
+                  "answer": "about"
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                }
+              ]
+            },
+            {
+              "word": "after all",
+              "pos": "phr.",
+              "chinese": "畢竟",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "after"
+                },
+                {
+                  "type": "blank",
+                  "answer": "all"
+                }
+              ]
+            },
+            {
+              "word": "pass away",
+              "pos": "phr.",
+              "chinese": "過世",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "pass"
+                },
+                {
+                  "type": "blank",
+                  "answer": "away"
+                }
+              ]
+            },
+            {
+              "word": "make a difference",
+              "pos": "phr.",
+              "chinese": "有所影響",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "make"
+                },
+                {
+                  "type": "blank",
+                  "answer": "a"
+                },
+                {
+                  "type": "blank",
+                  "answer": "difference"
                 }
               ]
             }
