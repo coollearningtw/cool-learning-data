@@ -1,99 +1,163 @@
 {
   "sources": [
     {
-      "name": "空中美語No. 311",
+      "name": "龍騰 B3",
       "lessons": [
         {
-          "lesson": 3111,
-          "title": "Unit 1",
+          "lesson": 1,
+          "title": "Lesson 1",
+          "status": "VIP 優先使用",
+          "statusColor": "yellow",
+          "enabled": false,
+          "vocabulary": [],
           "sentences": [
             {
-              "en": "(Ava arrives at the animal shelter for her first volunteer day.)",
-              "ch": "（Ava 抵達動物收容所進行她第一天的志工服務。）"
+              "en": "A few years ago, I was employed by the McDonald's Corporation. ",
+              "ch": "幾年前，我受僱於麥當勞集團。"
             },
             {
-              "en": "Josh: Welcome to the shelter. Ready to meet some furry friends?",
-              "ch": "Josh: 歡迎來到收容所。準備好去見見一些毛茸茸的朋友了嗎？"
+              "en": "On \"Ronald Day,\" I would dress up as Ronald McDonald and visit the community hospital's sick children. ",
+              "ch": "在「麥當勞叔叔日」那天，我會打扮成麥當勞叔叔去探訪社區醫院裡的病童。"
             },
             {
-              "en": "Ava: Yeah! I've always wanted to help animals. What kind of things do we usually do here?",
-              "ch": "Ava: 是的！我一直想幫助動物。我們這裡通常做些什麼事情？"
+              "en": "Most of these young patients were suffering from terminal illnesses. ",
+              "ch": "這些年幼的病患大多數都受到末期疾病的折磨。"
             },
             {
-              "en": "Josh: We're very thankful for your help. ==We care for dogs and cats here and try to find suitable families for them.==",
-              "ch": "Josh: 我們非常感謝妳的幫忙。我們在這裡照顧貓狗，並試著為牠們尋找合適的家庭。"
+              "en": "Thus, I would try my best to ease their pain. ",
+              "ch": "因此，我盡可能緩解他們的病痛。"
             },
             {
-              "en": "Ava: That's wonderful. How can I help?",
-              "ch": "Ava: 那太棒了。我要怎麼幫忙？"
+              "en": "And I found it tremendously rewarding to be able to bring some laughter to the kids.",
+              "ch": "而且我發現能夠將一些歡笑帶給這些孩子是相當有意義的。"
             },
             {
-              "en": "Josh: Some main tasks will be feeding the animals, cleaning their cages, and making sure they have fresh water. If a dog or a cat has medical needs, we will give them medicine or extra treatment.",
-              "ch": "Josh: 一些主要的任務包括餵食動物、清理籠子，並確保牠們有新鮮的水喝。如果貓狗有醫療需求，我們會給予藥物或額外的治療。"
+              "en": "",
+              "ch": ""
             },
             {
-              "en": "Ava: Got it. What else do I need to do?",
-              "ch": "Ava: 了解。我還需要做什麼？"
+              "en": "One of the rules of my job was never to visit the children alone when I was dressed as Ronald, for I might frighten them with my painted face and red wig. ",
+              "ch": "我的工作規定之一就是在我打扮成麥當勞叔叔時絕對不能單獨去探望孩童，因為我彩繪的臉和紅色的假髮可能會嚇到他們。"
             },
             {
-              "en": "Josh: Your job also includes playing with the animals, keeping them company, and helping them get familiar with humans. You'll also fill out daily logs to keep track of their health and behavior.",
-              "ch": "Josh: 妳的工作也包含陪動物玩、陪伴牠們，並幫助牠們熟悉人類。妳也要填寫日誌來追蹤牠們的健康和行為。"
+              "en": "I wasn't permitted to have any physical contact with the children either, since doing so might pass on germs to them. ",
+              "ch": "我也不被允許跟那些孩童有任何肢體接觸，因為這樣做可能會將細菌傳給他們。"
             },
             {
-              "en": "Ava: No problem! I'm ready to start.",
-              "ch": "Ava: 沒問題！我準備好開始了。"
+              "en": "Though I understood the reasoning behind these rules, I also felt that sometimes nothing could convey love, empathy, and warmth like a heartfelt embrace.",
+              "ch": "雖然我了解這些規定背後的道理，但我也覺得有些時候沒有東西能夠像一個由衷的擁抱那樣去傳達愛、同理心和溫暖。"
             },
             {
-              "en": "Josh: Perfect. Let's go—The animals are eager to meet you!",
-              "ch": "Josh: 太好了。我們走吧——動物們都渴望見到妳！"
+              "en": "",
+              "ch": ""
             },
             {
-              "en": "Josh: Ava, this lady's here to adopt a dog. Can you show her around?",
-              "ch": "Josh: Ava，這位女士是來領養狗的。妳能帶她四處看看嗎？"
+              "en": "Once, as I was leaving the hospital after finishing my work for the day, I heard a voice coming from a half-open door. ",
+              "ch": "有一次，當結束我那天的工作後，正要離開醫院時，我聽到一個聲音從一扇半開的門傳來。"
             },
             {
-              "en": "Ava: Certainly! Follow me. Here are some of the dogs ready for adoption.",
-              "ch": "Ava: 當然！請跟我來。這裡有一些準備好被領養的狗狗。"
+              "en": "\"Ronald,\" the frail voice called, prompting me to push open the door and go in. ",
+              "ch": "那個虛弱的聲音叫道：「麥當勞叔叔」，促使我推開那扇門走進去。"
             },
             {
-              "en": "Visitor: This little guy is full of energy! Can I play with him for a bit?",
-              "ch": "訪客: 這小傢伙充滿了活力！我可以跟牠玩一下嗎？"
+              "en": "I found a small boy of about five lying in bed and looking extremely weak and pale. ",
+              "ch": "我發現一個大約五歲的瘦小男孩躺在床上，而且看起來極度虛弱和蒼白。"
             },
             {
-              "en": "Ava: Sure! This is Max. He's playful but very gentle. Let's move to the outdoor play area so you can spend some time with him.",
-              "ch": "Ava: 當然！這隻是 Max。牠很愛玩但很溫馴。我們去戶外遊戲區，這樣妳可以花點時間跟牠相處。"
+              "en": "\"His name is Billy,\" his parents told me, smiling. ",
+              "ch": "「他的名字叫Billy」，他的父母告訴我，並微笑著。"
             },
             {
-              "en": "(Ava lets Max out of his kennel. Max runs around happily for a while and rests next to the visitor.)",
-              "ch": "（Ava 讓 Max 離開籠子。Max 開心地跑了一會兒，然後在訪客旁休息。）"
+              "en": "It was really heartbreaking to see such a young boy confined to a hospital bed. ",
+              "ch": "看到這樣年幼的男孩被困在醫院的病床上，真的很讓人心痛。"
             },
             {
-              "en": "Visitor: Aww ... he's too sweet!",
-              "ch": "訪客: 噢……牠太貼心了！"
+              "en": "I knew I had to do anything I could to cheer little Billy up, so I stayed and did some magic tricks for him. ",
+              "ch": "我知道我必須要盡我所能地鼓舞小Billy，所以我留下來為他變了一些魔術。"
             },
             {
-              "en": "Ava: Max bonds quickly with people he likes. He has been waiting for someone like you.",
-              "ch": "Ava: Max 跟他喜歡的人很快就能建立感情。他一直在等像妳這樣的人。"
+              "en": "A sparkle soon came to his eyes and I asked if I could do anything else for him. ",
+              "ch": "他的眼睛很快有了神采，然後我問是否可以為他做任何其他的事。"
             },
             {
-              "en": "(Max rolls over for belly rubs.)",
-              "ch": "（Max 翻身讓人摸肚子。）"
+              "en": "Billy replied, \"Ronald, can I have a hug?\"",
+              "ch": "Billy回覆道：「麥當勞叔叔，可以給我一個擁抱嗎？」"
             },
             {
-              "en": "Visitor: I think I just found my new best friend. I'd like to adopt him.",
-              "ch": "訪客: 我想我剛找到了我的新好朋友。我想要領養牠。"
+              "en": "",
+              "ch": ""
             },
             {
-              "en": "Ava: Fantastic! I'll guide you through the process. We'll give you notes about Max's habits, diet, and care instructions.",
-              "ch": "Ava: 太棒了！我會引導妳完成整個程序。我們會給妳關於 Max 的習慣、飲食和照顧須知的筆記。"
+              "en": "Although having to turn him down pained me deeply, I had no choice. ",
+              "ch": "雖然必須拒絕他讓我非常難過，但是我別無選擇。"
             },
             {
-              "en": "Visitor: Thanks! I appreciate that.",
-              "ch": "訪客: 謝謝！我很感激。"
+              "en": "I told Billy that it was against the rules and then quickly added that we could do some coloring instead. ",
+              "ch": "我告訴Billy那樣做違反規定，並很快補充說我們可以為圖畫著色來替代。"
             },
             {
-              "en": "Ava: Thank you for giving Max his forever home. I know he'll be in good hands.",
-              "ch": "Ava: 謝謝妳給 Max 一個永遠的家。我知道牠會被照顧得很好。"
+              "en": "A while later, it appeared that he was getting drowsy, so I rose to my feet to get ready to leave. ",
+              "ch": "過了一會兒，他看起來開始昏昏欲睡，所以我站了起來準備離開。"
+            },
+            {
+              "en": "That was when he stretched out his tiny arms to hug me. ",
+              "ch": "就在那時他伸出他的小小手臂要抱我。"
+            },
+            {
+              "en": "I was about to refuse again, but then I saw the look of hope in his eyes. ",
+              "ch": "我正要再次拒絕，但是那當下我在他眼中看見盼望的神色。"
+            },
+            {
+              "en": "Suddenly, I realized I no longer cared if I was caught breaking the rules. ",
+              "ch": "突然，我了解到我已經不在乎我是否會被抓到違反規定。"
+            },
+            {
+              "en": "Some things in life, after all, were more important. ",
+              "ch": "畢竟，生命中有些事是更重要的。"
+            },
+            {
+              "en": "I picked him up and held him in my arms.",
+              "ch": "我把他抱了起來，將他擁抱在我的懷中。"
+            },
+            {
+              "en": "After that, we talked and talked. ",
+              "ch": "在那之後，我們聊了又聊。"
+            },
+            {
+              "en": "He confided his worries to me. ",
+              "ch": "他向我吐露他的煩惱。"
+            },
+            {
+              "en": "He was afraid that his little brother would have no one to play with. ",
+              "ch": "他擔心他的弟弟會沒有人可以一起玩。"
+            },
+            {
+              "en": "Also, he was scared that his dog would go hungry because he had hidden all its bones. ",
+              "ch": "此外，他怕他的狗會挨餓，因為他把牠所有的骨頭都藏起來了。"
+            },
+            {
+              "en": "It seemed that Billy knew he would never be going home. ",
+              "ch": "Billy似乎知道他將永遠不會回家了。"
+            },
+            {
+              "en": "And yet, even then, he was only thinking of others.",
+              "ch": "然而，即使在當下，他仍然只為別人著想。"
+            },
+            {
+              "en": "",
+              "ch": ""
+            },
+            {
+              "en": "When I finally stood up to leave, I gave Billy's parents my number and told them not to hesitate to call me if I could be of any assistance. ",
+              "ch": "當我最後起身要離開時，我給了Billy的父母我的電話號碼，告訴他們如果有我可以幫得上忙的地方，不用猶豫就打電話給我。"
+            },
+            {
+              "en": "Two days later, I received a call from Billy's mom, who told me her son had passed away. ",
+              "ch": "兩天之後，我接到了Billy母親打來的電話，告訴我她的兒子已經過世了。"
+            },
+            {
+              "en": "She wanted to thank me for making a difference in his life, for he'd said to her, \"Mommy, I don't mind if I can't see Santa this year because I've hugged Ronald.\"",
+              "ch": "她想要謝謝我對他的人生有所影響，因為他曾對她說：「媽咪，如果我今年看不到聖誕老人，我不在意，因為我已經抱過麥當勞叔叔了。」"
             }
           ]
         }
