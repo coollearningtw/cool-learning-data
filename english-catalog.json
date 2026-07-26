@@ -17,16 +17,34 @@
         {
           "name": "第二冊 (Book 2)",
           "children": [
-            { "name": "Lesson 1", "source": "龍騰 B2", "lesson": 1 },
-            { "name": "Lesson 2", "source": "龍騰 B2", "lesson": 2 },
-            { "name": "Lesson 3", "source": "龍騰 B2", "lesson": 3 },
-            { "name": "Lesson 4", "source": "龍騰 B2", "lesson": 4 },
-            { "name": "Lesson 5", "source": "龍騰 B2", "lesson": 5 },
-            { "name": "Lesson 6", "source": "龍騰 B2", "lesson": 6 },
-            { "name": "Review 2", "source": "龍騰 B2", "lesson": 65 },
-            { "name": "Lesson 7", "source": "龍騰 B2", "lesson": 7 },
-            { "name": "Lesson 8", "source": "龍騰 B2", "lesson": 8 },
-            { "name": "Lesson 9", "source": "龍騰 B2", "lesson": 9 }
+            {
+              "name": "📖 單字與課文 (B2)",
+              "children": [
+                { "name": "Lesson 1", "source": "龍騰 B2", "lesson": 1 },
+                { "name": "Lesson 2", "source": "龍騰 B2", "lesson": 2 },
+                { "name": "Lesson 3", "source": "龍騰 B2", "lesson": 3 },
+                { "name": "Lesson 4", "source": "龍騰 B2", "lesson": 4 },
+                { "name": "Lesson 5", "source": "龍騰 B2", "lesson": 5 },
+                { "name": "Lesson 6", "source": "龍騰 B2", "lesson": 6 },
+                { "name": "Review 2", "source": "龍騰 B2", "lesson": 65 },
+                { "name": "Lesson 7", "source": "龍騰 B2", "lesson": 7 },
+                { "name": "Lesson 8", "source": "龍騰 B2", "lesson": 8 },
+                { "name": "Lesson 9", "source": "龍騰 B2", "lesson": 9 }
+              ]
+            },
+            {
+              "name": "✍️ 翻譯測驗模式 (S2)",
+              "children": [
+                { "name": "Lesson 1 翻譯", "source": "龍騰 S2", "lesson": 1 },
+                { "name": "Lesson 2 翻譯", "source": "龍騰 S2", "lesson": 2 },
+                { "name": "Lesson 3 翻譯", "source": "龍騰 S2", "lesson": 3 },
+                { "name": "Lesson 4 翻譯", "source": "龍騰 S2", "lesson": 4 },
+                { "name": "Lesson 5 翻譯", "source": "龍騰 S2", "lesson": 5 },
+                { "name": "Lesson 6 翻譯", "source": "龍騰 S2", "lesson": 6 },
+                { "name": "Lesson 7 翻譯", "source": "龍騰 S2", "lesson": 7 },
+                { "name": "Lesson 8 翻譯", "source": "龍騰 S2", "lesson": 8 }
+              ]
+            }
           ]
         },
         {
