@@ -15,7 +15,7 @@
           ],
           "sentences": [
             {
-              "en": "A few years ago, I was employed by the McDonald's Corporation. ",
+              "en": "A few years ago, I was [employed|1] by the McDonald's Corporation. ",
               "ch": "幾年前，我受僱於麥當勞集團。"
             },
             {
