@@ -6,7 +6,13 @@
         {
           "lesson": 1,
           "title": "Lesson 1",
-          "vocabulary": [],
+          "vocabulary": [
+            {
+              "id": "1",
+              "term": "employ",
+              "meaning": "音標： [ɪm`plɔɪ]\n\n詞性： vt.\n\n中文意思： 僱用"
+            }
+          ],
           "sentences": [
             {
               "en": "A few years ago, I was employed by the McDonald's Corporation. ",
