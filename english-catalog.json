@@ -18,7 +18,7 @@
           "name": "第二冊 (Book 2)",
           "children": [
             {
-              "name": "📖 單字與課文 (B2)",
+              "name": "單字與課文",
               "children": [
                 { "name": "Lesson 1", "source": "龍騰 B2", "lesson": 1 },
                 { "name": "Lesson 2", "source": "龍騰 B2", "lesson": 2 },
@@ -33,7 +33,7 @@
               ]
             },
             {
-              "name": "✍️ 翻譯測驗模式 (S2)",
+              "name": "翻譯測驗模式",
               "children": [
                 { "name": "Lesson 1 翻譯", "source": "龍騰 S2", "lesson": 1 },
                 { "name": "Lesson 2 翻譯", "source": "龍騰 S2", "lesson": 2 },
@@ -46,51 +46,35 @@
               ]
             }
           ]
-        },
-        {
-          "name": "第三冊 (Book 3)",
-          "children": [
-            { "name": "Lesson 1", "source": "龍騰 B3(尚未對所有用戶開放)", "lesson": 1 }
-          ]
         }
       ]
     },
     {
-      "name": "字彙專區 (Vocabulary)",
+      "name": "字彙字識+ L3&4",
       "children": [
-        {
-          "name": "字彙字識+ (Level 3)",
-          "children": [
-            { "name": "Unit 2-1", "source": "字彙字識+ L3&4", "lesson": 21 },
-            { "name": "Unit 2-2", "source": "字彙字識+ L3&4", "lesson": 22 },
-            { "name": "Unit 2-3", "source": "字彙字識+ L3&4", "lesson": 23 }
-          ]
-        },
-        {
-          "name": "字彙字識+ (Level 4)",
-          "children": [
-            { "name": "Unit 3-1", "source": "字彙字識+ L3&4", "lesson": 31 },
-            { "name": "Unit 3-2", "source": "字彙字識+ L3&4", "lesson": 32 },
-            { "name": "Unit 3-3", "source": "字彙字識+ L3&4", "lesson": 33 },
-            { "name": "Unit 4-1", "source": "字彙字識+ L3&4", "lesson": 41 },
-            { "name": "Unit 4-2", "source": "字彙字識+ L3&4", "lesson": 42 },
-            { "name": "Unit 4-3", "source": "字彙字識+ L3&4", "lesson": 43 },
-            { "name": "Unit 5", "source": "字彙字識+ L3&4", "lesson": 50 },
-            { "name": "Unit 6-1", "source": "字彙字識+ L3&4", "lesson": 61 },
-            { "name": "Unit 6-2", "source": "字彙字識+ L3&4", "lesson": 62 },
-            { "name": "Unit 6-3", "source": "字彙字識+ L3&4", "lesson": 63 },
-            { "name": "Unit 7-1", "source": "字彙字識+ L3&4", "lesson": 71 },
-            { "name": "Unit 7-2", "source": "字彙字識+ L3&4", "lesson": 72 },
-            { "name": "Unit 7-3", "source": "字彙字識+ L3&4", "lesson": 73 }
-          ]
-        }
+        { "name": "Chapter 2-1", "source": "字彙字識+ L3&4", "lesson": 21 },
+        { "name": "Chapter 2-2", "source": "字彙字識+ L3&4", "lesson": 22 },
+        { "name": "Chapter 2-3", "source": "字彙字識+ L3&4", "lesson": 23 },
+        { "name": "Chapter 3-1", "source": "字彙字識+ L3&4", "lesson": 31 },
+        { "name": "Chapter 3-2", "source": "字彙字識+ L3&4", "lesson": 32 },
+        { "name": "Chapter 3-3", "source": "字彙字識+ L3&4", "lesson": 33 },
+        { "name": "Chapter 4-1", "source": "字彙字識+ L3&4", "lesson": 41 },
+        { "name": "Chapter 4-2", "source": "字彙字識+ L3&4", "lesson": 42 },
+        { "name": "Chapter 4-3", "source": "字彙字識+ L3&4", "lesson": 43 },
+        { "name": "Chapter 5", "source": "字彙字識+ L3&4", "lesson": 50 },
+        { "name": "Chapter 6-1", "source": "字彙字識+ L3&4", "lesson": 61 },
+        { "name": "Chapter 6-2", "source": "字彙字識+ L3&4", "lesson": 62 },
+        { "name": "Chapter 6-3", "source": "字彙字識+ L3&4", "lesson": 63 },
+        { "name": "Chapter 7-1", "source": "字彙字識+ L3&4", "lesson": 71 },
+        { "name": "Chapter 7-2", "source": "字彙字識+ L3&4", "lesson": 72 },
+        { "name": "Chapter 7-3", "source": "字彙字識+ L3&4", "lesson": 73 }
       ]
     }
   ],
   "hidden_contents": [
     {
-      "code": "VIP999",
-      "name": "測試用隱藏課程",
+      "code": "LongtengBook3",
+      "name": "龍騰第三冊搶先使用",
       "lessons": [
         { "source": "龍騰 B3(尚未對所有用戶開放)", "lesson": 1 }
       ]
