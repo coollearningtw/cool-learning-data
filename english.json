@@ -4042,12 +4042,12 @@
       ]
     },
     {
-      "name": "龍騰 B3(尚未對所有用戶開放)",
+      "name": "龍騰 B3",
       "lessons": [
         {
           "lesson": 1,
           "title": "Lesson 1",
-          "status": "VIP 優先使用",
+          "status": "",
           "statusColor": "yellow",
           "enabled": true,
           "vocabulary": [
