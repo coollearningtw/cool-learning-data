@@ -77,7 +77,17 @@
       "name": "龍騰第三冊搶先使用",
       "lessons": [
         { "source": "龍騰 B3", "lesson": 1 },
-        { "source": "龍騰 B3", "lesson": 2 }
+        { "source": "龍騰 B3", "lesson": 2 },
+        { "source": "龍騰 B3", "lesson": 3 },
+        { "source": "龍騰 B3", "lesson": 35 },
+        { "source": "龍騰 B3", "lesson": 4 },
+        { "source": "龍騰 B3", "lesson": 5 },
+        { "source": "龍騰 B3", "lesson": 6 },
+        { "source": "龍騰 B3", "lesson": 65 },
+        { "source": "龍騰 B3", "lesson": 7 },
+        { "source": "龍騰 B3", "lesson": 8 },
+        { "source": "龍騰 B3", "lesson": 9 },
+        { "source": "龍騰 B3", "lesson": 95 }
       ]
     }
   ]
