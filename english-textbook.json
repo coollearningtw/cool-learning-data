@@ -339,7 +339,149 @@
               "word": "",
               "pos": "",
               "chinese": "",
-              "id": "1"
+              "id": "1",
+              "term": "innovative",
+              "meaning": "音標： [ɪnəˏvetɪv]\n詞性： adj.\n中文意思： 創新的"
+            },
+            {
+              "id": "2",
+              "term": "promise",
+              "meaning": "音標： [`prɑmɪs]\n詞性： vt.\n中文意思： 可望……；預示……"
+            },
+            {
+              "id": "3",
+              "term": "material",
+              "meaning": "音標： [mə`tɪrɪəl]\n詞性： n. [C]\n中文意思： （活動所需的）材料"
+            },
+            {
+              "id": "4",
+              "term": "mention",
+              "meaning": "音標： [`mɛnʃən]\n詞性： vt.\n中文意思： 提到"
+            },
+            {
+              "id": "5",
+              "term": "structure",
+              "meaning": "音標： [`strʌktʃɚ]\n詞性： n. [C]\n中文意思： 結構體；建築物"
+            },
+            {
+              "id": "6",
+              "term": "capable",
+              "meaning": "音標： [`kepəbḷ]\n詞性： adj.\n中文意思： 有能力的；能夠……的"
+            },
+            {
+              "id": "7",
+              "term": "collaborate",
+              "meaning": "音標： [kə`læbəˏret]\n詞性： vi.\n中文意思： 合作"
+            },
+            {
+              "id": "8",
+              "term": "architect",
+              "meaning": "音標： [`ɑrkəˏtɛkt]\n詞性： n. [C]\n中文意思： 建築師"
+            },
+            {
+              "id": "9",
+              "term": "graduate",
+              "meaning": "音標： [`grædʒʊɪt]\n詞性： n. [C]\n中文意思： 大學畢業生"
+            },
+            {
+              "id": "10",
+              "term": "construct",
+              "meaning": "音標： [kən`strʌkt]\n詞性： vt.\n中文意思： 建造"
+            },
+            {
+              "id": "11",
+              "term": "slightly",
+              "meaning": "音標： [`slaɪtlɪ]\n詞性： adv.\n中文意思： 稍微"
+            },
+            {
+              "id": "12",
+              "term": "rank",
+              "meaning": "音標： [ræŋk]\n詞性： vi. vt.\n中文意思： 排序為……"
+            },
+            {
+              "id": "13",
+              "term": "unique",
+              "meaning": "音標： [ju`nik]\n詞性： adj.\n中文意思： 獨特的"
+            },
+            {
+              "id": "14",
+              "term": "adjust",
+              "meaning": "音標： [ə`dʒʌst]\n詞性： vt.\n中文意思： 調整"
+            },
+            {
+              "id": "15",
+              "term": "rely",
+              "meaning": "音標： [rɪ`laɪ]\n詞性： vi.\n中文意思： 依賴；信任"
+            },
+            {
+              "id": "16",
+              "term": "trial and error",
+              "meaning": "中文意思： 反覆試驗"
+            },
+            {
+              "id": "17",
+              "term": "feedback",
+              "meaning": "音標： [`fidbæk]\n詞性： n. [U]\n中文意思： 回饋意見"
+            },
+            {
+              "id": "18",
+              "term": "element",
+              "meaning": "音標： [`ɛləmənt]\n詞性： n. [C]\n中文意思： 要素"
+            },
+            {
+              "id": "19",
+              "term": "stability",
+              "meaning": "音標： [stə`bɪlətɪ]\n詞性： n. [U]\n中文意思： 穩定"
+            },
+            {
+              "id": "20",
+              "term": "in charge",
+              "meaning": "中文意思： 主控；負責"
+            },
+            {
+              "id": "21",
+              "term": "figure out",
+              "meaning": "中文意思： 想出"
+            },
+            {
+              "id": "22",
+              "term": "route",
+              "meaning": "音標： [rut; raʊt]\n詞性： n. [C]\n中文意思： 途徑；路線"
+            },
+            {
+              "id": "23",
+              "term": "roll up one’s sleeves",
+              "meaning": "中文意思： 挽起袖子（表示開始行動）"
+            },
+            {
+              "id": "24",
+              "term": "get down to...",
+              "meaning": "中文意思： 開始做某事"
+            },
+            {
+              "id": "25",
+              "term": "explore",
+              "meaning": "音標： [ɪk`splor]\n詞性： vt.\n中文意思： 探索"
+            },
+            {
+              "id": "#1",
+              "term": "Tom Wujec",
+              "meaning": "音標： [tɑm `wʊdʒɛk]\n詞性： n.\n中文意思： 湯姆•伍傑克（一位來自加拿大公司Autodesk的研究員。協助企業商業視覺化、圖像藝術使用，並幫助團隊透過合作解決複雜問題。）"
+            },
+            {
+              "id": "#2",
+              "term": "CEO",
+              "meaning": "音標： [ˏsi i `o]\n詞性： n. [C]\n中文意思： 行政總裁；首席執行長（= chief executive officer）"
+            },
+            {
+              "id": "#3",
+              "term": "kindergartener",
+              "meaning": "音標： [`kɪndɚˏgɑrtṇɚ]\n詞性： n. [C]\n中文意思： 幼稚園生"
+            },
+            {
+              "id": "#4",
+              "term": "outperform",
+              "meaning": "音標： [ˏaʊtpɚ`fɔrm]\n詞性： vt.\n中文意思： （在操作或性能上）勝過"
             }
           ],
           "sentences": [
@@ -348,15 +490,15 @@
               "ch": "20根乾的義大利麵條、一碼膠帶、一碼細繩，還有一顆棉花糖，這些東西如何能幫助打造一個更強的團隊？"
             },
             {
-              "en": "An innovative popular team-building exercise known as the Marshmallow Challenge promises to do just that. ",
+              "en": "An [innovative||1] popular team-building exercise known as the Marshmallow Challenge [promises||2] to do just that. ",
               "ch": "一個名為「棉花糖挑戰」的創新團隊建立活動可望達到這個目的。"
             },
             {
-              "en": "In this challenge, with only the materials mentioned above, teams need to build the tallest free-standing structure capable of supporting the weight of one marshmallow at the top. ",
+              "en": "In this challenge, with only the [materials||3] [mentioned||4] above, teams need to build the tallest free-standing [structure||5] [capable||6] of supporting the weight of one marshmallow at the top. ",
               "ch": "在這項挑戰中，各隊只能使用上述的材料，打造出一個最高的獨立結構體，頂端能夠承載一顆棉花糖的重量。"
             },
             {
-              "en": "With only 18 minutes to complete the task, the teams must learn to collaborate quickly.",
+              "en": "With only 18 minutes to complete the task, the teams must learn to [collaborate||7] quickly.",
               "ch": "只有18分鐘能完成任務，各隊都必須快速學會團隊合作。"
             },
             {
@@ -364,16 +506,84 @@
               "ch": ""
             },
             {
-              "en": "The Marshmallow Challenge, promoted by Canadian technology expert [Tom Wujec|*|#1], has been conducted around the world with architects and engineers, CEOs\\*, lawyers, business graduates, and even [kindergarteners|*|#3]. ",
-              "ch": ""
+              "en": "The Marshmallow Challenge, promoted by Canadian technology expert [Tom Wujec|*|#1], has been conducted around the world with [architects||8] and engineers, [CEOs|*|#2], lawyers, business [graduates||9], and even [kindergarteners|*|#3]. ",
+              "ch": "棉花糖挑戰由加拿大科技專家Tom Wujec所推廣，已有世界各地的建築師、工程師、企業執行長、律師、商管研究生、甚至是幼稚園學生參與活動。"
+            },
+            {
+              "en": "Over the years the challenge has produced some surprising results. ",
+              "ch": "這些年來，這項挑戰已產生一些驚人的成果。"
+            },
+            {
+              "en": "In Wujec's study, the average height of the structures [constructed||10] was 20 inches. ",
+              "ch": "Wujec的研究顯示，各隊打造出的結構體平均高度為20英寸。"
+            },
+            {
+              "en": "The group that built the highest structure was, as expected, architects and engineers. ",
+              "ch": "一如預期，打造出最高結構體的為建築師與工程師。"
+            },
+            {
+              "en": "CEOs performed [slightly||11] better than average, coming in third. ",
+              "ch": "企業執行長的表現略優於平均，排第三位。"
+            },
+            {
+              "en": "Lawyers, on the other hand, performed below average, [ranking||12] second to last. ",
+              "ch": "另一方面，律師表現低於平均，排在倒數第二名。"
+            },
+            {
+              "en": "And despite working to create the best plan, business graduates performed the worst. ",
+              "ch": "商管研究生雖然很努力創造最佳方案，表現卻最差。"
+            },
+            {
+              "en": "Amazingly, kindergarteners [outperformed|*|#4] most of the adult teams to achieve the second best performance.",
+              "ch": "令人驚豔的是，幼稚園學生的表現勝過大部分的成人隊伍，位居第二。"
             },
             {
               "en": "",
               "ch": ""
             },
             {
+              "en": "The impressive performance of the kindergarten group, whose structures were taller than those of most adult teams, can be explained by several reasons related to their [unique||13] way of thinking. ",
+              "ch": "幼稚園學童的表現令人讚歎，他們搭建的結構體比多數成人隊伍的還要高，這可以從他們獨特的做事方式中找到數個原因來解釋。"
+            },
+            {
+              "en": "One reason is that kids usually get started with what has been given to them right away, whereas adults usually don't start putting the structure together until they have spent most of the time planning. ",
+              "ch": "其中一個原因，便是孩童通常就手邊現有的東西便立刻開始做，而成人通常直到花了大部分時間規劃才開始組裝結構體。"
+            },
+            {
+              "en": "This leaves no time to [adjust||14] the design if it cannot support the marshmallow. ",
+              "ch": "如此一來，一旦成品無法承載棉花糖的重量，他們也沒時間可以調整設計了。"
+            },
+            {
+              "en": "Another reason is that unlike adults, kindergarteners are quicker to change their methods after failed approaches. ",
+              "ch": "另一個原因是，與大人不同，孩童一旦失敗，便能很快改變作法。"
+            },
+            {
+              "en": "They [rely||15] on [trial and error||16] —if one method doesn't work, they quickly move on to the next. ",
+              "ch": "他們靠反覆試驗、從錯中學—如果一個方法行不通，便快速轉換到下一個。"
+            },
+            {
+              "en": "This approach gives them immediate [feedback||17] about what design [elements||18] work to give their structure height and [stability||19]. ",
+              "ch": "這種作法讓他們立即獲得反饋，知道什麼樣的設計元素可以讓成品更高更穩。"
+            },
+            {
+              "en": "Still another reason for their success is that children tend to collaborate freely and naturally. They don't waste time deciding who is [in charge||20]. Instead, they are more focused on working together to [figure out||21] how to build the tallest structure.",
+              "ch": "他們的優異表現還有一個原因，便是孩童往往自然而然就能互助合作，不會浪費時間決定誰要帶頭，而是花心思一起想出怎麼樣做出最高的結構體。"
+            },
+            {
               "en": "",
               "ch": ""
+            },
+            {
+              "en": "The Marshmallow Challenge teaches us that age and experience are not the only [routes||22] to success. ",
+              "ch": "棉花糖挑戰教我們年紀與經驗並非通往成功的唯二道路。"
+            },
+            {
+              "en": "In order to solve problems, we must [roll up our sleeves||23] and [get down to||24] work right away, [explore||25] and experiment with new ideas, and collaborate effectively. ",
+              "ch": "要解決問題，就要立刻挽袖幹活，探索與嘗試新思維，並有效合作。"
+            },
+            {
+              "en": "In this way, we can surely keep the marshmallow at the top.",
+              "ch": "如此一來，必能將棉花糖穩穩地置於頂端。"
             }
           ]
         }
