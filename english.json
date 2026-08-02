@@ -4381,6 +4381,315 @@
             }
           ],
           "sentences": []
+        },
+        {
+          "lesson": 2,
+          "title": "Lesson 2",
+          "name": "",
+          "vocabulary": [
+            {
+              "word": "innovative",
+              "pos": "adj.",
+              "chinese": "創新的"
+            },
+            {
+              "word": "innovate",
+              "pos": "vi.",
+              "chinese": "創新"
+            },
+            {
+              "word": "innovation",
+              "pos": "n. [C]",
+              "chinese": "新方法"
+            },
+            {
+              "word": "promise",
+              "pos": "vt.",
+              "chinese": "可望……；預示……"
+            },
+            {
+              "word": "promise",
+              "pos": "vi.",
+              "chinese": "承諾"
+            },
+            {
+              "word": "promise",
+              "pos": "vt.",
+              "chinese": "承諾"
+            },
+            {
+              "word": "promise",
+              "pos": "n. [C]",
+              "chinese": "承諾"
+            },
+            {
+              "word": "material",
+              "pos": "n. [C]",
+              "chinese": "（活動所需的）材料"
+            },
+            {
+              "word": "mention",
+              "pos": "vt.",
+              "chinese": "提到"
+            },
+            {
+              "word": "structure",
+              "pos": "n. [C]",
+              "chinese": "結構體；建築物"
+            },
+            {
+              "word": "capable",
+              "pos": "adj.",
+              "chinese": "有能力的；能夠⋯⋯的"
+            },
+            {
+              "word": "capability",
+              "pos": "n. [C]",
+              "chinese": "能力"
+            },
+            {
+              "word": "collaborate",
+              "pos": "vi.",
+              "chinese": "合作"
+            },
+            {
+              "word": "collaboration",
+              "pos": "n. [C]",
+              "chinese": "合作"
+            },
+            {
+              "word": "collaboration",
+              "pos": "n. [U]",
+              "chinese": "合作"
+            },
+            {
+              "word": "architect",
+              "pos": "n. [C]",
+              "chinese": "建築師"
+            },
+            {
+              "word": "architecture",
+              "pos": "n. [C]",
+              "chinese": "建築"
+            },
+            {
+              "word": "graduate",
+              "pos": "n. [C]",
+              "chinese": "大學畢業生"
+            },
+            {
+              "word": "graduate",
+              "pos": "vi.",
+              "chinese": "畢業"
+            },
+            {
+              "word": "graduation",
+              "pos": "n. [U]",
+              "chinese": "畢業"
+            },
+            {
+              "word": "construct",
+              "pos": "vt.",
+              "chinese": "建造"
+            },
+            {
+              "word": "construction",
+              "pos": "n. [C]",
+              "chinese": "建築物"
+            },
+            {
+              "word": "construction",
+              "pos": "n. [U]",
+              "chinese": "建造"
+            },
+            {
+              "word": "constructive",
+              "pos": "adj.",
+              "chinese": "有建設性的"
+            },
+            {
+              "word": "slightly",
+              "pos": "adj.",
+              "chinese": "稍微"
+            },
+            {
+              "word": "slight",
+              "pos": "adj.",
+              "chinese": "細微的"
+            },
+            {
+              "word": "rank",
+              "pos": "vi.",
+              "chinese": "排序為⋯⋯"
+            },
+            {
+              "word": "rank",
+              "pos": "vt.",
+              "chinese": "排序為⋯⋯"
+            },
+            {
+              "word": "ranking",
+              "pos": "n. [C]",
+              "chinese": "排名"
+            },
+            {
+              "word": "unique",
+              "pos": "adj.",
+              "chinese": "獨特的"
+            },
+            {
+              "word": "adjust",
+              "pos": "vt.",
+              "chinese": "調整"
+            },
+            {
+              "word": "adjustment",
+              "pos": "n. [C]",
+              "chinese": "調整"
+            },
+            {
+              "word": "rely",
+              "pos": "vi.",
+              "chinese": "依賴；信任"
+            },
+            {
+              "word": "reliable",
+              "pos": "adj.",
+              "chinese": "可信賴的"
+            },
+            {
+              "word": "feedback",
+              "pos": "n. [U]",
+              "chinese": "回饋意見"
+            },
+            {
+              "word": "element",
+              "pos": "n. [C]",
+              "chinese": "要素"
+            },
+            {
+              "word": "elementary",
+              "pos": "adj.",
+              "chinese": "初級的；基礎的"
+            },
+            {
+              "word": "stability",
+              "pos": "n. [U]",
+              "chinese": "穩定"
+            },
+            {
+              "word": "stable",
+              "pos": "adj.",
+              "chinese": "穩定的；穩固的"
+            },
+            {
+              "word": "route",
+              "pos": "n. [C]",
+              "chinese": "途徑；路線"
+            },
+            {
+              "word": "explore",
+              "pos": "vt.",
+              "chinese": "探索"
+            },
+            {
+              "word": "exploration",
+              "pos": "n. [C]",
+              "chinese": "探索；探究"
+            },
+            {
+              "word": "trial and error",
+              "pos": "phr.",
+              "chinese": "反覆試驗",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "trial"
+                },
+                {
+                  "type": "blank",
+                  "answer": "and"
+                },
+                {
+                  "type": "blank",
+                  "answer": "error"
+                }
+              ]
+            },
+            {
+              "word": "in charge",
+              "pos": "phr.",
+              "chinese": "主控；負責",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "in"
+                },
+                {
+                  "type": "blank",
+                  "answer": "charge"
+                }
+              ]
+            },
+            {
+              "word": "figure out",
+              "pos": "phr.",
+              "chinese": "想出",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "figure"
+                },
+                {
+                  "type": "blank",
+                  "answer": "out"
+                }
+              ]
+            },
+            {
+              "word": "roll up one's sleeves",
+              "pos": "phr.",
+              "chinese": "挽起袖子（表示開始行動）",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "roll"
+                },
+                {
+                  "type": "blank",
+                  "answer": "up"
+                },
+                {
+                  "type": "text",
+                  "content": "one's"
+                },
+                {
+                  "type": "blank",
+                  "answer": "sleeves"
+                }
+              ]
+            },
+            {
+              "word": "get down to",
+              "pos": "phr.",
+              "chinese": "開始做某事",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "get"
+                },
+                {
+                  "type": "blank",
+                  "answer": "down"
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                }
+              ]
+            }
+          ],
+          "sentences": []
         }
       ]
     },
@@ -7491,7 +7800,7 @@
             },
             {
               "word": "conference",
-              "pos": "",
+              "pos": "n. [C]",
               "chinese": "會議"
             }
           ],
@@ -7527,7 +7836,7 @@
             {
               "word": "consult",
               "pos": "vt. vi.",
-              "chinese": "請教；資訊"
+              "chinese": "請教；諮詢"
             },
             {
               "word": "consume",
