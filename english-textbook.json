@@ -55,91 +55,91 @@
             },
             {
               "id": "10",
-              "term": "pass on...to...",
-              "meaning": "中文意思： 將……傳給、轉交給……"
-            },
-            {
-              "id": "11",
               "term": "germ",
               "meaning": "音標： [dʒɝm]\n詞性： n. [C] (usu. pl.)\n中文意思： 細菌"
             },
             {
-              "id": "12",
+              "id": "11",
               "term": "warmth",
               "meaning": "音標： [wɔrmθ]\n詞性： n. [U]\n中文意思： 熱情"
             },
             {
-              "id": "13",
+              "id": "12",
               "term": "frail",
               "meaning": "音標： [frel]\n詞性： adj.\n中文意思： 虛弱的"
             },
             {
-              "id": "14",
+              "id": "13",
               "term": "prompt",
               "meaning": "音標： [prɑmpt]\n詞性： vt.\n中文意思： 促使"
             },
             {
-              "id": "15",
+              "id": "14",
               "term": "confine",
               "meaning": "音標： [kən`faɪn]\n詞性： vt.\n中文意思： 使離不開（床、輪椅等）"
             },
             {
-              "id": "16",
-              "term": "cheer...up",
-              "meaning": "中文意思： 使……振奮、高興"
-            },
-            {
-              "id": "17",
+              "id": "15",
               "term": "sparkle",
               "meaning": "音標： [`spɑrkḷ]\n詞性： n. [C]\n中文意思： 神采；閃耀"
             },
             {
-              "id": "18",
+              "id": "16",
               "term": "hug",
               "meaning": "音標： [hʌg]\n詞性： n. [C]\n中文意思： 擁抱"
             },
             {
-              "id": "19",
-              "term": "turn...down",
-              "meaning": "中文意思： 拒絕……"
-            },
-            {
-              "id": "20",
+              "id": "17",
               "term": "drowsy",
               "meaning": "音標： [`draʊzɪ]\n詞性： adj.\n中文意思： 昏昏欲睡的"
             },
             {
-              "id": "21",
+              "id": "18",
               "term": "stretch",
               "meaning": "音標： [strɛtʃ]\n詞性： vt.\n中文意思： 伸出（手臂或腿）"
             },
             {
-              "id": "22",
-              "term": "be about to",
-              "meaning": "中文意思： 即將；正要"
-            },
-            {
-              "id": "23",
+              "id": "19",
               "term": "refuse",
               "meaning": "音標： [rɪ`fjuz]\n詞性： vi., vt.\n中文意思： 拒絕"
             },
             {
-              "id": "24",
-              "term": "after all",
-              "meaning": "中文意思： 畢竟"
-            },
-            {
-              "id": "25",
+              "id": "20",
               "term": "hesitate",
               "meaning": "音標： [`hɛzəˏtet]\n詞性： vi.\n中文意思： 猶豫"
             },
             {
-              "id": "26",
+              "id": "p1",
+              "term": "pass on...to...",
+              "meaning": "中文意思： 將……傳給、轉交給……"
+            },
+            {
+              "id": "p2",
+              "term": "cheer...up",
+              "meaning": "中文意思： 使……振奮、高興"
+            },
+            {
+              "id": "p3",
+              "term": "turn...down",
+              "meaning": "中文意思： 拒絕……"
+            },
+            {
+              "id": "p4",
+              "term": "be about to",
+              "meaning": "中文意思： 即將；正要"
+            },
+            {
+              "id": "p5",
+              "term": "after all",
+              "meaning": "中文意思： 畢竟"
+            },
+            {
+              "id": "p6",
               "term": "pass away",
               "meaning": "中文意思： 過世"
             },
             {
-              "id": "27",
+              "id": "p7",
               "term": "make a difference",
               "meaning": "中文意思： 有所影響"
             },
