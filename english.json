@@ -8347,6 +8347,60 @@
           "sentences": []
         }
       ]
+    },
+    {
+      "name": "我愛單字酷．初級 Theme 5",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Unit 1",
+          "name": "",
+          "vocabulary": [],
+          "sentences": []
+        },
+        {
+          "lesson": 2,
+          "title": "Unit 2",
+          "name": "",
+          "vocabulary": [],
+          "sentences": []
+        },
+        {
+          "lesson": 3,
+          "title": "Unit 3",
+          "name": "",
+          "vocabulary": [],
+          "sentences": []
+        },
+        {
+          "lesson": 4,
+          "title": "Unit 4",
+          "name": "",
+          "vocabulary": [],
+          "sentences": []
+        },
+        {
+          "lesson": 5,
+          "title": "Unit 5",
+          "name": "",
+          "vocabulary": [],
+          "sentences": []
+        },
+        {
+          "lesson": 6,
+          "title": "Unit 6",
+          "name": "",
+          "vocabulary": [],
+          "sentences": []
+        },
+        {
+          "lesson": 7,
+          "title": "Unit 7",
+          "name": "",
+          "vocabulary": [],
+          "sentences": []
+        }
+      ]
     }
   ]
 }
