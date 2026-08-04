@@ -6,12 +6,36 @@
         {
           "name": "第一冊 (Book 1)",
           "children": [
-            { "name": "Lesson 4", "source": "龍騰 B1", "lesson": 4 },
-            { "name": "Lesson 5", "source": "龍騰 B1", "lesson": 5 },
-            { "name": "Lesson 6", "source": "龍騰 B1", "lesson": 6 },
-            { "name": "Lesson 7", "source": "龍騰 B1", "lesson": 7 },
-            { "name": "Lesson 8", "source": "龍騰 B1", "lesson": 8 },
-            { "name": "Lesson 9", "source": "龍騰 B1", "lesson": 9 }
+            {
+              "name": "Lesson 4",
+              "source": "龍騰 B1",
+              "lesson": 4
+            },
+            {
+              "name": "Lesson 5",
+              "source": "龍騰 B1",
+              "lesson": 5
+            },
+            {
+              "name": "Lesson 6",
+              "source": "龍騰 B1",
+              "lesson": 6
+            },
+            {
+              "name": "Lesson 7",
+              "source": "龍騰 B1",
+              "lesson": 7
+            },
+            {
+              "name": "Lesson 8",
+              "source": "龍騰 B1",
+              "lesson": 8
+            },
+            {
+              "name": "Lesson 9",
+              "source": "龍騰 B1",
+              "lesson": 9
+            }
           ]
         },
         {
@@ -20,29 +44,101 @@
             {
               "name": "單字與課文",
               "children": [
-                { "name": "Lesson 1", "source": "龍騰 B2", "lesson": 1 },
-                { "name": "Lesson 2", "source": "龍騰 B2", "lesson": 2 },
-                { "name": "Lesson 3", "source": "龍騰 B2", "lesson": 3 },
-                { "name": "Lesson 4", "source": "龍騰 B2", "lesson": 4 },
-                { "name": "Lesson 5", "source": "龍騰 B2", "lesson": 5 },
-                { "name": "Lesson 6", "source": "龍騰 B2", "lesson": 6 },
-                { "name": "Review 2", "source": "龍騰 B2", "lesson": 65 },
-                { "name": "Lesson 7", "source": "龍騰 B2", "lesson": 7 },
-                { "name": "Lesson 8", "source": "龍騰 B2", "lesson": 8 },
-                { "name": "Lesson 9", "source": "龍騰 B2", "lesson": 9 }
+                {
+                  "name": "Lesson 1",
+                  "source": "龍騰 B2",
+                  "lesson": 1
+                },
+                {
+                  "name": "Lesson 2",
+                  "source": "龍騰 B2",
+                  "lesson": 2
+                },
+                {
+                  "name": "Lesson 3",
+                  "source": "龍騰 B2",
+                  "lesson": 3
+                },
+                {
+                  "name": "Lesson 4",
+                  "source": "龍騰 B2",
+                  "lesson": 4
+                },
+                {
+                  "name": "Lesson 5",
+                  "source": "龍騰 B2",
+                  "lesson": 5
+                },
+                {
+                  "name": "Lesson 6",
+                  "source": "龍騰 B2",
+                  "lesson": 6
+                },
+                {
+                  "name": "Review 2",
+                  "source": "龍騰 B2",
+                  "lesson": 65
+                },
+                {
+                  "name": "Lesson 7",
+                  "source": "龍騰 B2",
+                  "lesson": 7
+                },
+                {
+                  "name": "Lesson 8",
+                  "source": "龍騰 B2",
+                  "lesson": 8
+                },
+                {
+                  "name": "Lesson 9",
+                  "source": "龍騰 B2",
+                  "lesson": 9
+                }
               ]
             },
             {
               "name": "翻譯測驗模式",
               "children": [
-                { "name": "Lesson 1 翻譯", "source": "龍騰 S2", "lesson": 1 },
-                { "name": "Lesson 2 翻譯", "source": "龍騰 S2", "lesson": 2 },
-                { "name": "Lesson 3 翻譯", "source": "龍騰 S2", "lesson": 3 },
-                { "name": "Lesson 4 翻譯", "source": "龍騰 S2", "lesson": 4 },
-                { "name": "Lesson 5 翻譯", "source": "龍騰 S2", "lesson": 5 },
-                { "name": "Lesson 6 翻譯", "source": "龍騰 S2", "lesson": 6 },
-                { "name": "Lesson 7 翻譯", "source": "龍騰 S2", "lesson": 7 },
-                { "name": "Lesson 8 翻譯", "source": "龍騰 S2", "lesson": 8 }
+                {
+                  "name": "Lesson 1 翻譯",
+                  "source": "龍騰 S2",
+                  "lesson": 1
+                },
+                {
+                  "name": "Lesson 2 翻譯",
+                  "source": "龍騰 S2",
+                  "lesson": 2
+                },
+                {
+                  "name": "Lesson 3 翻譯",
+                  "source": "龍騰 S2",
+                  "lesson": 3
+                },
+                {
+                  "name": "Lesson 4 翻譯",
+                  "source": "龍騰 S2",
+                  "lesson": 4
+                },
+                {
+                  "name": "Lesson 5 翻譯",
+                  "source": "龍騰 S2",
+                  "lesson": 5
+                },
+                {
+                  "name": "Lesson 6 翻譯",
+                  "source": "龍騰 S2",
+                  "lesson": 6
+                },
+                {
+                  "name": "Lesson 7 翻譯",
+                  "source": "龍騰 S2",
+                  "lesson": 7
+                },
+                {
+                  "name": "Lesson 8 翻譯",
+                  "source": "龍騰 S2",
+                  "lesson": 8
+                }
               ]
             }
           ]
@@ -52,42 +148,176 @@
     {
       "name": "字彙字識+ L3&4",
       "children": [
-        { "name": "Chapter 2-1", "source": "字彙字識+ L3&4", "lesson": 21 },
-        { "name": "Chapter 2-2", "source": "字彙字識+ L3&4", "lesson": 22 },
-        { "name": "Chapter 2-3", "source": "字彙字識+ L3&4", "lesson": 23 },
-        { "name": "Chapter 3-1", "source": "字彙字識+ L3&4", "lesson": 31 },
-        { "name": "Chapter 3-2", "source": "字彙字識+ L3&4", "lesson": 32 },
-        { "name": "Chapter 3-3", "source": "字彙字識+ L3&4", "lesson": 33 },
-        { "name": "Chapter 4-1", "source": "字彙字識+ L3&4", "lesson": 41 },
-        { "name": "Chapter 4-2", "source": "字彙字識+ L3&4", "lesson": 42 },
-        { "name": "Chapter 4-3", "source": "字彙字識+ L3&4", "lesson": 43 },
-        { "name": "Chapter 5", "source": "字彙字識+ L3&4", "lesson": 50 },
-        { "name": "Chapter 6-1", "source": "字彙字識+ L3&4", "lesson": 61 },
-        { "name": "Chapter 6-2", "source": "字彙字識+ L3&4", "lesson": 62 },
-        { "name": "Chapter 6-3", "source": "字彙字識+ L3&4", "lesson": 63 },
-        { "name": "Chapter 7-1", "source": "字彙字識+ L3&4", "lesson": 71 },
-        { "name": "Chapter 7-2", "source": "字彙字識+ L3&4", "lesson": 72 },
-        { "name": "Chapter 7-3", "source": "字彙字識+ L3&4", "lesson": 73 }
+        {
+          "name": "Chapter 2-1",
+          "source": "字彙字識+ L3&4",
+          "lesson": 21
+        },
+        {
+          "name": "Chapter 2-2",
+          "source": "字彙字識+ L3&4",
+          "lesson": 22
+        },
+        {
+          "name": "Chapter 2-3",
+          "source": "字彙字識+ L3&4",
+          "lesson": 23
+        },
+        {
+          "name": "Chapter 3-1",
+          "source": "字彙字識+ L3&4",
+          "lesson": 31
+        },
+        {
+          "name": "Chapter 3-2",
+          "source": "字彙字識+ L3&4",
+          "lesson": 32
+        },
+        {
+          "name": "Chapter 3-3",
+          "source": "字彙字識+ L3&4",
+          "lesson": 33
+        },
+        {
+          "name": "Chapter 4-1",
+          "source": "字彙字識+ L3&4",
+          "lesson": 41
+        },
+        {
+          "name": "Chapter 4-2",
+          "source": "字彙字識+ L3&4",
+          "lesson": 42
+        },
+        {
+          "name": "Chapter 4-3",
+          "source": "字彙字識+ L3&4",
+          "lesson": 43
+        },
+        {
+          "name": "Chapter 5",
+          "source": "字彙字識+ L3&4",
+          "lesson": 50
+        },
+        {
+          "name": "Chapter 6-1",
+          "source": "字彙字識+ L3&4",
+          "lesson": 61
+        },
+        {
+          "name": "Chapter 6-2",
+          "source": "字彙字識+ L3&4",
+          "lesson": 62
+        },
+        {
+          "name": "Chapter 6-3",
+          "source": "字彙字識+ L3&4",
+          "lesson": 63
+        },
+        {
+          "name": "Chapter 7-1",
+          "source": "字彙字識+ L3&4",
+          "lesson": 71
+        },
+        {
+          "name": "Chapter 7-2",
+          "source": "字彙字識+ L3&4",
+          "lesson": 72
+        },
+        {
+          "name": "Chapter 7-3",
+          "source": "字彙字識+ L3&4",
+          "lesson": 73
+        }
       ]
     }
   ],
   "hidden_contents": [
     {
-      "code": "LongtengBook3",
+      "code": "LONGTENGBOOK3",
       "name": "龍騰第三冊搶先使用",
       "lessons": [
-        { "source": "龍騰 B3", "lesson": 1 },
-        { "source": "龍騰 B3", "lesson": 2 },
-        { "source": "龍騰 B3", "lesson": 3 },
-        { "source": "龍騰 B3", "lesson": 35 },
-        { "source": "龍騰 B3", "lesson": 4 },
-        { "source": "龍騰 B3", "lesson": 5 },
-        { "source": "龍騰 B3", "lesson": 6 },
-        { "source": "龍騰 B3", "lesson": 65 },
-        { "source": "龍騰 B3", "lesson": 7 },
-        { "source": "龍騰 B3", "lesson": 8 },
-        { "source": "龍騰 B3", "lesson": 9 },
-        { "source": "龍騰 B3", "lesson": 95 }
+        {
+          "source": "龍騰 B3",
+          "lesson": 1
+        },
+        {
+          "source": "龍騰 B3",
+          "lesson": 2
+        },
+        {
+          "source": "龍騰 B3",
+          "lesson": 3
+        },
+        {
+          "source": "龍騰 B3",
+          "lesson": 35
+        },
+        {
+          "source": "龍騰 B3",
+          "lesson": 4
+        },
+        {
+          "source": "龍騰 B3",
+          "lesson": 5
+        },
+        {
+          "source": "龍騰 B3",
+          "lesson": 6
+        },
+        {
+          "source": "龍騰 B3",
+          "lesson": 65
+        },
+        {
+          "source": "龍騰 B3",
+          "lesson": 7
+        },
+        {
+          "source": "龍騰 B3",
+          "lesson": 8
+        },
+        {
+          "source": "龍騰 B3",
+          "lesson": 9
+        },
+        {
+          "source": "龍騰 B3",
+          "lesson": 95
+        }
+      ]
+    },
+    {
+      "name": "我愛單字庫初級組合包",
+      "code": "P0FJA2MYTCZM",
+      "lessons": [
+        {
+          "source": "我愛單字酷．初級 Theme 5",
+          "lesson": 1
+        },
+        {
+          "source": "我愛單字酷．初級 Theme 5",
+          "lesson": 2
+        },
+        {
+          "source": "我愛單字酷．初級 Theme 5",
+          "lesson": 3
+        },
+        {
+          "source": "我愛單字酷．初級 Theme 5",
+          "lesson": 4
+        },
+        {
+          "source": "我愛單字酷．初級 Theme 5",
+          "lesson": 5
+        },
+        {
+          "source": "我愛單字酷．初級 Theme 5",
+          "lesson": 6
+        },
+        {
+          "source": "我愛單字酷．初級 Theme 5",
+          "lesson": 7
+        }
       ]
     }
   ]
