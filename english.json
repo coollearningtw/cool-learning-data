@@ -8383,7 +8383,318 @@
           "lesson": 5,
           "title": "Unit 5",
           "name": "",
-          "vocabulary": [],
+          "vocabulary": [
+            {
+              "word": "appear",
+              "pos": "vi.",
+              "chinese": "出現；顯得"
+            },
+            {
+              "word": "appearance",
+              "pos": "n. [U]",
+              "chinese": "外貌；外表"
+            },
+            {
+              "word": "different",
+              "pos": "adj.",
+              "chinese": "不同的"
+            },
+            {
+              "word": "differently",
+              "pos": "adv.",
+              "chinese": "不同地"
+            },
+            {
+              "word": "difference",
+              "pos": "n. [C]",
+              "chinese": "差異；不同"
+            },
+            {
+              "word": "differ",
+              "pos": "vi.",
+              "chinese": "不同"
+            },
+            {
+              "word": "probably",
+              "pos": "adv.",
+              "chinese": "很可能"
+            },
+            {
+              "word": "probable",
+              "pos": "adj.",
+              "chinese": "可能的；很有希望的"
+            },
+            {
+              "word": "probability",
+              "pos": "n. [C][U]",
+              "chinese": "可能性；可能的"
+            },
+            {
+              "word": "actually",
+              "pos": "adv.",
+              "chinese": "實際上"
+            },
+            {
+              "word": "actual",
+              "pos": "adj.",
+              "chinese": "實際上的"
+            },
+            {
+              "word": "especially",
+              "pos": "adv.",
+              "chinese": "特別；尤其"
+            },
+            {
+              "word": "responsibility",
+              "pos": "n. [C][U]",
+              "chinese": "責任感；責任"
+            },
+            {
+              "word": "responsible",
+              "pos": "adj.",
+              "chinese": "負責任的"
+            },
+            {
+              "word": "according",
+              "pos": "adv.",
+              "chinese": "依照；隨…"
+            },
+            {
+              "word": "whatever",
+              "pos": "pron.",
+              "chinese": "不管什麼；任何…"
+            },
+            {
+              "word": "likely",
+              "pos": "adj.",
+              "chinese": "可能的"
+            },
+            {
+              "word": "likelihood",
+              "pos": "n. [U]",
+              "chinese": "可能性"
+            },
+            {
+              "word": "hardly",
+              "pos": "adv.",
+              "chinese": "幾乎不"
+            },
+            {
+              "word": "duty",
+              "pos": "n. [C][U]",
+              "chinese": "職責；義務"
+            },
+            {
+              "word": "dutuful",
+              "pos": "adj.",
+              "chinese": "忠於職守的"
+            },
+            {
+              "word": "impossible",
+              "pos": "adj.",
+              "chinese": "不可能的"
+            },
+            {
+              "word": "cross",
+              "pos": "vt.",
+              "chinese": "穿越"
+            },
+            {
+              "word": "crossing",
+              "pos": "n. [C]",
+              "chinese": "穿越道；交叉點"
+            },
+            {
+              "word": "moreover",
+              "pos": "adv.",
+              "chinese": "此外"
+            },
+            {
+              "word": "willing",
+              "pos": "adj.",
+              "chinese": "願意的"
+            },
+            {
+              "word": "will",
+              "pos": "n. [C]",
+              "chinese": "意志；意願"
+            },
+            {
+              "word": "unusual",
+              "pos": "adj.",
+              "chinese": "獨特的；不尋常的"
+            },
+            {
+              "word": "quiet",
+              "pos": "vi. vt.",
+              "chinese": "（使）安靜"
+            },
+            {
+              "word": "quietly",
+              "pos": "adv.",
+              "chinese": "悄悄地；安靜地"
+            },
+            {
+              "word": "height",
+              "pos": "n. [C][U]",
+              "chinese": "身高；高度"
+            },
+            {
+              "word": "alive",
+              "pos": "adj.",
+              "chinese": "活著的"
+            },
+            {
+              "word": "internal",
+              "pos": "adj.",
+              "chinese": "內部的；內在的"
+            },
+            {
+              "word": "complex",
+              "pos": "adj.",
+              "chinese": "複雜的；難懂的"
+            },
+            {
+              "word": "complexity",
+              "pos": "n. [U]",
+              "chinese": "複雜的"
+            },
+            {
+              "word": "connect",
+              "pos": "vi. vt.",
+              "chinese": "連接；聯想"
+            },
+            {
+              "word": "connect",
+              "pos": "vi. vt.",
+              "chinese": "連接；聯想"
+            },
+            {
+              "word": "connection",
+              "pos": "n. [C][U]",
+              "chinese": "關聯；聯想"
+            },
+            {
+              "word": "worse",
+              "pos": "adj.",
+              "chinese": "更糟的"
+            },
+            {
+              "word": "worsen",
+              "pos": "vi. vt.",
+              "chinese": "（使）惡化；（使）更壞"
+            },
+            {
+              "word": "fairly",
+              "pos": "adv.",
+              "chinese": "十分地；公平地"
+            },
+            {
+              "word": "unfair",
+              "pos": "adj.",
+              "chinese": "不公平的；不公正的"
+            },
+            {
+              "word": "unlike",
+              "pos": "prep.",
+              "chinese": "不同於"
+            },
+            {
+              "word": "submit",
+              "pos": "vi.",
+              "chinese": "屈服"
+            },
+            {
+              "word": "elsewhere",
+              "pos": "adv.",
+              "chinese": "在別處"
+            },
+            {
+              "word": "interior",
+              "pos": "adj.",
+              "chinese": "內部的"
+            },
+            {
+              "word": "rare",
+              "pos": "adj.",
+              "chinese": "稀有的；罕有的"
+            },
+            {
+              "word": "rarely",
+              "pos": "adv.",
+              "chinese": "很少"
+            },
+            {
+              "word": "correct",
+              "pos": "vt.",
+              "chinese": "訂正；校正"
+            },
+            {
+              "word": "rapid",
+              "pos": "adj.",
+              "chinese": "快速的"
+            },
+            {
+              "word": "rapidity",
+              "pos": "n. [U]",
+              "chinese": "快速"
+            },
+            {
+              "word": "double",
+              "pos": "vi. vt.",
+              "chinese": "變成兩倍；使加倍"
+            },
+            {
+              "word": "prime",
+              "pos": "adj.",
+              "chinese": "主要的；最初的；第一流的"
+            },
+            {
+              "word": "dominant",
+              "pos": "adj.",
+              "chinese": "支配的；優勢的"
+            },
+            {
+              "word": "dominate",
+              "pos": "vi. vt.",
+              "chinese": "支配"
+            },
+            {
+              "word": "domination",
+              "pos": "n. [U]",
+              "chinese": "優勢；支配"
+            },
+            {
+              "word": "versus",
+              "pos": "prep.",
+              "chinese": "對抗"
+            },
+            {
+              "word": "lovely",
+              "pos": "adj.",
+              "chinese": "美麗的；可愛的"
+            },
+            {
+              "word": "trace",
+              "pos": "vt.",
+              "chinese": "探查"
+            },
+            {
+              "word": "admire",
+              "pos": "vt.",
+              "chinese": "讚賞；欽佩"
+            },
+            {
+              "word": "admirable",
+              "pos": "adj.",
+              "chinese": "令人欽佩的"
+            },
+            {
+              "word": "admiration",
+              "pos": "n.[sing.]",
+              "chinese": "引人讚美的人或物"
+            }
+          ],
           "sentences": []
         },
         {
