@@ -8701,7 +8701,313 @@
           "lesson": 6,
           "title": "Unit 6",
           "name": "",
-          "vocabulary": [],
+          "vocabulary": [
+            {
+              "word": "continue",
+              "pos": "vi. vt.",
+              "chinese": "繼續；持續"
+            },
+            {
+              "word": "continual",
+              "pos": "adj.",
+              "chinese": "持續的"
+            },
+            {
+              "word": "continually",
+              "pos": "adv.",
+              "chinese": "持續地；不斷地"
+            },
+            {
+              "word": "continuous",
+              "pos": "adj.",
+              "chinese": "持續不斷的；連續的"
+            },
+            {
+              "word": "continuously",
+              "pos": "adv.",
+              "chinese": "不斷地；連續地"
+            },
+            {
+              "word": "continuity",
+              "pos": "n. [U]",
+              "chinese": "連續性；持續性"
+            },
+            {
+              "word": "continuation",
+              "pos": "n. [U]",
+              "chinese": "延續；（中斷）再繼續"
+            },
+            {
+              "word": "develop",
+              "pos": "vi. vt.",
+              "chinese": "發展"
+            },
+            {
+              "word": "development",
+              "pos": "n. [C][U]",
+              "chinese": "發展"
+            },
+            {
+              "word": "effect",
+              "pos": "n. [C][U]",
+              "chinese": "影響；結果"
+            },
+            {
+              "word": "effective",
+              "pos": "adj.",
+              "chinese": "有效的"
+            },
+            {
+              "word": "effectively",
+              "pos": "adv.",
+              "chinese": "有效地"
+            },
+            {
+              "word": "therefore",
+              "pos": "adv.",
+              "chinese": "因此"
+            },
+            {
+              "word": "cause",
+              "pos": "vt.",
+              "chinese": "造成；引起"
+            },
+            {
+              "word": "causal",
+              "pos": "adj.",
+              "chinese": "起因的；表示原因的"
+            },
+            {
+              "word": "instead",
+              "pos": "adv.",
+              "chinese": "反而；代替；更換"
+            },
+            {
+              "word": "event",
+              "pos": "n. [C]",
+              "chinese": "事件"
+            },
+            {
+              "word": "close",
+              "pos": "vi. vt.",
+              "chinese": "關閉；堵塞；終止"
+            },
+            {
+              "word": "closely",
+              "pos": "adv.",
+              "chinese": "密切地；周密地；嚴密地；仔細地"
+            },
+            {
+              "word": "affair",
+              "pos": "n. [C]",
+              "chinese": "事務；事情"
+            },
+            {
+              "word": "despite",
+              "pos": "prep.",
+              "chinese": "儘管；雖然"
+            },
+            {
+              "word": "consist",
+              "pos": "vi.",
+              "chinese": "組成"
+            },
+            {
+              "word": "consistency",
+              "pos": "n. [U]",
+              "chinese": "一致性"
+            },
+            {
+              "word": "consistent",
+              "pos": "adj.",
+              "chinese": "（言行、思想等）前後一致的"
+            },
+            {
+              "word": "consistently",
+              "pos": "adv.",
+              "chinese": "始終如一地；一貫地"
+            },
+            {
+              "word": "avoid",
+              "pos": "vt.",
+              "chinese": "避免"
+            },
+            {
+              "word": "avoidable",
+              "pos": "adj.",
+              "chinese": "可避免的"
+            },
+            {
+              "word": "avoidance",
+              "pos": "n. [U]",
+              "chinese": "避免；躲避"
+            },
+            {
+              "word": "affect",
+              "pos": "vt.",
+              "chinese": "影響"
+            },
+            {
+              "word": "affection",
+              "pos": "n. [pl.]",
+              "chinese": "愛慕"
+            },
+            {
+              "word": "otherwise",
+              "pos": "adj.",
+              "chinese": "不同的"
+            },
+            {
+              "word": "capacity",
+              "pos": "n. [sing.]",
+              "chinese": "容量"
+            },
+            {
+              "word": "delete",
+              "pos": "vt.",
+              "chinese": "刪除"
+            },
+            {
+              "word": "divide",
+              "pos": "vi. vt.",
+              "chinese": "分開；分隔"
+            },
+            {
+              "word": "division",
+              "pos": "n. [U]",
+              "chinese": "分配；分割；除法"
+            },
+            {
+              "word": "combination",
+              "pos": "n. [C][U]",
+              "chinese": "結合；組合"
+            },
+            {
+              "word": "combine",
+              "pos": "vi. vt.",
+              "chinese": "使組合；兼備"
+            },
+            {
+              "word": "nevertheless",
+              "pos": "adv.",
+              "chinese": "儘管如此；然而"
+            },
+            {
+              "word": "background",
+              "pos": "n. [C]",
+              "chinese": "背景；遠因"
+            },
+            {
+              "word": "devote",
+              "pos": "vt.",
+              "chinese": "奉獻；專心從事於…"
+            },
+            {
+              "word": "devotion",
+              "pos": "n. [C][U]",
+              "chinese": "奉獻"
+            },
+            {
+              "word": "emerge",
+              "pos": "vi.",
+              "chinese": "出現"
+            },
+            {
+              "word": "emergence",
+              "pos": "n. [U]",
+              "chinese": "出現"
+            },
+            {
+              "word": "appeal",
+              "pos": "vi.",
+              "chinese": "吸引"
+            },
+            {
+              "word": "exchange",
+              "pos": "vt.",
+              "chinese": "交換"
+            },
+            {
+              "word": "expand",
+              "pos": "vi. vt.",
+              "chinese": "擴張；使膨脹"
+            },
+            {
+              "word": "expansion",
+              "pos": "n. [U]",
+              "chinese": "擴展；擴張；膨脹"
+            },
+            {
+              "word": "consequence",
+              "pos": "n. [C]",
+              "chinese": "結果"
+            },
+            {
+              "word": "convince",
+              "pos": "vt.",
+              "chinese": "說服；使相信"
+            },
+            {
+              "word": "confront",
+              "pos": "vt.",
+              "chinese": "面對；擺到…面前"
+            },
+            {
+              "word": "confrontation",
+              "pos": "n. [C][U]",
+              "chinese": "衝突；對抗"
+            },
+            {
+              "word": "derive",
+              "pos": "vi.",
+              "chinese": "起源（於）；衍生自"
+            },
+            {
+              "word": "derivative",
+              "pos": "adj.",
+              "chinese": "衍生的"
+            },
+            {
+              "word": "disappear",
+              "pos": "vi.",
+              "chinese": "失蹤；消失"
+            },
+            {
+              "word": "disappearance",
+              "pos": "n. [C][U]",
+              "chinese": "消失；失蹤"
+            },
+            {
+              "word": "abandon",
+              "pos": "vt.",
+              "chinese": "放棄"
+            },
+            {
+              "word": "root",
+              "pos": "vi.",
+              "chinese": "紮根；長根"
+            },
+            {
+              "word": "attach",
+              "pos": "vt.",
+              "chinese": "繫"
+            },
+            {
+              "word": "hence",
+              "pos": "adv.",
+              "chinese": "因此；於是"
+            },
+            {
+              "word": "alternative",
+              "pos": "n. [C]",
+              "chinese": "選擇；選擇的餘地"
+            },
+            {
+              "word": "furthermore",
+              "pos": "adv.",
+              "chinese": "而且；此外"
+            }
+          ],
           "sentences": []
         },
         {
