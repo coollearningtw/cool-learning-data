@@ -9014,7 +9014,343 @@
           "lesson": 7,
           "title": "Unit 7",
           "name": "",
-          "vocabulary": [],
+          "vocabulary": [
+            {
+              "word": "possible",
+              "pos": "adj.",
+              "chinese": "可能的"
+            },
+            {
+              "word": "possibly",
+              "pos": "adv.",
+              "chinese": "可能地"
+            },
+            {
+              "word": "possibility",
+              "pos": "n. [C][U]",
+              "chinese": "可能性；潛在價值"
+            },
+            {
+              "word": "reason",
+              "pos": "vi. vt.",
+              "chinese": "推理；評理"
+            },
+            {
+              "word": "reasonable",
+              "pos": "adj.",
+              "chinese": "合理的"
+            },
+            {
+              "word": "reasonably",
+              "pos": "adv.",
+              "chinese": "合理地"
+            },
+            {
+              "word": "reasoning",
+              "pos": "n. [U]",
+              "chinese": "論證；推理"
+            },
+            {
+              "word": "remain",
+              "pos": "vi.",
+              "chinese": "依然"
+            },
+            {
+              "word": "remains",
+              "pos": "n. [pl.]",
+              "chinese": "殘餘物；遺體"
+            },
+            {
+              "word": "remainder",
+              "pos": "n. [C]",
+              "chinese": "其餘的部分"
+            },
+            {
+              "word": "result",
+              "pos": "vi.",
+              "chinese": "結果；發生"
+            },
+            {
+              "word": "involve",
+              "pos": "vt.",
+              "chinese": "包括；牽涉"
+            },
+            {
+              "word": "involvement",
+              "pos": "n. [U]",
+              "chinese": "干預；牽涉；包括"
+            },
+            {
+              "word": "prove",
+              "pos": "vi. vt.",
+              "chinese": "證明"
+            },
+            {
+              "word": "proof",
+              "pos": "n. [C]",
+              "chinese": "證據"
+            },
+            {
+              "word": "occur",
+              "pos": "vi.",
+              "chinese": "發生；使想到"
+            },
+            {
+              "word": "occurrence",
+              "pos": "n. [C]",
+              "chinese": "事件；發生"
+            },
+            {
+              "word": "reduce",
+              "pos": "vt.",
+              "chinese": "減少"
+            },
+            {
+              "word": "reduction",
+              "pos": "n. [C][U]",
+              "chinese": "削減；縮小"
+            },
+            {
+              "word": "reduction",
+              "pos": "n. [C][U]",
+              "chinese": "削減；縮小"
+            },
+            {
+              "word": "strength",
+              "pos": "n. [C]",
+              "chinese": "優點；長處"
+            },
+            {
+              "word": "strengthen",
+              "pos": "vt.",
+              "chinese": "使強大"
+            },
+            {
+              "word": "growth",
+              "pos": "n. [U]",
+              "chinese": "成長；（數量等）增加；生長"
+            },
+            {
+              "word": "grow",
+              "pos": "vi. vt.",
+              "chinese": "生長"
+            },
+            {
+              "word": "influence",
+              "pos": "vt.",
+              "chinese": "影響"
+            },
+            {
+              "word": "influential",
+              "pos": "adj.",
+              "chinese": "有影響力的"
+            },
+            {
+              "word": "progress",
+              "pos": "vi.",
+              "chinese": "進步；前進"
+            },
+            {
+              "word": "progressive",
+              "pos": "adj.",
+              "chinese": "進步的；革新的"
+            },
+            {
+              "word": "lower",
+              "pos": "vi. vt.",
+              "chinese": "降低；使低"
+            },
+            {
+              "word": "low",
+              "pos": "adj.",
+              "chinese": "低的；無力的"
+            },
+            {
+              "word": "improve",
+              "pos": "vi. vt.",
+              "chinese": "改進"
+            },
+            {
+              "word": "improvement",
+              "pos": "n. [C][U]",
+              "chinese": "改善"
+            },
+            {
+              "word": "unless",
+              "pos": "conj.",
+              "chinese": "除非"
+            },
+            {
+              "word": "reveal",
+              "pos": "vt.",
+              "chinese": "透露；顯現；揭發"
+            },
+            {
+              "word": "revelation",
+              "pos": "n. [C][U]",
+              "chinese": "發覺；洩漏；顯示"
+            },
+            {
+              "word": "replace",
+              "pos": "vt.",
+              "chinese": "放回（原處）；取代"
+            },
+            {
+              "word": "replacement",
+              "pos": "n. [C][U]",
+              "chinese": "替代物；代替"
+            },
+            {
+              "word": "gain",
+              "pos": "vt.",
+              "chinese": "獲得；增加"
+            },
+            {
+              "word": "somehow",
+              "pos": "adv.",
+              "chinese": "以某種辦法；不知如何"
+            },
+            {
+              "word": "survive",
+              "pos": "vt.",
+              "chinese": "由…生還；殘存"
+            },
+            {
+              "word": "survival",
+              "pos": "n. [C]",
+              "chinese": "殘存物；遺風"
+            },
+            {
+              "word": "survivor",
+              "pos": "n. [C]",
+              "chinese": "生還者；倖存者"
+            },
+            {
+              "word": "narrow",
+              "pos": "vi. vt.",
+              "chinese": "變窄；縮小"
+            },
+            {
+              "word": "narrowly",
+              "pos": "adv.",
+              "chinese": "驚險地；千鈞一髮"
+            },
+            {
+              "word": "trend",
+              "pos": "vi.",
+              "chinese": "折向；趨向"
+            },
+            {
+              "word": "revolution",
+              "pos": "n. [C]",
+              "chinese": "革命"
+            },
+            {
+              "word": "shift",
+              "pos": "vi. vt.",
+              "chinese": "改變"
+            },
+            {
+              "word": "radiation",
+              "pos": "n. [U]",
+              "chinese": "輻射物質"
+            },
+            {
+              "word": "radiate",
+              "pos": "vt. vi.",
+              "chinese": "放射（光、熱等）"
+            },
+            {
+              "word": "radiate",
+              "pos": "vt. vi.",
+              "chinese": "放射（光、熱等）"
+            },
+            {
+              "word": "radiant",
+              "pos": "adj.",
+              "chinese": "燦爛的；光芒四射的"
+            },
+            {
+              "word": "alter",
+              "pos": "vt.",
+              "chinese": "改變；變化"
+            },
+            {
+              "word": "alteration",
+              "pos": "n. [C][U]",
+              "chinese": "變動"
+            },
+            {
+              "word": "mix",
+              "pos": "vi. vt.",
+              "chinese": "混合"
+            },
+            {
+              "word": "mixture",
+              "pos": "n. [C]",
+              "chinese": "混雜；混合物"
+            },
+            {
+              "word": "switch",
+              "pos": "vt.",
+              "chinese": "改變；（電器）開關"
+            },
+            {
+              "word": "bend",
+              "pos": "vi.",
+              "chinese": "彎曲"
+            },
+            {
+              "word": "integration",
+              "pos": "n. [U]",
+              "chinese": "融合；整合"
+            },
+            {
+              "word": "integrate",
+              "pos": "vt.",
+              "chinese": "融入"
+            },
+            {
+              "word": "render",
+              "pos": "vt.",
+              "chinese": "使成為"
+            },
+            {
+              "word": "undergo",
+              "pos": "vt.",
+              "chinese": "經歷"
+            },
+            {
+              "word": "inevitably",
+              "pos": "adv.",
+              "chinese": "必然地"
+            },
+            {
+              "word": "inevitable",
+              "pos": "adj.",
+              "chinese": "必然地；不可避免的"
+            },
+            {
+              "word": "toss",
+              "pos": "vt.",
+              "chinese": "扔；拋；投"
+            },
+            {
+              "word": "resume",
+              "pos": "vt.",
+              "chinese": "恢復"
+            },
+            {
+              "word": "steady",
+              "pos": "vt.",
+              "chinese": "使穩定"
+            },
+            {
+              "word": "steadily",
+              "pos": "adv.",
+              "chinese": "穩定地"
+            }
+          ],
           "sentences": []
         }
       ]
