@@ -8,32 +8,32 @@
           "children": [
             {
               "name": "丁挽",
-              "source": "龍騰 S2",
+              "source": "龍騰 B2",
               "lesson": 50
             },
             {
               "name": "㈠ 石壕吏",
-              "source": "龍騰 S2",
+              "source": "龍騰 B2",
               "lesson": 61
             },
             {
               "name": "㈡ 寄黃幾復",
-              "source": "龍騰 S2",
+              "source": "龍騰 B2",
               "lesson": 62
             },
             {
               "name": "一桿｢稱仔｣ (即將上架)",
-              "source": "龍騰 S2",
+              "source": "龍騰 B2",
               "lesson": 70
             },
             {
               "name": "㈠ 菊花自序",
-              "source": "龍騰 S2",
+              "source": "龍騰 B2",
               "lesson": 81
             },
             {
               "name": "㈡ 女學生",
-              "source": "龍騰 S2",
+              "source": "龍騰 B2",
               "lesson": 82
             }
           ]
@@ -41,5 +41,16 @@
       ]
     }
   ],
-  "hidden_contents": []
+  "hidden_contents": [
+    {
+      "name": "龍騰第三冊內部測試包",
+      "code": "LONGTENGBOOK3TEST",
+      "lessons": [
+        {
+          "source": "龍騰 B3",
+          "lesson": 2
+        }
+      ]
+    }
+  ]
 }
