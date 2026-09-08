@@ -8345,6 +8345,237 @@
             }
           ],
           "sentences": []
+        },
+        {
+          "lesson": 74,
+          "title": "7-4",
+          "name": "",
+          "vocabulary": [
+            {
+              "word": "",
+              "pos": "",
+              "chinese": ""
+            }
+          ],
+          "sentences": []
+        },
+        {
+          "lesson": 81,
+          "title": "8-1",
+          "name": "",
+          "vocabulary": [
+            {
+              "word": "atmosphere",
+              "pos": "n. [C]",
+              "chinese": "大氣（層）"
+            },
+            {
+              "word": "bacteria",
+              "pos": "n. pl.",
+              "chinese": "細菌"
+            },
+            {
+              "word": "bamboo",
+              "pos": "n. [C][U]",
+              "chinese": "竹子；竹竿"
+            },
+            {
+              "word": "bay",
+              "pos": "n. [C]",
+              "chinese": "海灣"
+            },
+            {
+              "word": "beast",
+              "pos": "n. [C]",
+              "chinese": "野獸"
+            },
+            {
+              "word": "beetle",
+              "pos": "n. [C]",
+              "chinese": "甲蟲"
+            },
+            {
+              "word": "berry",
+              "pos": "n. [C]",
+              "chinese": "莓果；漿果"
+            },
+            {
+              "word": "bloom",
+              "pos": "n. [C][U]",
+              "chinese": "花；開花"
+            },
+            {
+              "word": "blossom",
+              "pos": "n. [C][U]",
+              "chinese": "花"
+            },
+            {
+              "word": "brass",
+              "pos": "n. [U]",
+              "chinese": "黃酮"
+            },
+            {
+              "word": "breed",
+              "pos": "vt. vi.",
+              "chinese": "繁殖；飼養"
+            },
+            {
+              "word": "breeze",
+              "pos": "n. [C]",
+              "chinese": "微風"
+            },
+            {
+              "word": "bubble",
+              "pos": "n. [C]",
+              "chinese": "氣泡；泡沫"
+            },
+            {
+              "word": "bud",
+              "pos": "n. [C]",
+              "chinese": "枝芽；花蕾"
+            },
+            {
+              "word": "buffalo",
+              "pos": "n. [C]",
+              "chinese": "水牛；野牛"
+            },
+            {
+              "word": "bull",
+              "pos": "n. [C]",
+              "chinese": "公牛"
+            },
+            {
+              "word": "bush",
+              "pos": "n. [C]",
+              "chinese": "灌木；矮樹"
+            },
+            {
+              "word": "canyon",
+              "pos": "n. [C]",
+              "chinese": "峽谷"
+            },
+            {
+              "word": "cattle",
+              "pos": "n. pl.",
+              "chinese": "牛群"
+            },
+            {
+              "word": "cave",
+              "pos": "n. [C]",
+              "chinese": "洞穴"
+            },
+            {
+              "word": "cherry",
+              "pos": "n. [C]",
+              "chinese": "櫻桃"
+            },
+            {
+              "word": "claw",
+              "pos": "n. [C]",
+              "chinese": "（動物的）爪；腳爪；（蟹、蝦等的）鉗；螯"
+            },
+            {
+              "word": "cliff",
+              "pos": "n. [C]",
+              "chinese": "懸崖"
+            },
+            {
+              "word": "cock",
+              "pos": "n. [C]",
+              "chinese": "公雞"
+            },
+            {
+              "word": "continent",
+              "pos": "n. [C]",
+              "chinese": "洲；大陸"
+            },
+            {
+              "word": "crab",
+              "pos": "n. [C][U]",
+              "chinese": "螃蟹；蟹肉"
+            },
+            {
+              "word": "creation",
+              "pos": "n. [U]",
+              "chinese": "創造"
+            },
+            {
+              "word": "creature",
+              "pos": "n. [C]",
+              "chinese": "生物"
+            },
+            {
+              "word": "cricket",
+              "pos": "n. [C]",
+              "chinese": "蟋蟀"
+            },
+            {
+              "word": "crop",
+              "pos": "n. [C]",
+              "chinese": "作物"
+            },
+            {
+              "word": "dawn",
+              "pos": "n. [C][U]",
+              "chinese": "黎明"
+            },
+            {
+              "word": "dew",
+              "pos": "n. [U]",
+              "chinese": "露水"
+            },
+            {
+              "word": "dinosaur",
+              "pos": "n. [C]",
+              "chinese": "恐龍"
+            },
+            {
+              "word": "dirt",
+              "pos": "n. [U]",
+              "chinese": "泥土"
+            },
+            {
+              "word": "divine",
+              "pos": "adj.",
+              "chinese": "神的；神聖的"
+            },
+            {
+              "word": "dolphin",
+              "pos": "n. [C]",
+              "chinese": "海豚"
+            },
+            {
+              "word": "donkey",
+              "pos": "n. [C]",
+              "chinese": "驢子"
+            },
+            {
+              "word": "drangonfly",
+              "pos": "n. [C]",
+              "chinese": "蜻蜓"
+            },
+            {
+              "word": "dust",
+              "pos": "n. [U]",
+              "chinese": "灰塵"
+            },
+            {
+              "word": "echo",
+              "pos": "n. [C]",
+              "chinese": "回音"
+            },
+            {
+              "word": "feather",
+              "pos": "n. [C]",
+              "chinese": "羽毛；翎"
+            },
+            {
+              "word": "flame",
+              "pos": "n. [C][U]",
+              "chinese": "火焰"
+            }
+          ],
+          "sentences": []
         }
       ]
     },
