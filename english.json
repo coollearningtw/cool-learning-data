@@ -8579,6 +8579,222 @@
             }
           ],
           "sentences": []
+        },
+        {
+          "lesson": 82,
+          "title": "8-2",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
+          "name": "",
+          "vocabulary": [
+            {
+              "word": "flea",
+              "pos": "n. [C]",
+              "chinese": "跳蚤"
+            },
+            {
+              "word": "flood",
+              "pos": "n. [C][U]",
+              "chinese": "洪水；水災"
+            },
+            {
+              "word": "foggy",
+              "pos": "adj.",
+              "chinese": "有霧的"
+            },
+            {
+              "word": "frost",
+              "pos": "n. [C][U]",
+              "chinese": "霜"
+            },
+            {
+              "word": "fur",
+              "pos": "n. [C][U]",
+              "chinese": "毛；毛皮"
+            },
+            {
+              "word": "geography",
+              "pos": "n. [U]",
+              "chinese": "地理學"
+            },
+            {
+              "word": "germ",
+              "pos": "n. [C]",
+              "chinese": "細菌"
+            },
+            {
+              "word": "ginger",
+              "pos": "n. [U]",
+              "chinese": "薑"
+            },
+            {
+              "word": "grasshopper",
+              "pos": "n. [C]",
+              "chinese": "蚱蜢"
+            },
+            {
+              "word": "grassy",
+              "pos": "adj.",
+              "chinese": "長滿草的"
+            },
+            {
+              "word": "gulf",
+              "pos": "n. [C]",
+              "chinese": "海灣"
+            },
+            {
+              "word": "hawk",
+              "pos": "n. [C]",
+              "chinese": "鷹"
+            },
+            {
+              "word": "hay",
+              "pos": "n. [U]",
+              "chinese": "乾草"
+            },
+            {
+              "word": "horizon",
+              "pos": "n. [S]",
+              "chinese": "地平線"
+            },
+            {
+              "word": "humid",
+              "pos": "adj.",
+              "chinese": "潮濕的"
+            },
+            {
+              "word": "hurricane",
+              "pos": "n. [C]",
+              "chinese": "颶風"
+            },
+            {
+              "word": "hydrogen",
+              "pos": "n. [U]",
+              "chinese": "氫"
+            },
+            {
+              "word": "ivory",
+              "pos": "n. [U]",
+              "chinese": "象牙"
+            },
+            {
+              "word": "jungle",
+              "pos": "n. [C][U]",
+              "chinese": "叢林"
+            },
+            {
+              "word": "kangaroo",
+              "pos": "n. [C]",
+              "chinese": "袋鼠"
+            },
+            {
+              "word": "koala",
+              "pos": "n. [C]",
+              "chinese": "無尾熊"
+            },
+            {
+              "word": "landscape",
+              "pos": "n. [C][U]",
+              "chinese": "風景（畫）"
+            },
+            {
+              "word": "lawn",
+              "pos": "n. [C][U]",
+              "chinese": "草地；草坪"
+            },
+            {
+              "word": "leopard",
+              "pos": "n. [C]",
+              "chinese": "豹"
+            },
+            {
+              "word": "lightning",
+              "pos": "n. [U]",
+              "chinese": "閃電"
+            },
+            {
+              "word": "lily",
+              "pos": "n. [C]",
+              "chinese": "百合"
+            },
+            {
+              "word": "lobster",
+              "pos": "n. [C][U]",
+              "chinese": "龍蝦"
+            },
+            {
+              "word": "log",
+              "pos": "vt. vi.",
+              "chinese": "伐（木）"
+            },
+            {
+              "word": "marble",
+              "pos": "n. [U]",
+              "chinese": "大理石"
+            },
+            {
+              "word": "meadow",
+              "pos": "n. [C][U]",
+              "chinese": "牧草地"
+            },
+            {
+              "word": "mineral",
+              "pos": "n. [C]",
+              "chinese": "礦物"
+            },
+            {
+              "word": "mist",
+              "pos": "n. [C][U]",
+              "chinese": "薄霧"
+            },
+            {
+              "word": "mosquito",
+              "pos": "n. [C]",
+              "chinese": "蚊子"
+            },
+            {
+              "word": "moth",
+              "pos": "n. [C]",
+              "chinese": "蛾"
+            },
+            {
+              "word": "mountainous",
+              "pos": "adj.",
+              "chinese": "多山的"
+            },
+            {
+              "word": "muddy",
+              "pos": "adj.",
+              "chinese": "泥濘的"
+            },
+            {
+              "word": "mule",
+              "pos": "n. [C]",
+              "chinese": "騾子"
+            },
+            {
+              "word": "murmur",
+              "pos": "n. [C]",
+              "chinese": "低語聲"
+            },
+            {
+              "word": "nest",
+              "pos": "n. [C]",
+              "chinese": "鳥巢"
+            },
+            {
+              "word": "oak",
+              "pos": "n. [C][U]",
+              "chinese": "橡樹；橡木"
+            },
+            {
+              "word": "orbit",
+              "pos": "n. [C][U]",
+              "chinese": "（天體運行的）軌道"
+            }
+          ],
+          "sentences": []
         }
       ]
     },
