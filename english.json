@@ -8795,6 +8795,202 @@
             }
           ],
           "sentences": []
+        },
+        {
+          "lesson": 83,
+          "title": "8-3",
+          "status": "New",
+          "statusColor": "green",
+          "enabled": true,
+          "name": "",
+          "vocabulary": [
+            {
+              "word": "owl",
+              "pos": "n. [C]",
+              "chinese": "貓頭鷹"
+            },
+            {
+              "word": "ox",
+              "pos": "n. [C]",
+              "chinese": "（公）牛"
+            },
+            {
+              "word": "oxygen",
+              "pos": "n. [U]",
+              "chinese": "氧氣"
+            },
+            {
+              "word": "parrot",
+              "pos": "n. [C]",
+              "chinese": "鸚鵡"
+            },
+            {
+              "word": "paw",
+              "pos": "n. [C]",
+              "chinese": "（動物的）爪"
+            },
+            {
+              "word": "pea",
+              "pos": "n. [C]",
+              "chinese": "豌豆"
+            },
+            {
+              "word": "pearl",
+              "pos": "n. [C][U]",
+              "chinese": "珍珠"
+            },
+            {
+              "word": "penguin",
+              "pos": "n. [C]",
+              "chinese": "企鵝"
+            },
+            {
+              "word": "pest",
+              "pos": "n. [C]",
+              "chinese": "害蟲；有害的小動物；討厭的人或物"
+            },
+            {
+              "word": "phenomenon",
+              "pos": "n. [C]",
+              "chinese": "現象"
+            },
+            {
+              "word": "pigeon",
+              "pos": "n. [C][U]",
+              "chinese": "鴿子"
+            },
+            {
+              "word": "pine",
+              "pos": "n. [C][U]",
+              "chinese": "松樹；松木"
+            },
+            {
+              "word": "pulm",
+              "pos": "n. [C][U]",
+              "chinese": "李子；梅子"
+            },
+            {
+              "word": "pour",
+              "pos": "vi. vt.",
+              "chinese": "（雨）傾盆而降"
+            },
+            {
+              "word": "reflect",
+              "pos": "vt. vi.",
+              "chinese": "反射；映現"
+            },
+            {
+              "word": "reflection",
+              "pos": "n. [C][U]",
+              "chinese": "倒影"
+            },
+            {
+              "word": "resource",
+              "pos": "n. [C]",
+              "chinese": "資源"
+            },
+            {
+              "word": "scenery",
+              "pos": "n. [C]",
+              "chinese": "風景"
+            },
+            {
+              "word": "shrimp",
+              "pos": "n. [C][U]",
+              "chinese": "封條"
+            },
+            {
+              "word": "slope",
+              "pos": "n. [C]",
+              "chinese": "蝦（肉）"
+            },
+            {
+              "word": "solar",
+              "pos": "adj.",
+              "chinese": "斜坡"
+            },
+            {
+              "word": "spark",
+              "pos": "n. [C]",
+              "chinese": "火花"
+            },
+            {
+              "word": "species",
+              "pos": "n. [C]",
+              "chinese": "物種"
+            },
+            {
+              "word": "squirrel",
+              "pos": "n. [C]",
+              "chinese": "松鼠"
+            },
+            {
+              "word": "steam",
+              "pos": "n. [U]",
+              "chinese": "水蒸氣；蒸氣"
+            },
+            {
+              "word": "stem",
+              "pos": "n. [C]",
+              "chinese": "莖；幹"
+            },
+            {
+              "word": "stormy",
+              "pos": "adj.",
+              "chinese": "有暴風雨的"
+            },
+            {
+              "word": "summit",
+              "pos": "n. [C]",
+              "chinese": "山頂；頂峰"
+            },
+            {
+              "word": "swan",
+              "pos": "n. [C]",
+              "chinese": "天鵝"
+            },
+            {
+              "word": "tide",
+              "pos": "n. [C]",
+              "chinese": "潮汐；潮水"
+            },
+            {
+              "word": "tortoise",
+              "pos": "n. [C]",
+              "chinese": "烏龜；陸龜"
+            },
+            {
+              "word": "trunk",
+              "pos": "n. [C]",
+              "chinese": "樹幹"
+            },
+            {
+              "word": "twig",
+              "pos": "n. [C]",
+              "chinese": "細枝"
+            },
+            {
+              "word": "violet",
+              "pos": "n. [C]",
+              "chinese": "紫羅蘭"
+            },
+            {
+              "word": "waterfall",
+              "pos": "n. [C]",
+              "chinese": "瀑布"
+            },
+            {
+              "word": "weed",
+              "pos": "n. [C]",
+              "chinese": "雜草"
+            },
+            {
+              "word": "wheat",
+              "pos": "n. [U]",
+              "chinese": "小麥"
+            }
+          ],
+          "sentences": []
         }
       ]
     },
