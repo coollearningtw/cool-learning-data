@@ -4690,6 +4690,351 @@
             }
           ],
           "sentences": []
+        },
+        {
+          "lesson": 3,
+          "title": "Lesson 3",
+          "name": "",
+          "vocabulary": [
+            {
+              "word": "humankind",
+              "pos": "n. [U]",
+              "chinese": "人類"
+            },
+            {
+              "word": "universe",
+              "pos": "n. sing.",
+              "chinese": "宇宙"
+            },
+            {
+              "word": "universal",
+              "pos": "adj.",
+              "chinese": "普遍的"
+            },
+            {
+              "word": "fur",
+              "pos": "n. [U]",
+              "chinese": "（動物的）毛；毛皮"
+            },
+            {
+              "word": "enable",
+              "pos": "vt.",
+              "chinese": "使⋯⋯能夠⋯⋯"
+            },
+            {
+              "word": "upright",
+              "pos": "adv.",
+              "chinese": "直立地"
+            },
+            {
+              "word": "upright",
+              "pos": "adj.",
+              "chinese": "直立的"
+            },
+            {
+              "word": "generous",
+              "pos": "adj.",
+              "chinese": "慷慨的"
+            },
+            {
+              "word": "generosity",
+              "pos": "n. [U]",
+              "chinese": "慷慨"
+            },
+            {
+              "word": "conflict",
+              "pos": "n. [U]",
+              "chinese": "衝突"
+            },
+            {
+              "word": "conflict",
+              "pos": "n. [C]",
+              "chinese": "衝突"
+            },
+            {
+              "word": "conflict",
+              "pos": "vi.",
+              "chinese": "（兩種想法等）抵觸"
+            },
+            {
+              "word": "distribution",
+              "pos": "n. [U]",
+              "chinese": "分配；分布"
+            },
+            {
+              "word": "distribute",
+              "pos": "vt.",
+              "chinese": "分發；分配"
+            },
+            {
+              "word": "benefit",
+              "pos": "n. [U]",
+              "chinese": "益處"
+            },
+            {
+              "word": "benefit",
+              "pos": "n. [C]",
+              "chinese": "益處"
+            },
+            {
+              "word": "benefit",
+              "pos": "vt.",
+              "chinese": "對⋯⋯有益"
+            },
+            {
+              "word": "benefit",
+              "pos": "vi.",
+              "chinese": "得益於⋯⋯"
+            },
+            {
+              "word": "beneficial",
+              "pos": "adj.",
+              "chinese": "有利的；有幫助的"
+            },
+            {
+              "word": "slaughter",
+              "pos": "vt.",
+              "chinese": "宰殺；屠殺"
+            },
+            {
+              "word": "slaughter",
+              "pos": "n. [U]",
+              "chinese": "屠殺"
+            },
+            {
+              "word": "underneath",
+              "pos": "prep.",
+              "chinese": "在⋯⋯下"
+            },
+            {
+              "word": "freeze",
+              "pos": "vi.",
+              "chinese": "受凍；冷凍；凍結"
+            },
+            {
+              "word": "freeze",
+              "pos": "vt.",
+              "chinese": "冷凍；凍結"
+            },
+            {
+              "word": "victim",
+              "pos": "n. [C]",
+              "chinese": "受害者；罹難者；罹病者"
+            },
+            {
+              "word": "miserable",
+              "pos": "adj.",
+              "chinese": "悲慘的"
+            },
+            {
+              "word": "misery",
+              "pos": "n. [U]",
+              "chinese": "慘況"
+            },
+            {
+              "word": "misery",
+              "pos": "n. [C]",
+              "chinese": "慘況"
+            },
+            {
+              "word": "hollow",
+              "pos": "adj.",
+              "chinese": "中空的"
+            },
+            {
+              "word": "furious",
+              "pos": "adj.",
+              "chinese": "暴怒的"
+            },
+            {
+              "word": "fury",
+              "pos": "n. [U]",
+              "chinese": "狂怒"
+            },
+            {
+              "word": "theft",
+              "pos": "n. [C]",
+              "chinese": "偷竊"
+            },
+            {
+              "word": "theft",
+              "pos": "n. [U]",
+              "chinese": "偷竊罪"
+            },
+            {
+              "word": "punish",
+              "pos": "vt.",
+              "chinese": "懲罰"
+            },
+            {
+              "word": "punishment",
+              "pos": "n. [U]",
+              "chinese": "懲罰"
+            },
+            {
+              "word": "punishment",
+              "pos": "n. [C]",
+              "chinese": "懲罰"
+            },
+            {
+              "word": "banish",
+              "pos": "vt.",
+              "chinese": "放逐"
+            },
+            {
+              "word": "banishment",
+              "pos": "n. [U]",
+              "chinese": "放逐"
+            },
+            {
+              "word": "torture",
+              "pos": "vt.",
+              "chinese": "折磨"
+            },
+            {
+              "word": "torture",
+              "pos": "n. [U]",
+              "chinese": "折磨"
+            },
+            {
+              "word": "torture",
+              "pos": "n. [C]",
+              "chinese": "折磨人的事物"
+            },
+            {
+              "word": "civilization",
+              "pos": "n. [U]",
+              "chinese": "文明"
+            },
+            {
+              "word": "civilization",
+              "pos": "n. [C]",
+              "chinese": "文明"
+            },
+            {
+              "word": "run out (of...)",
+              "pos": "phr.",
+              "chinese": "用完",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "run"
+                },
+                {
+                  "type": "blank",
+                  "answer": "out"
+                },
+                {
+                  "type": "text",
+                  "content": "("
+                },
+                {
+                  "type": "blank",
+                  "answer": "of"
+                },
+                {
+                  "type": "text",
+                  "content": "...)"
+                }
+              ]
+            },
+            {
+              "word": "make up for",
+              "pos": "phr.",
+              "chinese": "彌補",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "make"
+                },
+                {
+                  "type": "blank",
+                  "answer": "up"
+                },
+                {
+                  "type": "blank",
+                  "answer": "for"
+                }
+              ]
+            },
+            {
+              "word": "as a result",
+              "pos": "phr.",
+              "chinese": "因此",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "as"
+                },
+                {
+                  "type": "blank",
+                  "answer": "a"
+                },
+                {
+                  "type": "blank",
+                  "answer": "result"
+                }
+              ]
+            },
+            {
+              "word": "fall victim to",
+              "pos": "phr.",
+              "chinese": "成為⋯⋯的受害者；受⋯⋯所害",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "fall"
+                },
+                {
+                  "type": "blank",
+                  "answer": "victim"
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                }
+              ]
+            },
+            {
+              "word": "feed on",
+              "pos": "phr.",
+              "chinese": "靠⋯⋯為食",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "feed"
+                },
+                {
+                  "type": "blank",
+                  "answer": "on"
+                }
+              ]
+            },
+            {
+              "word": "set the stage for",
+              "pos": "phr.",
+              "chinese": "為⋯⋯作好準備",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "set"
+                },
+                {
+                  "type": "blank",
+                  "answer": "the"
+                },
+                {
+                  "type": "blank",
+                  "answer": "stage"
+                },
+                {
+                  "type": "blank",
+                  "answer": "for"
+                }
+              ]
+            }
+          ],
+          "sentences": []
         }
       ]
     },
