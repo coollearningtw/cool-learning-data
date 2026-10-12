@@ -301,7 +301,14 @@
               "en": "From that day on, Jerry not only practiced the piano every day but also improved her knowledge of music theory."
             }
           ]
-        }
+        },
+        {
+          "lesson": 123,
+          "title": "一二三課文法",
+          "status": "",
+          "statusColor": "yellow",
+          "enabled": true,
+          "pairs": [
       ]
     }
   ]
