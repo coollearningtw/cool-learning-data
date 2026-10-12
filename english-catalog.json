@@ -100,47 +100,68 @@
               "name": "翻譯測驗模式",
               "children": [
                 {
+                "name": "第一冊 (Book 1)",
+                "children": [
+                {
                   "name": "Lesson 1 翻譯",
-                  "source": "龍騰 S2",
+                  "source": "龍騰 B2",
                   "lesson": 1
                 },
                 {
                   "name": "Lesson 2 翻譯",
-                  "source": "龍騰 S2",
+                  "source": "龍騰 B2",
                   "lesson": 2
                 },
                 {
                   "name": "Lesson 3 翻譯",
-                  "source": "龍騰 S2",
+                  "source": "龍騰 B2",
                   "lesson": 3
                 },
                 {
                   "name": "Lesson 4 翻譯",
-                  "source": "龍騰 S2",
+                  "source": "龍騰 B2",
                   "lesson": 4
                 },
                 {
                   "name": "Lesson 5 翻譯",
-                  "source": "龍騰 S2",
+                  "source": "龍騰 B2",
                   "lesson": 5
                 },
                 {
                   "name": "Lesson 6 翻譯",
-                  "source": "龍騰 S2",
+                  "source": "龍騰 B2",
                   "lesson": 6
                 },
                 {
                   "name": "Lesson 7 翻譯",
-                  "source": "龍騰 S2",
+                  "source": "龍騰 B2",
                   "lesson": 7
                 },
                 {
                   "name": "Lesson 8 翻譯",
-                  "source": "龍騰 S2",
+                  "source": "龍騰 B2",
                   "lesson": 8
                 }
               ]
-            }
+            },
+        {
+          "name": "第三冊 (Book 3)",
+          "children": [
+{
+                  "name": "Lesson 1 翻譯",
+                  "source": "龍騰 B3",
+                  "lesson": 1
+                },
+{
+                  "name": "Lesson 2 翻譯",
+                  "source": "龍騰 B3",
+                  "lesson": 2
+                },
+{
+                  "name": "Lesson 3 翻譯",
+                  "source": "龍騰 B3",
+                  "lesson": 3
+                }
           ]
         }
       ]
