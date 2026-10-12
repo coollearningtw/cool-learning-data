@@ -309,6 +309,10 @@
           "statusColor": "yellow",
           "enabled": true,
           "pairs": [
+             {
+             }
+          ]
+        }
       ]
     }
   ]
