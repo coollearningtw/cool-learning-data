@@ -309,8 +309,58 @@
           "statusColor": "yellow",
           "enabled": true,
           "pairs": [
-             {
-             }
+            {
+              "ch": "James 認為讓學生振奮是必要的",
+              "en": "James thought it necessary to cheer the students up."
+            },
+            {
+              "ch": "愈來愈多人認為作一個 YouTuber 為工作是一個好主意。",
+              "en": "More and more people consider it a good idea to work as a YouTuber."
+            },
+            {
+              "ch": "Debbie 似乎有興趣學習演奏不同的樂器。",
+              "en": "It seems that Debbie is interested in learning to play different kinds of musical instruments."
+            },
+            {
+              "ch": "Lily 似乎不知道怎麼做筆記。(It....)",
+              "en": "It (seems/appears) that lily doesn't know how to take notes."
+            },
+            {
+              "ch": "這個應用程式似乎有助於增加學習者的單字量。(It....)",
+              "en": "It (seems/appears) that the app helps (increase/expand) learner's vocabulary."
+            },
+            {
+              "ch": "直到調查結束，警方才能公開討論案情。",
+              "en": "The police (cannot/can't) publicly discuss the case until the investigation is concluded."
+            },
+            {
+              "ch": "Winnie 是一個直到贏得冠軍（championship）才會休息的運動員。",
+              "en": "Winnie is an athlete who will not rest until she wins the championship."
+            },
+            {
+              "ch": "我班上很多學生不僅會讀日文還會寫日文。",
+              "en": "Many students in my class can not only read Japanese but also write it."
+            },
+            {
+              "ch": "這間公司不僅捐（donate）錢還捐食物給地震災民。",
+              "en": "The (corporation/company) donated not only money but also food to the earthquake victims."
+            },
+            {
+              "ch": "Gosling 先生退休時，他將已為他的公司工作五十年。",
+              "en": "By the time Mr. Gosling retires, he will have worked for his company for fifty years."
+            },
+            {
+              "ch": "William 完成他的工作時，他的同事們都已經回家了。",
+              "en": "By the time William finished his work, all of his colleagues had gone home."
+            },
+            {
+              "ch": "據說狗的聽覺比人類的好。",
+              "en": "The hearing of dogs is said to be better than that of human beings."
+            },
+            {
+              "ch": "這家工廠製造的產品在品質上優於另一家工廠製造的。(...are better in quality...)",
+              "en": "The products made in this factory are better in quality than those made in another factory."
+            }
           ]
         }
       ]
