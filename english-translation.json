@@ -4,99 +4,54 @@
       "name": "龍騰 B2",
       "lessons": [
         {
+          "lesson": 1,
+          "title": "第一課",
+          "pairs": [
+            {
+              "ch": "我聽到她痛苦地尖叫，馬上請醫療人員前來幫忙。",
+              "en": "I heard her scream in pain and immediately asked the medical staff for help."
+            },
+            {
+              "ch": "我們注意到 Tim 把所有時間都投入於訓練，因為他一心一意想成為冠軍。",
+              "en": "We noticed Tim dedicating all his time to training since he had his heart set on becoming a champion."
+            },
+            {
+              "ch": "儘管失敗過很多次，我們團隊最終成功說服這位客戶。",
+              "en": "In spite of many failures, our team finally succeeded in convincing the client."
+            },
+            {
+              "ch": "儘管人手不足，這間醫院仍提供了立即的協助。",
+              "en": "Despite the lack of staff, the hospital still provided immediate support."
+            },
+            {
+              "ch": "儘管我妹妹面臨這些挑戰，她仍努力完成她的科學專題。(My sister...despite....)",
+              "en": "My sister struggled to finish her science project despite the challenges she faced."
+            }
+          ]
+        },
+        {
           "lesson": 2,
           "title": "第二課",
           "pairs": [
             {
               "ch": "有個實驗室的研究人員正在研究不同的調味料。(There is....)",
-              "en": "There is a lab where researchers are studying different flavorings."
-            }
-          ]
-        },
-        {
-          "lesson": 5,
-          "title": "第五課",
-          "pairs": [
-            {
-              "ch": "Julia 用豐富的想像力編輯故事，這為他帶來成功的寫作事業。(..., which....)",
-              "en": "Julia wove stories with her rich imagination, which brought her a successful writing career."
+              "en": "There is a lab where researchers are doing studying different flavorings."
             },
             {
-              "ch": "政府需要做的就是努力克服貧窮所造成的障礙。(What....)",
-              "en": "What the government needs to do is try hard to overcome the obstacles caused by poverty."
+              "ch": "我們家喜歡那間餐廳，那裡所有的食材都來自有機農場。",
+              "en": "Our family likes the restaurant where all the ingredients come from organic farms."
             },
             {
-              "ch": "那個女孩在遊行中要求人們為地球立即行動，這使她成為網路上的熱門話題(trending topic)。(..., which....)",
-              "en": "The girl requested people to spring into action for the earth during the parade, which made her a trending topic online."
+              "ch": "我永遠不會忘記那一天，當時我想出了解決那個問題的辦法。",
+              "en": "I'll never forget the day when I came up with a solution to the problem."
             },
             {
-              "ch": "那個網紅(influencer)試圖做的是持續傳達正確的資訊，這位他贏得了娛樂圈的尊重。(What....; ..., which....)",
-              "en": "What the influencer tries to do is convey correct information consistently, which has earned him respect in the entertainment industry."
-            }
-          ]
-        },
-        {
-          "lesson": 6,
-          "title": "第六課",
-          "pairs": [
-            {
-              "ch": "三個人被困在建築物裡。一個受了重傷，另一個被嚇到並哭泣，還有一個試圖保持冷靜並呼救。",
-              "en": "Three people were trapped in the building. One was seriously injured, another was scared and crying, and the other tried to stay calm and called for help."
-            }
-          ]
-        },
-        {
-          "lesson": 7,
-          "title": "第七課",
-          "pairs": [
-            {
-              "ch": "許多觀眾發現這場演講既具啟發性又富有哲學意涵。(find + O + adj.)",
-              "en": "Many audience members found the speech both inspiring and philosophical."
+              "ch": "這次的廣播通知不像上次那樣明確，所以許多乘客感到困惑。",
+              "en": "The announcement wasn't as clear as the previous one, so many passengers felt confused."
             },
             {
-              "ch": "這場疾病讓 Herry 在醫院住了六個星期。(keep + O + prep.)",
-              "en": "The illness kept Herry in the hospital for six weeks."
-            },
-            {
-              "ch": "真令人驚訝，這場活動吸引了許多名人和籌辦者。(It...)",
-              "en": "It is amazing that the event attracted many celebrities and organizers."
-            },
-            {
-              "ch": "令人印象深刻的是，他在研討會中分享了他如何發行這個系列。(It...)",
-              "en": "It is impressive that he shared how he published the series at the seminar."
-            },
-            {
-              "ch": "不幸的是這場研討會籌劃不當，使許多與會者感到困惑和沮喪。(It...)",
-              "en": "It is unfortunate that the seminar was poorly organized, leaving many participants confused and frustrated."
-            }
-          ]
-        },
-        {
-          "lesson": 8,
-          "title": "第八課",
-          "pairs": [
-            {
-              "ch": "預測到一場猛烈的暴風雨，村民們急著趕往最近的避難所。(V-ing/p.p...., S + V....)",
-              "en": "Predicting a violent storm, the villagers hurried to the nearest shelter."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "龍騰 B3",
-      "lessons": [
-        {
-          "lesson": 1,
-          "title": "第一課",
-          "pairs": [
-            {
-              "ch": "在問題被揭發之後，那名男子似乎別無選擇只能辭掉工作。(it....)",
-              "en": "After the problem was revealed, it seemed that the man had no choice but to quit his job."
-            },
-            {
-              "ch": "Peggy 似乎不再猶豫在公開場合表達自己的真實感受。(it....)",
-              "en": "It appears that Peggy no longer hesitates to express her true feelings in public."
+              "ch": "這款智慧型手機沒有前一代(the previous generation)那麼多功能，但用起來更簡單。",
+              "en": "This smartphone doesn't have as many functions as the previous generation, but it's easier to use."
             }
           ]
         },
@@ -105,12 +60,246 @@
           "title": "第三課",
           "pairs": [
             {
+              "ch": "我早就把打翻的牛奶清乾淨了，但媽媽仍勃然大怒。",
+              "en": "I had already cleaned up the spilled milk, but my Mom still flew into a rage."
+            },
+            {
+              "ch": "Cindy 早已描述過那名嫌疑犯的外貌，所以警方很快就認出他。",
+              "en": "Cindy had already described the suspect's appearance, so the police recognized him quickly."
+            },
+            {
+              "ch": "我在想他是否能夠專注在自己的科學研究上。",
+              "en": "I was wondering if he could concentrate on his scientific research."
+            },
+            {
+              "ch": "我一直想知道 Peter 是否真的是那麼固執。",
+              "en": "I've always wondered if Peter is really that stubborn."
+            },
+            {
+              "ch": "我不清楚 Lucy 是否還懊悔之前說的那些話。",
+              "en": "I don't know if Lucy still regretted what she had said."
+            }
+          ]
+        },
+        {
+          "lesson": 4,
+          "title": "第四課",
+          "status": "",
+          "statusColor": "yellow",
+          "enabled": true,
+          "pairs": [
+            {
+              "ch": "Nick 在說服校長採納這項政策時遇到很大的困難。(trouble)",
+              "en": "Nick had (great/much/a lot of) trouble persuading the principal to adopt the policy."
+            },
+            {
+              "ch": "許多人在面對壓力時要控制自己的情緒有困難。",
+              "en": "Many people have problems controlling their emotions when they are (facing stress/under pressure)."
+            },
+            {
+              "ch": "受到政府官員威脅的那名記者(journalist)決定公開發聲支持新聞自由(freedom of the press)。(N + V-ing/p.p.)",
+              "en": "The journalist threatened by government officials decided to speak out for freedom of the press."
+            },
+            {
+              "ch": "醫生認為 Susan 要從那場意外造成的傷害中康復會有困難。(difficulty; N + V-ing/p.p.)",
+              "en": "The doctor thinks that Susan will have difficulty recovering from the injury caused by the accident."
+            },
+            {
+              "ch": "一些人權團體呼籲政府廢除(abolish)禁止女性接受教育的政策。(N + V-ing/p.p.)",
+              "en": "Some human rights groups called for the government to abolish the policy forbidding women from receiving education."
+            }
+          ]
+        },
+        {
+          "lesson": 5,
+          "title": "第五課",
+          "status": "",
+          "statusColor": "yellow",
+          "enabled": true,
+          "pairs": [
+            {
+              "ch": "Frank 唯一想做的就是實現他成為一位知名藝術家的夢想。(All....)",
+              "en": "All [that] Frank wants to do is (fulfill/achieve/realize) his dream of becoming a famous artist."
+            },
+            {
+              "ch": "Julia 用豐富的想像力編輯故事，這為他帶來成功的寫作事業。(..., which....)",
+              "en": "Julia wove stories with her rich imagination, which brougth her a successful writing career."
+            },
+            {
+              "ch": "政府需要做的就是努力克服貧窮所造成的障礙。(What....)",
+              "en": "What the government needs to do is try hard overcome the obstacle (which/that are) caused by poverty."
+            },
+            {
+              "ch": "那個女孩在遊行中要求人們為地球立即行動，這使她成為網路上的熱門話題(trending topic)。(..., which....)",
+              "en": "The girl requested people to spring into action for the earth durig the parade, which made a trending topic online."
+            },
+            {
+              "ch": "那個網紅(influencer)試圖做的是持續傳達正確的資訊，這位他贏得了娛樂圈的尊重。(What....; ..., which....)",
+              "en": "What the influencer (tries/tried) to do (is/was) convey correct information consistently, which [has] earned him respect in the enterteinment industry."
+            }
+          ]
+        },
+        {
+          "lesson": 6,
+          "title": "第六課",
+          "status": "",
+          "statusColor": "yellow",
+          "enabled": true,
+          "pairs": [
+            {
+              "ch": "典禮即將來臨，大家既緊張又興奮。(With + O + OC....)",
+              "en": "With the ceremony approaching, everyone felt [both] nervous and excited."
+            },
+            {
+              "ch": "人們正在他身邊小聲說話，Mark 覺得很難專注。(With + O + OC....)",
+              "en": "With people whispering around him, Mark found it hard to concentrate."
+            },
+            {
+              "ch": "David 慢慢走回家，心中充滿對那個事件的擔憂。(..., with + O + OC....)",
+              "en": "David walked home slowly, with his mind full of worries about the incident."
+            },
+            {
+              "ch": "這個班上有些孩子持續霸凌同學，有些則裝作沒看到，而剩下其他人則嘗試保護被霸凌者。",
+              "en": "Some kids in the class kept bullying their classmates, (some/others) pretended not to see it, and the others tried to (protect/defend) the bullied."
+            },
+            {
+              "ch": "三個人被困在建築物裡。一個受了重傷，另一個被嚇到並哭泣，還有一個試圖保持冷靜並呼救。",
+              "en": "Three people were trapped in the building. One was (badly/seriously) injured, another was scared and crying, and the other treid to stay calm and called for help."
+            }
+          ]
+        },
+        {
+          "lesson": 7,
+          "title": "第七課",
+          "status": "",
+          "statusColor": "yellow",
+          "enabled": true,
+          "pairs": [
+            {
+              "ch": "許多觀眾發現這場演講既具啟發性又富有哲學意涵。(find + O + adj.)",
+              "en": ""
+            },
+            {
+              "ch": "這場疾病讓 Herry 在醫院住了六個星期。(keep + O + prep.)",
+              "en": ""
+            },
+            {
+              "ch": "真令人驚訝，這場活動吸引了許多名人和籌辦者。(It...)",
+              "en": ""
+            },
+            {
+              "ch": "令人印象深刻的是，他在研討會中分享了他如何發行這個系列。(It...)",
+              "en": ""
+            },
+            {
+              "ch": "不幸的是這場研討會籌劃不當，使許多與會者感到困惑和沮喪。(It...)",
+              "en": ""
+            }
+          ]
+        },
+        {
+          "lesson": 8,
+          "title": "第八課",
+          "status": "",
+          "statusColor": "yellow",
+          "enabled": true,
+          "pairs": [
+            {
+              "ch": "預測到一場猛烈的暴風雨，村民們急著趕往最近的避難所。(V-ing/p.p...., S + V....)",
+              "en": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "龍騰 B3",
+      "lessons": [
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "第一課",
+          "status": "",
+          "statusColor": "yellow",
+          "enabled": true,
+          "pairs": [
+            {
+              "ch": "在問題被揭發之後，那名男子似乎別無選擇只能辭掉工作。(it....)",
+              "en": "After the problem was revealed, it (seemed/appeared) that the men had no choice but to quit his job."
+            },
+            {
+              "ch": "我發現當我聽到人們大聲說話時，很難集中注意力。(S + V + O + OC)",
+              "en": "I find it difficult to concentrate when I hear people talking loudly."
+            },
+            {
+              "ch": "Peggy 似乎不再猶豫在公開場合表達自己的真實感受。(it....)",
+              "en": "I (seemed/appears) the Peggy no longer hesitates to express her true feelings in public."
+            },
+            {
+              "ch": "觀眾覺得看到這位年輕運動員克服了巨大挑戰並贏得冠軍很令人感動（moving）。(S + V + O + OC)",
+              "en": "The (audience/spectators) thought it moving to see the young athlete overcome tremendous challenges and win the championship."
+            },
+            {
+              "ch": "Tim 認為將寶貴的經驗傳授給資淺的（junior）員工是一種榮幸。(S + V + O + OC)",
+              "en": "Tim considered it an honor to pass on valuable experience to junior employees."
+            }
+          ]
+        },
+        {
+          "lesson": 2,
+          "title": "第二課",
+          "status": "",
+          "statusColor": "yellow",
+          "enabled": true,
+          "pairs": [
+            {
+              "ch": "儘管有挑戰，這個團隊直到達成他們的目標才轉向新的專案。",
+              "en": "Despite the challenges, the team did not move on to a new project until they achieved their goal."
+            },
+            {
+              "ch": "東京的人口比京都多得多，而京都以歷史城市聞名。（使用指示代名詞）",
+              "en": "The population of Tokyo is much larger than that of Kyoto, which is known as a historical city."
+            },
+            {
+              "ch": "我們會等到大家都已到達後才開始慶祝活動；如此一來，就沒有人會錯過其中的樂趣。",
+              "en": "We won't start the celebration until everyone has arrived; in this way, no one will miss out on the fun."
+            },
+            {
+              "ch": "今天提出的想法比上週討論的更創新。（使用指示代名詞）",
+              "en": "The ideas presented today were more innovative than those discussed last week."
+            },
+            {
+              "ch": "直到建築師解釋之後，這個團隊才理解設計概念。",
+              "en": "The team didn't understand the disign concept until the architect explain it."
+            }
+          ]
+        },
+        {
+          "lesson": 3,
+          "title": "第三課",
+          "status": "",
+          "statusColor": "yellow",
+          "enabled": true,
+          "pairs": [
+            {
+              "ch": "當我們到達餐廳時，大多數客人已經離開了；不過，我們還是玩得很開心。",
+              "en": "By the time we arrived at the restaurant, most of the guests had already left; however, we still  (enjoyed ourselves/had a great time."
+            },
+            {
+              "ch": "當患者被送到醫院時，他已經失血過多，無法開口說話。",
+              "en": "By the time the patient was taken to the hospital, he had already lost too much blood and (was unable to/was not able to/couldn't) (speak/talk)."
+            },
+            {
+              "ch": "探險家們在旅途中不僅耗盡了食物，還缺乏乾淨的水。",
+              "en": "The explorers not only ran out of food but also lacked clean water during their journey."
+            },
+            {
               "ch": "當冬天結束時，許多動物已成為嚴寒天氣的受害者。",
-              "en": "By the time winter ended, many animals had fallen victim to the freezing weather."
+              "en": "By the time the water ended, many animals had fallen victim to the freezing weather."
             },
             {
               "ch": "從那天起，Jerry 不僅每天練習鋼琴，還提升了她的樂理知識。",
-              "en": "From that day on, Jerry not only practiced the piano every day but also improved her knowledge of music theory."
+              "en": "From that day on,  Jenny not only practiced the piano every day but also improved her knowledge of music theory."
             }
           ]
         }
