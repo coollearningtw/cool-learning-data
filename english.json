@@ -10340,6 +10340,415 @@
           "sentences": []
         }
       ]
+    },
+    {
+      "name": "【臨時架設】",
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Unit 3",
+          "name": "",
+          "vocabulary": [
+            {
+              "word": "recipe",
+              "pos": "n.",
+              "chinese": "食譜；烹飪法"
+            },
+            {
+              "word": "pasta",
+              "pos": "n.",
+              "chinese": "義大利麵食"
+            },
+            {
+              "word": "variation",
+              "pos": "n.",
+              "chinese": "變體；變化形式"
+            },
+            {
+              "word": "combination",
+              "pos": "n.",
+              "chinese": "組合；結合"
+            },
+            {
+              "word": "ultimately",
+              "pos": "adv.",
+              "chinese": "說到底、追根究底；最終"
+            },
+            {
+              "word": "generation",
+              "pos": "n.",
+              "chinese": "世代；一代人"
+            },
+            {
+              "word": "deserve",
+              "pos": "v.",
+              "chinese": "值得、應得"
+            },
+            {
+              "word": "take sb/sth seriously",
+              "pos": "phr.",
+              "chinese": "認真看待某人或某事",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "take"
+                },
+                {
+                  "type": "text",
+                  "content": "sb/sth"
+                },
+                {
+                  "type": "blank",
+                  "answer": "seriously"
+                }
+              ]
+            },
+            {
+              "word": "stir up",
+              "pos": "phr.",
+              "chinese": "引起、挑起（爭議、情緒）",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "stir"
+                },
+                {
+                  "type": "blank",
+                  "answer": "up"
+                }
+              ]
+            }
+          ],
+          "sentences": []
+        },
+        {
+          "lesson": 2,
+          "title": "Unit 9",
+          "name": "",
+          "vocabulary": [
+            {
+              "word": "presentation",
+              "pos": "n.",
+              "chinese": "報告、簡報；授予；呈現"
+            },
+            {
+              "word": "boost",
+              "pos": "v.",
+              "chinese": "提升、增加；推動、促進"
+            },
+            {
+              "word": "accomplish",
+              "pos": "v.",
+              "chinese": "完成；達成、實現"
+            },
+            {
+              "word": "purchase",
+              "pos": "n.",
+              "chinese": "購買之物、購買行為"
+            },
+            {
+              "word": "trigger",
+              "pos": "v.",
+              "chinese": "引發、觸發"
+            },
+            {
+              "word": "psychology",
+              "pos": "n.",
+              "chinese": "心理學"
+            },
+            {
+              "word": "stability",
+              "pos": "n.",
+              "chinese": "穩定（性）"
+            },
+            {
+              "word": "participant",
+              "pos": "n.",
+              "chinese": "參加者、參與者"
+            },
+            {
+              "word": "implication",
+              "pos": "n.",
+              "chinese": "可能的影響、後果；含義、暗示"
+            },
+            {
+              "word": "motivation",
+              "pos": "n.",
+              "chinese": "動機、動力；積極性"
+            },
+            {
+              "word": "polished",
+              "pos": "adj.",
+              "chinese": "優雅的；得體的；精緻熟練的"
+            },
+            {
+              "word": "outfit",
+              "pos": "n.",
+              "chinese": "全套服裝；穿搭"
+            },
+            {
+              "word": "reinforce",
+              "pos": "v.",
+              "chinese": "強化、加強；鞏固"
+            },
+            {
+              "word": "accessible",
+              "pos": "adj.",
+              "chinese": "可取得的、可使用的；易接近的"
+            },
+            {
+              "word": "in response to N./V-ing",
+              "pos": "phr.",
+              "chinese": "作為對……的回應；為了因應",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "in"
+                },
+                {
+                  "type": "blank",
+                  "answer": "response"
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                },
+                {
+                  "type": "text",
+                  "content": "N./V-ing"
+                }
+              ]
+            },
+            {
+              "word": "simply put",
+              "pos": "phr.",
+              "chinese": "簡言之、簡單來說",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "simply"
+                },
+                {
+                  "type": "blank",
+                  "answer": "out"
+                }
+              ]
+            },
+            {
+              "word": "associate A with B",
+              "pos": "phr.",
+              "chinese": "把 A 和 B 連想在一起；認為 A 與 B 有關",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "associate"
+                },
+                {
+                  "type": "text",
+                  "content": "A"
+                },
+                {
+                  "type": "blank",
+                  "answer": "with"
+                },
+                {
+                  "type": "text",
+                  "content": "B"
+                }
+              ]
+            },
+            {
+              "word": "at hand",
+              "pos": "phr.",
+              "chinese": "手邊的；眼前的；即將到來的",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "at"
+                },
+                {
+                  "type": "blank",
+                  "answer": "hand"
+                }
+              ]
+            },
+            {
+              "word": "turn out",
+              "pos": "phr.",
+              "chinese": "結果是……；原來是……",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "turn"
+                },
+                {
+                  "type": "blank",
+                  "answer": "out"
+                }
+              ]
+            }
+          ],
+          "sentences": []
+        },
+        {
+          "lesson": 3,
+          "title": "Unit 13",
+          "name": "",
+          "vocabulary": [
+            {
+              "word": "luxurious",
+              "pos": "adj.",
+              "chinese": "奢華的、豪華的；舒適享受的"
+            },
+            {
+              "word": "innovation",
+              "pos": "n.",
+              "chinese": "新發明、新發現；創新"
+            },
+            {
+              "word": "surgery",
+              "pos": "n.",
+              "chinese": "外科手術"
+            },
+            {
+              "word": "terrifying",
+              "pos": "adj.",
+              "chinese": "令人十分害怕的、駭人的"
+            },
+            {
+              "word": "physically",
+              "pos": "adv.",
+              "chinese": "身體上、肉體上；物理上"
+            },
+            {
+              "word": "procedure",
+              "pos": "n.",
+              "chinese": "醫療處置、手術；程序"
+            },
+            {
+              "word": "agony",
+              "pos": "n.",
+              "chinese": "極度痛苦；痛苦的經歷"
+            },
+            {
+              "word": "miraculous",
+              "pos": "adj.",
+              "chinese": "不可思議的、奇蹟般的"
+            },
+            {
+              "word": "massive",
+              "pos": "adj.",
+              "chinese": "巨大的；大規模的；大量的"
+            },
+            {
+              "word": "vomit",
+              "pos": "v.",
+              "chinese": "嘔吐"
+            },
+            {
+              "word": "physician",
+              "pos": "n.",
+              "chinese": "醫生"
+            },
+            {
+              "word": "dose",
+              "pos": "n.",
+              "chinese": "一次服用量、劑量"
+            },
+            {
+              "word": "established",
+              "pos": "adj.",
+              "chinese": "已確立的、已被接受的；備受尊重的"
+            },
+            {
+              "word": "undergo",
+              "pos": "v.",
+              "chinese": "經歷、接受、遭受"
+            },
+            {
+              "word": "be grateful for N./V-ing",
+              "pos": "phr.",
+              "chinese": "對……心懷感激",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "be"
+                },
+                {
+                  "type": "blank",
+                  "answer": "grateful"
+                },
+                {
+                  "type": "blank",
+                  "answer": "for"
+                },
+                {
+                  "type": "text",
+                  "content": "N./V-ing"
+                }
+              ]
+            },
+            {
+              "word": "spare sb/sth from + N./V-ing",
+              "pos": "phr.",
+              "chinese": "某人事物免於遭受",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "spare"
+                },
+                {
+                  "type": "text",
+                  "content": "sb/sth"
+                },
+                {
+                  "type": "blank",
+                  "answer": "from"
+                },
+                {
+                  "type": "text",
+                  "content": "+ N./V-ing"
+                }
+              ]
+            },
+            {
+              "word": "experiment with sth",
+              "pos": "phr.",
+              "chinese": "嘗試……；嘗試用……做實驗",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "experiment"
+                },
+                {
+                  "type": "blank",
+                  "answer": "with"
+                },
+                {
+                  "type": "text",
+                  "content": "sth"
+                }
+              ]
+            },
+            {
+              "word": "give birth",
+              "pos": "phr.",
+              "chinese": "分娩；產下（孩子）",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "give"
+                },
+                {
+                  "type": "blank",
+                  "answer": "birth"
+                }
+              ]
+            }
+          ],
+          "sentences": []
+        }
+      ]
     }
   ]
 }
