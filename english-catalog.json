@@ -364,6 +364,23 @@
           "lesson": 7
         }
       ]
+    },    {
+      "name": "臨時架設",
+      "code": "temporary",
+      "lessons": [
+        {
+          "source": "【臨時架設】",
+          "lesson": 1
+        },
+        {
+          "source": "【臨時架設】",
+          "lesson": 2
+        },
+        {
+          "source": "【臨時架設】",
+          "lesson": 3
+        }
+      ]
     }
   ]
 }
