@@ -9614,19 +9614,239 @@
           "name": "",
           "vocabulary": [
             {
-              "word": "",
-              "pos": "",
-              "chinese": ""
+              "word": "curl",
+              "pos": "vt. vi.",
+              "chinese": "（使）捲曲"
             },
             {
-              "word": "",
-              "pos": "",
-              "chinese": ""
+              "word": "damp",
+              "pos": "adj.",
+              "chinese": "潮濕的"
             },
             {
-              "word": "",
-              "pos": "",
-              "chinese": ""
+              "word": "decrease",
+              "pos": "vt. vi.",
+              "chinese": "減少；下降"
+            },
+            {
+              "word": "deepen",
+              "pos": "vt.",
+              "chinese": "加深"
+            },
+            {
+              "word": "defeat",
+              "pos": "n. [C][U]",
+              "chinese": "失敗；挫折"
+            },
+            {
+              "word": "definite",
+              "pos": "adj.",
+              "chinese": "明確的；確定的"
+            },
+            {
+              "word": "delicate",
+              "pos": "adj.",
+              "chinese": "纖細的；易碎的"
+            },
+            {
+              "word": "dense",
+              "pos": "adj.",
+              "chinese": "密集的；稠密的"
+            },
+            {
+              "word": "dependent",
+              "pos": "adj.",
+              "chinese": "依賴的；依靠的"
+            },
+            {
+              "word": "destroy",
+              "pos": "vt.",
+              "chinese": "破壞；毀滅"
+            },
+            {
+              "word": "destruction",
+              "pos": "n. [U]",
+              "chinese": "毀壞；毀滅"
+            },
+            {
+              "word": "differ",
+              "pos": "vi.",
+              "chinese": "不同；不一樣"
+            },
+            {
+              "word": "dim",
+              "pos": "adj.",
+              "chinese": "昏暗的"
+            },
+            {
+              "word": "disadvantage",
+              "pos": "n. [C][U]",
+              "chinese": "不利；劣勢"
+            },
+            {
+              "word": "disaster",
+              "pos": "n. [C][U]",
+              "chinese": "災難"
+            },
+            {
+              "word": "disorder",
+              "pos": "n. [U]",
+              "chinese": "紊亂；混亂"
+            },
+            {
+              "word": "distinct",
+              "pos": "adj.",
+              "chinese": "清晰易辨的"
+            },
+            {
+              "word": "distinguish",
+              "pos": "vt. vi.",
+              "chinese": "分辨；區別；使有別於"
+            },
+            {
+              "word": "distinguished",
+              "pos": "adj.",
+              "chinese": "傑出的；卓越的"
+            },
+            {
+              "word": "diverse",
+              "pos": "adj.",
+              "chinese": "不同的；相異的；有差別的"
+            },
+            {
+              "word": "diversity",
+              "pos": "n. [C][U]",
+              "chinese": "差異性；不同"
+            },
+            {
+              "word": "dominant",
+              "pos": "adj.",
+              "chinese": "主要的；主導的"
+            },
+            {
+              "word": "dominate",
+              "pos": "vt.",
+              "chinese": "支配；控制"
+            },
+            {
+              "word": "doubtful",
+              "pos": "adj.",
+              "chinese": "懷疑的"
+            },
+            {
+              "word": "drain",
+              "pos": "vt. vi.",
+              "chinese": "排光"
+            },
+            {
+              "word": "drift",
+              "pos": "vi.",
+              "chinese": "（因水或空氣流動而）漂流；漂泊"
+            },
+            {
+              "word": "drip",
+              "pos": "vi.",
+              "chinese": "滴"
+            },
+            {
+              "word": "drown",
+              "pos": "vt. vi.",
+              "chinese": "（把…）淹死"
+            },
+            {
+              "word": "durable",
+              "pos": "adj.",
+              "chinese": "持久的；耐用的"
+            },
+            {
+              "word": "dusty",
+              "pos": "adj.",
+              "chinese": "布滿灰塵的"
+            },
+            {
+              "word": "elastic",
+              "pos": "adj.",
+              "chinese": "有彈性的；靈活的"
+            },
+            {
+              "word": "elementary",
+              "pos": "adj.",
+              "chinese": "基本的"
+            },
+            {
+              "word": "emergency",
+              "pos": "n. [C][U]",
+              "chinese": "緊急事件"
+            },
+            {
+              "word": "enable",
+              "pos": "vt.",
+              "chinese": "使能夠"
+            },
+            {
+              "word": "endanger",
+              "pos": "vt.",
+              "chinese": "危害"
+            },
+            {
+              "word": "enlarge",
+              "pos": "vt. vi.",
+              "chinese": "增大；放大"
+            },
+            {
+              "word": "enormous",
+              "pos": "adj.",
+              "chinese": "極大的；巨大的"
+            },
+            {
+              "word": "eventual",
+              "pos": "adj.",
+              "chinese": "結果的；最後的"
+            },
+            {
+              "word": "evident",
+              "pos": "adj.",
+              "chinese": "明顯的"
+            },
+            {
+              "word": "expansion",
+              "pos": "n. [C][U]",
+              "chinese": "擴張；膨脹"
+            },
+            {
+              "word": "explode",
+              "pos": "vi.",
+              "chinese": "爆炸"
+            },
+            {
+              "word": "expose",
+              "pos": "vt.",
+              "chinese": "（使）暴露（於）"
+            },
+            {
+              "word": "exposure",
+              "pos": "n. [U]",
+              "chinese": "暴露"
+            },
+            {
+              "word": "extend",
+              "pos": "vt. vi.",
+              "chinese": "延長；使延期"
+            },
+            {
+              "word": "extreme",
+              "pos": "adj.",
+              "chinese": "極度的；極端的"
+            },
+            {
+              "word": "fade",
+              "pos": "vt. vi.",
+              "chinese": "（使）褪色；（使）變暗；（使）變弱"
+            },
+            {
+              "word": "fairly",
+              "pos": "adv.",
+              "chinese": "相當地"
             }
           ],
           "sentences": []
