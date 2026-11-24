@@ -9855,7 +9855,238 @@
           "lesson": 113,
           "title": "11-3",
           "name": "",
-          "vocabulary": [],
+          "vocabulary": [
+            {
+              "word": "fake",
+              "pos": "adj.",
+              "chinese": "假裝的；偽造的"
+            },
+            {
+              "word": "familiar",
+              "pos": "adj.",
+              "chinese": "熟悉的"
+            },
+            {
+              "word": "fantastic",
+              "pos": "adj.",
+              "chinese": "極好的"
+            },
+            {
+              "word": "fasten",
+              "pos": "vt.",
+              "chinese": "繫牢"
+            },
+            {
+              "word": "fatal",
+              "pos": "adj.",
+              "chinese": "致命的"
+            },
+            {
+              "word": "fertile",
+              "pos": "adj.",
+              "chinese": "肥沃的"
+            },
+            {
+              "word": "fierce",
+              "pos": "adj.",
+              "chinese": "強烈的"
+            },
+            {
+              "word": "flexible",
+              "pos": "adj.",
+              "chinese": "有彈性的；可變通的"
+            },
+            {
+              "word": "float",
+              "pos": "vt. vi.",
+              "chinese": "（使）漂浮"
+            },
+            {
+              "word": "fold",
+              "pos": "vt.",
+              "chinese": "摺疊"
+            },
+            {
+              "word": "fragile",
+              "pos": "adj.",
+              "chinese": "易損壞的；虛弱的；脆弱的；易碎的"
+            },
+            {
+              "word": "freeze",
+              "pos": "vt. vi.",
+              "chinese": "（使）結冰；（使）冷凍"
+            },
+            {
+              "word": "functional",
+              "pos": "adj.",
+              "chinese": "正常工作的；功能性的"
+            },
+            {
+              "word": "fundamental",
+              "pos": "adj.",
+              "chinese": "基本的；根本的"
+            },
+            {
+              "word": "genuin",
+              "pos": "adj.",
+              "chinese": "純正的；真正的"
+            },
+            {
+              "word": "gigantic",
+              "pos": "adj.",
+              "chinese": "巨人般的；巨大的"
+            },
+            {
+              "word": "glorious",
+              "pos": "adj.",
+              "chinese": "光榮的；輝煌的"
+            },
+            {
+              "word": "glow",
+              "pos": "vi.",
+              "chinese": "發亮；發熱"
+            },
+            {
+              "word": "grave",
+              "pos": "adj.",
+              "chinese": "嚴重的；重大的"
+            },
+            {
+              "word": "greasy",
+              "pos": "adj.",
+              "chinese": "油膩的"
+            },
+            {
+              "word": "halt",
+              "pos": "vt. vi.",
+              "chinese": "（使）停止"
+            },
+            {
+              "word": "handy",
+              "pos": "adj.",
+              "chinese": "方便的；簡便的"
+            },
+            {
+              "word": "hardship",
+              "pos": "n. [C][U]",
+              "chinese": "困苦；艱難"
+            },
+            {
+              "word": "haste",
+              "pos": "n. [U]",
+              "chinese": "匆忙；倉促"
+            },
+            {
+              "word": "hasten",
+              "pos": "vt. vi.",
+              "chinese": "加速"
+            },
+            {
+              "word": "hasty",
+              "pos": "adj.",
+              "chinese": "匆忙的"
+            },
+            {
+              "word": "hesitate",
+              "pos": "vi.",
+              "chinese": "猶豫；遲疑"
+            },
+            {
+              "word": "hollow",
+              "pos": "adj.",
+              "chinese": "空的；中空的"
+            },
+            {
+              "word": "humidity",
+              "pos": "n. [U]",
+              "chinese": "溼氣"
+            },
+            {
+              "word": "icy",
+              "pos": "adj.",
+              "chinese": "冰冷的；冰凍的"
+            },
+            {
+              "word": "identical",
+              "pos": "adj.",
+              "chinese": "完全相同的"
+            },
+            {
+              "word": "identification",
+              "pos": "n. [U]",
+              "chinese": "辨認；確認"
+            },
+            {
+              "word": "idle",
+              "pos": "adj.",
+              "chinese": "閒散的；閒置的"
+            },
+            {
+              "word": "imaginary",
+              "pos": "adj.",
+              "chinese": "虛構的；想像的"
+            },
+            {
+              "word": "incident",
+              "pos": "n. [C]",
+              "chinese": "（偶發）事件"
+            },
+            {
+              "word": "incredible",
+              "pos": "adj.",
+              "chinese": "難以置信的"
+            },
+            {
+              "word": "inferior",
+              "pos": "adj.",
+              "chinese": "下級的；次等的"
+            },
+            {
+              "word": "intense",
+              "pos": "adj.",
+              "chinese": "強烈的；激烈的"
+            },
+            {
+              "word": "intensity",
+              "pos": "n. [U]",
+              "chinese": "強度"
+            },
+            {
+              "word": "intensive",
+              "pos": "adj.",
+              "chinese": "集中的；密集的"
+            },
+            {
+              "word": "intermediate",
+              "pos": "adj.",
+              "chinese": "中等程度的；中極的"
+            },
+            {
+              "word": "isolate",
+              "pos": "vt.",
+              "chinese": "孤立"
+            },
+            {
+              "word": "isolation",
+              "pos": "n. [U]",
+              "chinese": "孤立；隔離"
+            },
+            {
+              "word": "keen",
+              "pos": "adj.",
+              "chinese": "激烈的；強烈的"
+            },
+            {
+              "word": "lag",
+              "pos": "vi.",
+              "chinese": "落後"
+            },
+            {
+              "word": "largely",
+              "pos": "adv.",
+              "chinese": "大部分；主要地"
+            }
+          ],
           "sentences": []
         }
       ]
