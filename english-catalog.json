@@ -272,6 +272,21 @@
           "name": "Chapter 8-3",
           "source": "字彙字識+ L3&4",
           "lesson": 83
+        },
+        {
+          "name": "Chapter 11-1",
+          "source": "字彙字識+ L3&4",
+          "lesson": 111
+        },
+        {
+          "name": "Chapter 11-2",
+          "source": "字彙字識+ L3&4",
+          "lesson": 112
+        },
+        {
+          "name": "Chapter 11-3",
+          "source": "字彙字識+ L3&4",
+          "lesson": 113
         }
       ]
     }
@@ -364,7 +379,8 @@
           "lesson": 7
         }
       ]
-    },    {
+    },
+    {
       "name": "臨時架設",
       "code": "temporary",
       "lessons": [
