@@ -5038,9 +5038,446 @@
         },
         {
           "lesson": 4,
-          "title": "New Lesson",
+          "title": "Lesson 4",
           "name": "",
           "vocabulary": [],
+          "sentences": []
+        },
+        {
+          "lesson": 5,
+          "title": "Lesson 5",
+          "name": "",
+          "vocabulary": [],
+          "sentences": []
+        },
+        {
+          "lesson": 6,
+          "title": "Lesson 6",
+          "name": "",
+          "vocabulary": [
+            {
+              "word": "slope",
+              "pos": "n. [C]",
+              "chinese": "斜坡；坡地"
+            },
+            {
+              "word": "tumble",
+              "pos": "vi.",
+              "chinese": "滾落"
+            },
+            {
+              "word": "bruised",
+              "pos": "adj.",
+              "chinese": "瘀傷的；碰傷的"
+            },
+            {
+              "word": "bruise",
+              "pos": "vt.",
+              "chinese": "使出現瘀傷；撞傷"
+            },
+            {
+              "word": "bruise",
+              "pos": "n. [C]",
+              "chinese": "瘀傷；碰傷"
+            },
+            {
+              "word": "superior",
+              "pos": "adj.",
+              "chinese": "優於；更好的"
+            },
+            {
+              "word": "superior",
+              "pos": "n. [C]",
+              "chinese": "上司；上級"
+            },
+            {
+              "word": "superiority",
+              "pos": "n. [U]",
+              "chinese": "優越（性）；優勢"
+            },
+            {
+              "word": "intimately",
+              "pos": "adv.",
+              "chinese": "了如指掌地；密切地"
+            },
+            {
+              "word": "intimate",
+              "pos": "adj.",
+              "chinese": "密切的；親密的"
+            },
+            {
+              "word": "intimacy",
+              "pos": "n. [U]",
+              "chinese": "密切；親密"
+            },
+            {
+              "word": "skillfully",
+              "pos": "adv.",
+              "chinese": "熟練地"
+            },
+            {
+              "word": "skillful",
+              "pos": "adj.",
+              "chinese": "熟練的"
+            },
+            {
+              "word": "crop",
+              "pos": "n. [C]",
+              "chinese": "作物；莊稼"
+            },
+            {
+              "word": "path",
+              "pos": "n. [C]",
+              "chinese": "小路；小徑"
+            },
+            {
+              "word": "path",
+              "pos": "n. [C]",
+              "chinese": "（達到某個結果的）途徑"
+            },
+            {
+              "word": "navigate",
+              "pos": "vi.",
+              "chinese": "（人）行走、確認方向；（船隻、車輛或飛機等）航行"
+            },
+            {
+              "word": "navigation",
+              "pos": "n. [U]",
+              "chinese": " 航行；導航"
+            },
+            {
+              "word": "outsider",
+              "pos": "n. [C]",
+              "chinese": "外人；外來者"
+            },
+            {
+              "word": "adapt",
+              "pos": "vi. vt.",
+              "chinese": "（使）適應；（使）適合"
+            },
+            {
+              "word": "adapt",
+              "pos": "vt.",
+              "chinese": "改編；改寫"
+            },
+            {
+              "word": "adaptation",
+              "pos": "n. [U]",
+              "chinese": "適應；改編"
+            },
+            {
+              "word": "cling",
+              "pos": "vi.",
+              "chinese": "抓緊；緊握"
+            },
+            {
+              "word": "twinkle",
+              "pos": "vi.",
+              "chinese": "閃耀；閃爍"
+            },
+            {
+              "word": "twinkle",
+              "pos": "n. sing.",
+              "chinese": "閃耀；閃亮"
+            },
+            {
+              "word": "pity",
+              "pos": "vt.",
+              "chinese": "憐憫；同情"
+            },
+            {
+              "word": "pity",
+              "pos": "n. [U]",
+              "chinese": " 憐憫；同情"
+            },
+            {
+              "word": "awe",
+              "pos": "n. [U]",
+              "chinese": "敬畏"
+            },
+            {
+              "word": "smoothness",
+              "pos": "n. [U]",
+              "chinese": "平滑；細緻"
+            },
+            {
+              "word": "smooth",
+              "pos": "adj.",
+              "chinese": "平滑的；平整的"
+            },
+            {
+              "word": "opposition",
+              "pos": "n. [U]",
+              "chinese": "反對；反抗"
+            },
+            {
+              "word": "oppose",
+              "pos": "vt.",
+              "chinese": "反對；抵制"
+            },
+            {
+              "word": "peculiar",
+              "pos": "adj.",
+              "chinese": "奇怪的；不尋常的"
+            },
+            {
+              "word": "confront",
+              "pos": "vt.",
+              "chinese": "面臨；面對；克服；解決"
+            },
+            {
+              "word": "confrontation",
+              "pos": "n. [C][U]",
+              "chinese": "衝突；對抗"
+            },
+            {
+              "word": "dilemma",
+              "pos": "n. [C]",
+              "chinese": "進退兩難的困境"
+            },
+            {
+              "word": "nevertheless",
+              "pos": "adv.",
+              "chinese": "儘管如此；然而"
+            },
+            {
+              "word": "gaze",
+              "pos": "vi.",
+              "chinese": "凝視；注視"
+            },
+            {
+              "word": "gaze",
+              "pos": "n. sing.",
+              "chinese": "凝視；注視"
+            },
+            {
+              "word": "envision",
+              "pos": "vt.",
+              "chinese": "想像；嚮往"
+            },
+            {
+              "word": "flee",
+              "pos": "vt.",
+              "chinese": "逃離；逃跑"
+            },
+            {
+              "word": "set off",
+              "pos": "phr.",
+              "chinese": "出發；啟程",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "set"
+                },
+                {
+                  "type": "blank",
+                  "answer": "off"
+                }
+              ]
+            },
+            {
+              "word": "come upon",
+              "pos": "phr.",
+              "chinese": "偶然遇到；偶然發現",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "come"
+                },
+                {
+                  "type": "blank",
+                  "answer": "upon"
+                }
+              ]
+            },
+            {
+              "word": "care for",
+              "pos": "phr.",
+              "chinese": "照顧；照料",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "care"
+                },
+                {
+                  "type": "blank",
+                  "answer": "for"
+                }
+              ]
+            },
+            {
+              "word": "cling to",
+              "pos": "phr.",
+              "chinese": "堅持；堅信",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "cling"
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                }
+              ]
+            },
+            {
+              "word": "lay eyes on",
+              "pos": "phr.",
+              "chinese": "看見；注意到",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "lay"
+                },
+                {
+                  "type": "blank",
+                  "answer": "eyes"
+                },
+                {
+                  "type": "blank",
+                  "answer": "on"
+                }
+              ]
+            },
+            {
+              "word": "worst of all",
+              "pos": "phr.",
+              "chinese": "最糟的是",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "worst"
+                },
+                {
+                  "type": "blank",
+                  "answer": "of"
+                },
+                {
+                  "type": "blank",
+                  "answer": "all"
+                }
+              ]
+            },
+            {
+              "word": "in return (for)",
+              "pos": "phr.",
+              "chinese": "作為（對……的）回報、交換",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "in"
+                },
+                {
+                  "type": "blank",
+                  "answer": "return"
+                },
+                {
+                  "type": "text",
+                  "content": "("
+                },
+                {
+                  "type": "blank",
+                  "answer": "for"
+                },
+                {
+                  "type": "text",
+                  "content": ")"
+                }
+              ]
+            },
+            {
+              "word": "for somebody's sake",
+              "pos": "phr.",
+              "chinese": "為了某人；看在某人份上(3 words)",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "for"
+                },
+                {
+                  "type": "text",
+                  "content": "somebody's"
+                },
+                {
+                  "type": "blank",
+                  "answer": "sake"
+                }
+              ]
+            },
+            {
+              "word": "for the sake of somebody",
+              "pos": "phr.",
+              "chinese": "為了某人；看在某人份上(5 words)",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "for"
+                },
+                {
+                  "type": "blank",
+                  "answer": "the"
+                },
+                {
+                  "type": "blank",
+                  "answer": "sake"
+                },
+                {
+                  "type": "blank",
+                  "answer": "of"
+                },
+                {
+                  "type": "text",
+                  "content": "somebody"
+                }
+              ]
+            },
+            {
+              "word": "for something's sake",
+              "pos": "phr.",
+              "chinese": "為了某事物；因某事物的緣故(3 words)",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "for"
+                },
+                {
+                  "type": "text",
+                  "content": "something's"
+                },
+                {
+                  "type": "blank",
+                  "answer": "sake"
+                }
+              ]
+            },
+            {
+              "word": "for the sake of something",
+              "pos": "phr.",
+              "chinese": "為了某事物；因某事物的緣故(5 words)",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "for"
+                },
+                {
+                  "type": "blank",
+                  "answer": "the"
+                },
+                {
+                  "type": "blank",
+                  "answer": "sake"
+                },
+                {
+                  "type": "blank",
+                  "answer": "of"
+                },
+                {
+                  "type": "text",
+                  "content": "something"
+                }
+              ]
+            }
+          ],
           "sentences": []
         }
       ]
