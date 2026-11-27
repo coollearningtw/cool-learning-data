@@ -5040,14 +5040,619 @@
           "lesson": 4,
           "title": "Lesson 4",
           "name": "",
-          "vocabulary": [],
+          "vocabulary": [
+            {
+              "word": "joyous",
+              "pos": "adj.",
+              "chinese": "令人愉快的"
+            },
+            {
+              "word": "accompany",
+              "pos": "vt.",
+              "chinese": "陪伴"
+            },
+            {
+              "word": "essential",
+              "pos": "adj.",
+              "chinese": "本質的；基本的；必要的；極其重要的"
+            },
+            {
+              "word": "concept",
+              "pos": "n. [C]",
+              "chinese": "概念"
+            },
+            {
+              "word": "mourn",
+              "pos": "vt. vi.",
+              "chinese": "哀悼"
+            },
+            {
+              "word": "mournful",
+              "pos": "adj.",
+              "chinese": "悲痛的"
+            },
+            {
+              "word": "sorrow",
+              "pos": "n. [U]",
+              "chinese": "悲傷"
+            },
+            {
+              "word": "sorrowful",
+              "pos": "adj.",
+              "chinese": "悲傷的"
+            },
+            {
+              "word": "occasion",
+              "pos": "n. [C]",
+              "chinese": "場合"
+            },
+            {
+              "word": "occasional",
+              "pos": "adj.",
+              "chinese": "偶爾的"
+            },
+            {
+              "word": "reunion",
+              "pos": "n. [C]",
+              "chinese": "重逢；團聚"
+            },
+            {
+              "word": "reunite",
+              "pos": "vt. usually passive",
+              "chinese": "重逢；重聚"
+            },
+            {
+              "word": "anticipate",
+              "pos": "vt.",
+              "chinese": "期盼"
+            },
+            {
+              "word": "anticipation",
+              "pos": "n. [U]",
+              "chinese": "預料"
+            },
+            {
+              "word": "arrival",
+              "pos": "n. [U]",
+              "chinese": "到達；到來"
+            },
+            {
+              "word": "decorate",
+              "pos": "vt.",
+              "chinese": "裝飾"
+            },
+            {
+              "word": "decoration",
+              "pos": "n. [C]",
+              "chinese": "裝飾（品）"
+            },
+            {
+              "word": "preference",
+              "pos": "n. sing.",
+              "chinese": "偏愛"
+            },
+            {
+              "word": "prefer",
+              "pos": "vt.",
+              "chinese": "偏愛"
+            },
+            {
+              "word": "reception",
+              "pos": "n. sing.",
+              "chinese": "歡迎；接待"
+            },
+            {
+              "word": "receptionist",
+              "pos": "n. [C]",
+              "chinese": "接待員"
+            },
+            {
+              "word": "feast",
+              "pos": "vi.",
+              "chinese": "盡情享用"
+            },
+            {
+              "word": "feast",
+              "pos": "n. [C]",
+              "chinese": "宴會"
+            },
+            {
+              "word": "dawn",
+              "pos": "n. [U]",
+              "chinese": "黎明；破曉"
+            },
+            {
+              "word": "transform",
+              "pos": "vt.",
+              "chinese": "使改變形態"
+            },
+            {
+              "word": "transformation",
+              "pos": "n. [C]",
+              "chinese": "轉變"
+            },
+            {
+              "word": "resemble",
+              "pos": "vt.",
+              "chinese": "看起來像；像"
+            },
+            {
+              "word": "resemblance",
+              "pos": "n. [C]",
+              "chinese": "相似；相像"
+            },
+            {
+              "word": "participate",
+              "pos": "vi.",
+              "chinese": "參加"
+            },
+            {
+              "word": "participation",
+              "pos": "n. [U]",
+              "chinese": "參加；參與"
+            },
+            {
+              "word": "mock",
+              "pos": "vt.",
+              "chinese": "嘲弄；不尊重"
+            },
+            {
+              "word": "mock",
+              "pos": "adj.",
+              "chinese": "虛假的；不誠實的"
+            },
+            {
+              "word": "recognize",
+              "pos": "vt.",
+              "chinese": "承認；意識到；體認到；認出；辨識出"
+            },
+            {
+              "word": "recognition",
+              "pos": "n. [U]",
+              "chinese": "可辨識的"
+            },
+            {
+              "word": "inevitable",
+              "pos": "adj.",
+              "chinese": "不可避免的"
+            },
+            {
+              "word": "cycle",
+              "pos": "n. [C]",
+              "chinese": "循環"
+            },
+            {
+              "word": "annual",
+              "pos": "adj.",
+              "chinese": "每年的"
+            },
+            {
+              "word": "await",
+              "pos": "vt.",
+              "chinese": "等待"
+            },
+            {
+              "word": "escape",
+              "pos": "vt.",
+              "chinese": "避免"
+            },
+            {
+              "word": "escape",
+              "pos": "vi.",
+              "chinese": "逃跑；逃走"
+            },
+            {
+              "word": "escape",
+              "pos": "n. [C]",
+              "chinese": "逃跑"
+            },
+            {
+              "word": "scare...to death",
+              "pos": "phr.",
+              "chinese": "把...嚇得要命",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "scare"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                },
+                {
+                  "type": "blank",
+                  "answer": "death"
+                }
+              ]
+            },
+            {
+              "word": "make one's hair stand on end",
+              "pos": "phr.",
+              "chinese": "使人毛骨悚然",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "make"
+                },
+                {
+                  "type": "text",
+                  "content": "one's"
+                },
+                {
+                  "type": "blank",
+                  "answer": "hair"
+                },
+                {
+                  "type": "blank",
+                  "answer": "stand"
+                },
+                {
+                  "type": "blank",
+                  "answer": "on"
+                },
+                {
+                  "type": "blank",
+                  "answer": "end"
+                }
+              ]
+            },
+            {
+              "word": "in honor of",
+              "pos": "phr.",
+              "chinese": "紀念",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "in"
+                },
+                {
+                  "type": "blank",
+                  "answer": "honor"
+                },
+                {
+                  "type": "blank",
+                  "answer": "of"
+                }
+              ]
+            },
+            {
+              "word": "in advance (of...)",
+              "pos": "phr.",
+              "chinese": "提前；事先；在……之前",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "in"
+                },
+                {
+                  "type": "blank",
+                  "answer": "advance"
+                },
+                {
+                  "type": "text",
+                  "content": "("
+                },
+                {
+                  "type": "blank",
+                  "answer": "of"
+                },
+                {
+                  "type": "text",
+                  "content": "...)"
+                }
+              ]
+            },
+            {
+              "word": "die out",
+              "pos": "phr.",
+              "chinese": "逐漸消失",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "die"
+                },
+                {
+                  "type": "blank",
+                  "answer": "out"
+                }
+              ]
+            }
+          ],
           "sentences": []
         },
         {
           "lesson": 5,
           "title": "Lesson 5",
           "name": "",
-          "vocabulary": [],
+          "vocabulary": [
+            {
+              "word": "blossom",
+              "pos": "n. [C][U]",
+              "chinese": "花朵；開花"
+            },
+            {
+              "word": "blossom",
+              "pos": "vi.",
+              "chinese": "開花"
+            },
+            {
+              "word": "rustle",
+              "pos": "vi.",
+              "chinese": "沙沙作響"
+            },
+            {
+              "word": "landscape",
+              "pos": "n. [C] usually sing.",
+              "chinese": "景色；風景"
+            },
+            {
+              "word": "splendor",
+              "pos": "n. [U]",
+              "chinese": "壯麗；雄偉"
+            },
+            {
+              "word": "splendid",
+              "pos": "adj.",
+              "chinese": "壯麗的；雄偉的；非常好的"
+            },
+            {
+              "word": "previously",
+              "pos": "adv.",
+              "chinese": "先前地"
+            },
+            {
+              "word": "previous",
+              "pos": "adj.",
+              "chinese": "先前的"
+            },
+            {
+              "word": "capital",
+              "pos": "n. [C]",
+              "chinese": "首都"
+            },
+            {
+              "word": "capital",
+              "pos": "n. [U]",
+              "chinese": "資本；資金"
+            },
+            {
+              "word": "boast",
+              "pos": "vt.",
+              "chinese": "以……為傲；擁有"
+            },
+            {
+              "word": "historic",
+              "pos": "adj.",
+              "chinese": "歷史悠久的；歷史上著名的"
+            },
+            {
+              "word": "historical",
+              "pos": "adj.",
+              "chinese": "歷史的"
+            },
+            {
+              "word": "historian",
+              "pos": "n. [C]",
+              "chinese": "歷史學家"
+            },
+            {
+              "word": "entrance",
+              "pos": "n. [C]",
+              "chinese": "大門；入口"
+            },
+            {
+              "word": "magnificent",
+              "pos": "adj.",
+              "chinese": "壯麗的；雄偉的"
+            },
+            {
+              "word": "breathtaking",
+              "pos": "adj.",
+              "chinese": "驚人的；極為美麗的"
+            },
+            {
+              "word": "leisurely",
+              "pos": "adj.",
+              "chinese": "悠閒的"
+            },
+            {
+              "word": "leisure",
+              "pos": "n. [U]",
+              "chinese": "閒暇時間"
+            },
+            {
+              "word": "stunning",
+              "pos": "adj.",
+              "chinese": "撼動人心的；令人驚訝的"
+            },
+            {
+              "word": "stun",
+              "pos": "vt.",
+              "chinese": "使……驚訝；使……印象深刻"
+            },
+            {
+              "word": "delicate",
+              "pos": "adj.",
+              "chinese": "精美的"
+            },
+            {
+              "word": "delicacy",
+              "pos": "n. [U]",
+              "chinese": "纖細；精美"
+            },
+            {
+              "word": "delicacy",
+              "pos": "n. [C]",
+              "chinese": "佳餚；美食"
+            },
+            {
+              "word": "distinctive",
+              "pos": "adj.",
+              "chinese": "獨特的"
+            },
+            {
+              "word": "distinction",
+              "pos": "n. [C]",
+              "chinese": "差別"
+            },
+            {
+              "word": "distinct",
+              "pos": "adj.",
+              "chinese": "顯著的；明顯的"
+            },
+            {
+              "word": "elegant",
+              "pos": "adj.",
+              "chinese": "雅緻的；舉止優雅的"
+            },
+            {
+              "word": "elegancy",
+              "pos": "n. [U]",
+              "chinese": "優雅"
+            },
+            {
+              "word": "appearance",
+              "pos": "n. [C]",
+              "chinese": "外表"
+            },
+            {
+              "word": "appear",
+              "pos": "vi.",
+              "chinese": "出現"
+            },
+            {
+              "word": "literature",
+              "pos": "n. [U]",
+              "chinese": "文學；文學作品"
+            },
+            {
+              "word": "literary",
+              "pos": "adj.",
+              "chinese": "文學的；文藝的"
+            },
+            {
+              "word": "deliberate",
+              "pos": "adj.",
+              "chinese": "（動作等）小心翼翼的"
+            },
+            {
+              "word": "deliberate",
+              "pos": "adj.",
+              "chinese": "有意的；故意的"
+            },
+            {
+              "word": "destination",
+              "pos": "n. [C]",
+              "chinese": "目的地"
+            },
+            {
+              "word": "turn...into...",
+              "pos": "phr.",
+              "chinese": "（把……）變為……",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "turn"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                },
+                {
+                  "type": "blank",
+                  "answer": "into"
+                },
+                {
+                  "type": "text",
+                  "content": "..."
+                }
+              ]
+            },
+            {
+              "word": "feast one's eyes on",
+              "pos": "phr.",
+              "chinese": "使人目不暇給；盡情欣賞",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "feast"
+                },
+                {
+                  "type": "text",
+                  "content": "one's"
+                },
+                {
+                  "type": "blank",
+                  "answer": "eyes"
+                },
+                {
+                  "type": "blank",
+                  "answer": "on"
+                }
+              ]
+            },
+            {
+              "word": "face to face",
+              "pos": "phr.",
+              "chinese": "面對面",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "face"
+                },
+                {
+                  "type": "blank",
+                  "answer": "to"
+                },
+                {
+                  "type": "blank",
+                  "answer": "face"
+                }
+              ]
+            },
+            {
+              "word": "stand out",
+              "pos": "phr.",
+              "chinese": "顯眼",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "stand"
+                },
+                {
+                  "type": "blank",
+                  "answer": "out"
+                }
+              ]
+            },
+            {
+              "word": "fall in love with",
+              "pos": "phr.",
+              "chinese": "愛上",
+              "blocks": [
+                {
+                  "type": "blank",
+                  "answer": "fall"
+                },
+                {
+                  "type": "blank",
+                  "answer": "in"
+                },
+                {
+                  "type": "blank",
+                  "answer": "love"
+                },
+                {
+                  "type": "blank",
+                  "answer": "with"
+                }
+              ]
+            }
+          ],
           "sentences": []
         },
         {
